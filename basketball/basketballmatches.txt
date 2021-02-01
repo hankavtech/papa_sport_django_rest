@@ -1,0 +1,51 @@
+2020-08-27 20:00||USA||NBA - Play Offs||g_3_W6uKreLO||Utah Jazz||Denver Nuggets
+2020-08-27 22:30||USA||NBA - Play Offs||g_3_Ox6ugqq0||Toronto Raptors||Boston Celtics
+2020-08-27 23:00||USA||NBA - Play Offs||g_3_tzUGfiGk||Oklahoma City Thunder||Houston Rockets
+2020-08-27 15:00||ITALY||Lega A - Super Cup||g_3_CQ47S7Bh||Olimpia Milano||Cantu
+2020-08-27 16:35||POLAND||Energa Basket Liga||g_3_zujDYvlA||Spojnia Stargard||Lublin
+2020-08-27 09:00||THAILAND||TBL - Play Offs||g_3_00hzhMPJ||Bangkok C.||Mekong United
+2020-08-27 23:00||USA||WNBA||g_3_r1mxpj2R||Indiana Fever W||Chicago Sky W
+2020-08-27 15:00||WORLD||Club Friendly||g_3_pMHK3hWa||BKM Lucenec (Svk)||Spisska Nova Ves (Svk)
+2020-08-27 15:00||WORLD||Club Friendly||g_3_lfOB5E1m||Svitavy (Cze)||Opava (Cze)
+2020-08-27 18:00||WORLD||Club Friendly||g_3_hOxtBzvQ||Manresa (Esp)||Murcia (Esp)
+2020-08-28 01:00||USA||NBA - Play Offs||g_3_EcZAStL1||Dallas Mavericks||Los Angeles Clippers
+2020-08-28 15:35||POLAND||Energa Basket Liga||g_3_vDd4z1Jc||Slask Wroclaw||Bydgoszcz
+2020-08-28 17:20||POLAND||Energa Basket Liga||g_3_0Mc0ys4i||GTK Gliwice||Torun
+2020-08-28 00:00||USA||WNBA||g_3_ptGPoRk5||New York Liberty W||Dallas Wings W
+2020-08-28 02:00||USA||WNBA||g_3_lYYBcOlH||Seattle Storm W||Las Vegas Aces W
+2020-08-28 23:00||USA||WNBA||g_3_p2a0Va6H||Atlanta Dream W||Minnesota Lynx W
+2020-08-28 15:30||WORLD||Club Friendly||g_3_UXV6FkVB||Fribourg Olympic (Sui)||Roanne (Fra)
+2020-08-28 16:00||WORLD||Club Friendly||g_3_8OUAE9pI||Evreux (Fra)||Ada Blois (Fra)
+2020-08-28 16:00||WORLD||Club Friendly||g_3_67nPEnFs||Tizona Burgos (Esp)||Baskonia (Esp)
+2020-08-28 16:30||WORLD||Club Friendly||g_3_Cfdrd1Uj||Le Mans (Fra)||Orleans (Fra)
+2020-08-28 16:30||WORLD||Club Friendly||g_3_0KhvcsFp||Lyon-Villeurbanne (Fra)||Chalon/Saone (Fra)
+2020-08-28 17:00||WORLD||Club Friendly||g_3_EazRKp7i||Chalons-Reims (Fra)||Denain-Voltaire (Fra)
+2020-08-28 17:30||WORLD||Club Friendly||g_3_dCaqgWhL||Joventut Badalona (Esp)||Valencia (Esp)
+2020-08-28 18:00||WORLD||Club Friendly||g_3_MPwZIOy4||Aix Maurienne (Fra)||St. Chamond (Fra)
+2020-08-28 18:00||WORLD||Club Friendly||g_3_hjZUJ4Mc||Nancy (Fra)||Gembo (Bel)
+2020-08-28 18:45||WORLD||Club Friendly||g_3_0GxwIriA||JL Bourg (Fra)||Dijon (Fra)
+2020-08-28 19:00||WORLD||Club Friendly||g_3_ruSsH26G||Cholet (Fra)||Nantes (Fra)
+2020-08-29 23:00||USA||NBA - Play Offs||g_3_2T4qh3b6||Toronto Raptors||Boston Celtics
+2020-08-29 16:00||ITALY||Lega A - Super Cup||g_3_CACzv2FS||Varese||Olimpia Milano
+2020-08-29 17:00||ITALY||Lega A - Super Cup||g_3_EJb2ZLNq||Cremona||Virtus Bologna
+2020-08-29 18:00||ITALY||Lega A - Super Cup||g_3_ImDWvr0M||Cantu||Brescia
+2020-08-29 18:45||ITALY||Lega A - Super Cup||g_3_Wfg7Yuwj||Reggiana||Fortitudo Bologna
+2020-08-29 13:05||POLAND||Energa Basket Liga||g_3_dli9ZKY3||Trefl Sopot||Zielona Gora
+2020-08-29 15:30||POLAND||Energa Basket Liga||g_3_nJ9ICcRj||Szczecin||Dabrowa Gornicza
+2020-08-29 09:00||THAILAND||TBL - Play Offs||g_3_CpahTxmJ||Ban Bueng Devil Rays||Thai General
+2020-08-29 00:00||USA||WNBA||g_3_d2UjbeuS||Connecticut Sun W||Los Angeles Sparks W
+2020-08-29 02:00||USA||WNBA||g_3_pAZ3uAAr||Phoenix Mercury W||Washington Mystics W
+2020-08-29 16:00||USA||WNBA||g_3_QayUTXCM||Las Vegas Aces W||New York Liberty W
+2020-08-29 18:00||USA||WNBA||g_3_MJhmSZg8||Chicago Sky W||Seattle Storm W
+2020-08-29 20:00||USA||WNBA||g_3_UybMAh6p||Indiana Fever W||Dallas Wings W
+2020-08-29 12:30||WORLD||Club Friendly||g_3_drWoGMLM||St. Chamond (Fra)||Fribourg Olympic (Sui)
+2020-08-29 15:00||WORLD||Club Friendly||g_3_hEHHA0qp||Aix Maurienne (Fra)||Roanne (Fra)
+2020-08-29 15:00||WORLD||Club Friendly||g_3_j5VkFtyT||Sapela Basket 13 (Fra)||Saint Vallier (Fra)
+2020-08-29 16:00||WORLD||Club Friendly||g_3_lWFbbRU0||Estudiantes (Esp)||Real Madrid (Esp)
+2020-08-29 16:00||WORLD||Club Friendly||g_3_KzlE9Kbj||Levallois (Fra)||Nanterre (Fra)
+2020-08-29 16:00||WORLD||Club Friendly||g_3_bRnI8vEd||Rouen (Fra)||Ada Blois (Fra)
+2020-08-29 16:30||WORLD||Club Friendly||g_3_QDrYeY82||Barcelona (Esp)||Murcia (Esp)
+2020-08-29 17:00||WORLD||Club Friendly||g_3_CUz0XNjc||Elan Bearnais (Fra)||Dax-Gamarde (Fra)
+2020-08-29 17:00||WORLD||Club Friendly||g_3_QXv4Ws63||Saint Quentin (Fra)||Evreux (Fra)
+2020-08-29 18:00||WORLD||Club Friendly||g_3_8dU8V1L9||Le Cannet (Fra)||Antibes (Fra)
+2020-08-29 18:30||WORLD||Club Friendly||g_3_nmTCULzG||Geneva Lions (Sui)||Fos-sur-Mer (Fra)

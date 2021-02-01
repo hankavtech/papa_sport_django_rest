@@ -1,0 +1,129 @@
+2020-08-27 19:00||ATP - SINGLES||Cincinnati (USA), hard||g_2_IkC5tGzc||Djokovic N. (Srb)||Bautista-Agut R. (Esp)
+2020-08-27 15:00||WTA - SINGLES||Cincinnati (USA), hard||g_2_CbxYBDdG||Mertens E. (Bel)||Osaka N. (Jpn)
+2020-08-27 16:30||WTA - SINGLES||Cincinnati (USA), hard||g_2_AVyOaDf1||Konta J. (Gbr)||Azarenka V. (Blr)
+2020-08-27 15:00||ATP - DOUBLES||Cincinnati (USA), hard||g_2_nJFlqOMC||Carreno-Busta P./De Minaur A.||Johnson S./Krajicek A.
+2020-08-27 16:30||ATP - DOUBLES||Cincinnati (USA), hard||g_2_OAcu8ymL||Murray J./Skupski N.||Ram R./Salisbury J.
+2020-08-27 15:00||WTA - DOUBLES||Cincinnati (USA), hard||g_2_IaHC4Vlj||Hradecka L./Klepac A.||Peschke K./Schuurs D.
+2020-08-27 16:30||WTA - DOUBLES||Cincinnati (USA), hard||g_2_hIVfH8Ye||Kuzmova V./Swiatek I.||Melichar N./Xu Y.
+2020-08-27 08:30||CHALLENGER MEN - SINGLES||Prague 2 (Czech Republic), clay||g_2_l6jcSmME||Olivo R. (Arg)||Ofner S. (Aut)
+2020-08-27 08:30||CHALLENGER MEN - SINGLES||Prague 2 (Czech Republic), clay||g_2_CKHAhacA||Rosol L. (Cze)||Herbert P. (Fra)
+2020-08-27 10:30||CHALLENGER MEN - SINGLES||Prague 2 (Czech Republic), clay||g_2_QH6h4BEC||Wawrinka S. (Sui)||Van De Zandschulp B. (Ned)
+2020-08-27 12:00||CHALLENGER MEN - SINGLES||Prague 2 (Czech Republic), clay||g_2_6uERZYTG||Karatsev A. (Rus)||Gulbis E. (Lat)
+2020-08-27 08:00||CHALLENGER MEN - SINGLES||Trieste (Italy), clay||g_2_foSNMULu||Vilella M. M. (Esp)||Hanfmann Y. (Ger)
+2020-08-27 09:30||CHALLENGER MEN - SINGLES||Trieste (Italy), clay||g_2_Yon985l1||Marterer M. (Ger)||Collarini A. (Arg)
+2020-08-27 11:00||CHALLENGER MEN - SINGLES||Trieste (Italy), clay||g_2_vme6Ja4A||Kamke T. (Ger)||Broady L. (Gbr)
+2020-08-27 14:00||CHALLENGER MEN - SINGLES||Trieste (Italy), clay||g_2_QNLEiJCG||Bonadio R. (Ita)||Cid Subervi R. (Dom)
+2020-08-27 10:00||CHALLENGER MEN - DOUBLES||Prague 2 (Czech Republic), clay||g_2_b3nzZ5U1||Molchanov D./Rinderknech A.||Arends S./Pel D.
+2020-08-27 11:30||CHALLENGER MEN - DOUBLES||Prague 2 (Czech Republic), clay||g_2_Y9GSrBY6||Goransson A./Oliveira G.||Herbert P./Olivetti A.
+2020-08-27 13:30||CHALLENGER MEN - DOUBLES||Prague 2 (Czech Republic), clay||g_2_2HUEidO7||Balaji N. S./Rosol L.||Hach H./Vega Hernandez D.
+2020-08-27 13:30||CHALLENGER MEN - DOUBLES||Prague 2 (Czech Republic), clay||g_2_WSWxRdca||Coppejans K./Martos Gornes S.||Haase R./Van De Zandschulp B.
+2020-08-27 11:30||CHALLENGER MEN - DOUBLES||Trieste (Italy), clay||g_2_EBf9MZZf||Gaston H./Lamasine T.||Brkic T./Margaroli L.
+2020-08-27 13:30||CHALLENGER MEN - DOUBLES||Trieste (Italy), clay||g_2_joRNqiJ0||Collarini A./Vilella M. M.||Cobolli F./Gigante M.
+2020-08-27 13:30||CHALLENGER MEN - DOUBLES||Trieste (Italy), clay||g_2_fiR6gIge||Hanfmann Y./Marterer M.||Bortolotti M./Galovic V.
+2020-08-27 09:00||ITF MEN - SINGLES||M15 Alkmaar (Netherlands), clay||g_2_QHSBE0nt||Mochizuki S. (Jpn)||Negritu Ch. (Ger)
+2020-08-27 09:00||ITF MEN - SINGLES||M15 Alkmaar (Netherlands), clay||g_2_EwagdJWB||Verbeek S. (Ned)||Geens C. (Bel)
+2020-08-27 09:00||ITF MEN - SINGLES||M15 Alkmaar (Netherlands), clay||g_2_Ii3Y0sIt||Visker N. (Ned)||Rosenkranz M. (Ger)
+2020-08-27 11:00||ITF MEN - SINGLES||M15 Alkmaar (Netherlands), clay||g_2_ldi6gHGU||Berrettini J. (Ita)||Makk P. (Hun)
+2020-08-27 11:00||ITF MEN - SINGLES||M15 Alkmaar (Netherlands), clay||g_2_CE2x01Xn||De Jong J. (Ned)||Cazaux A. (Fra)
+2020-08-27 11:00||ITF MEN - SINGLES||M15 Alkmaar (Netherlands), clay||g_2_hUccewnI||Paz J. P. (Arg)||Hamou M. (Fra)
+2020-08-27 12:30||ITF MEN - SINGLES||M15 Alkmaar (Netherlands), clay||g_2_zgm2fc1O||March A. C. (Ecu)||Hassan B. (Ger)
+2020-08-27 15:30||ITF MEN - SINGLES||M15 Alkmaar (Netherlands), clay||g_2_Ol6taLng||Sijsling I. (Ned)||Martin Tiffon P. (Esp)
+2020-08-27 08:00||ITF MEN - SINGLES||M15 Anif (Austria), clay||g_2_8Y5pK1Vg||Forti F. (Ita)||Sanchez Izquierdo N. (Esp)
+2020-08-27 08:00||ITF MEN - SINGLES||M15 Anif (Austria), clay||g_2_riM5RqwK||Miedler L. (Aut)||Tirante T. A. (Arg)
+2020-08-27 08:00||ITF MEN - SINGLES||M15 Anif (Austria), clay||g_2_bNbcHaFC||Skatov T. (Kaz)||Dalla Valle E. (Ita)
+2020-08-27 09:30||ITF MEN - SINGLES||M15 Anif (Austria), clay||g_2_xEc1GJUI||Gerch L. (Ger)||Ehrat S. (Sui)
+2020-08-27 09:30||ITF MEN - SINGLES||M15 Anif (Austria), clay||g_2_2e5lJLp0||Heller P. (Ger)||Balzerani R. (Ita)
+2020-08-27 09:30||ITF MEN - SINGLES||M15 Anif (Austria), clay||g_2_CQQ9Q3hQ||Pichler D. (Aut)||Descotte M. F. (Arg)
+2020-08-27 11:00||ITF MEN - SINGLES||M15 Anif (Austria), clay||g_2_nTOXldtq||Shevchenko A. (Rus)||Hampel L. (Aut)
+2020-08-27 12:30||ITF MEN - SINGLES||M15 Anif (Austria), clay||g_2_0WSylGek||Ozolins K. (Lat)||Doumbia S. (Fra)
+2020-08-27 09:00||ITF MEN - SINGLES||M25 Poznan (Poland), clay||g_2_6DZFr02C||Kuzmanov D. (Bul)||Meligeni Rodrigues Alves F. (Bra)
+2020-08-27 09:00||ITF MEN - SINGLES||M25 Poznan (Poland), clay||g_2_OUsanr3m||Mayot H. (Fra)||McHugh A. (Gbr)
+2020-08-27 09:00||ITF MEN - SINGLES||M25 Poznan (Poland), clay||g_2_CjEtU0mJ||Zuk K. (Pol)||Rajski M. (Pol)
+2020-08-27 10:30||ITF MEN - SINGLES||M25 Poznan (Poland), clay||g_2_0zZJsKHI||Jecan M. A. (Rou)||Van Rijthoven T. (Ned)
+2020-08-27 10:30||ITF MEN - SINGLES||M25 Poznan (Poland), clay||g_2_Qg2OhpQJ||Kolasinski F. (Pol)||Kopriva V. (Cze)
+2020-08-27 10:30||ITF MEN - SINGLES||M25 Poznan (Poland), clay||g_2_Wfs3o2Ig||Marek W. (Pol)||Guinard M. (Fra)
+2020-08-27 12:00||ITF MEN - SINGLES||M25 Poznan (Poland), clay||g_2_vRXNtvXO||Brouwer G. (Ned)||Serdarusic N. (Cro)
+2020-08-27 12:00||ITF MEN - SINGLES||M25 Poznan (Poland), clay||g_2_vc6Si4uQ||Roca Batalla O. (Esp)||Sels J. (Ned)
+2020-08-27 09:00||ITF WOMEN - SINGLES||W15 Alkmaar (Netherlands), clay||g_2_lYtob0Jd||Droguet A. (Fra)||Helgo M. (Nor)
+2020-08-27 09:00||ITF WOMEN - SINGLES||W15 Alkmaar (Netherlands), clay||g_2_4rdKAIo5||Koevermans A. (Ned)||Cakarevic S. (Fra)
+2020-08-27 09:00||ITF WOMEN - SINGLES||W15 Alkmaar (Netherlands), clay||g_2_0AkT8dGH||Malygina E. (Est)||Akugue Noha N. (Ger)
+2020-08-27 09:00||ITF WOMEN - SINGLES||W15 Alkmaar (Netherlands), clay||g_2_YLrceb3F||Partaud M. (Fra)||Bondarenko M. (Rus)
+2020-08-27 11:00||ITF WOMEN - SINGLES||W15 Alkmaar (Netherlands), clay||g_2_xzDdiUpp||Avdeeva J. (Rus)||Ruppert L. (Ger)
+2020-08-27 11:00||ITF WOMEN - SINGLES||W15 Alkmaar (Netherlands), clay||g_2_08pkcKY2||Schunk N. M. (Ger)||Dartron E. (Fra)
+2020-08-27 11:00||ITF WOMEN - SINGLES||W15 Alkmaar (Netherlands), clay||g_2_Io0O9x1B||Visscher S. J. (Ned)||Herrmann S. (Ger)
+2020-08-27 12:30||ITF WOMEN - SINGLES||W15 Alkmaar (Netherlands), clay||g_2_ALdGBbWb||Burger C. (Ned)||Spee B. (Ned)
+2020-08-27 09:30||ITF WOMEN - SINGLES||W15 Cordenons (Italy), clay||g_2_reItmzBe||Antonitsch M. (Aut)||Cvetkovic T. (Slo)
+2020-08-27 11:30||ITF WOMEN - SINGLES||W15 Cordenons (Italy), clay||g_2_MoHpnfQ1||Caregaro M. (Ita)||Di Sarra F. (Ita)
+2020-08-27 15:00||ITF WOMEN - SINGLES||W15 Cordenons (Italy), clay||g_2_lh5SAw32||Vecic A. (Ger)||Wildgruber A. (Ger)
+2020-08-27 11:00||ITF MEN - DOUBLES||M15 Alkmaar (Netherlands), clay||g_2_WUcCCvHh||Ivanov V./Sabanin Y.||Pel S./Van Sambeek F.
+2020-08-27 12:30||ITF MEN - DOUBLES||M15 Alkmaar (Netherlands), clay||g_2_6Deobu2a||Hermans M./Verbeek S.||De Jonge D./Den Ouden G.
+2020-08-27 14:00||ITF MEN - DOUBLES||M15 Alkmaar (Netherlands), clay||g_2_48RFDK1n||Breysach M./Mochizuki S.||Strombachs R./Zukas M.
+2020-08-27 14:30||ITF MEN - DOUBLES||M15 Alkmaar (Netherlands), clay||g_2_p4fkcaH5||Dijkhuizen M./Wassermann D.||Houkes M./Pontjodikromo S.
+2020-08-27 11:00||ITF MEN - DOUBLES||M15 Anif (Austria), clay||g_2_EZCyMN0s||Miedler L./Oberleitner N.||Ionel N. D./Rune H.
+2020-08-27 12:00||ITF MEN - DOUBLES||M15 Anif (Austria), clay||g_2_Umx6gxYR||Fanselow S./Gerch L.||Balzerani R./Forti F.
+2020-08-27 12:30||ITF MEN - DOUBLES||M15 Anif (Austria), clay||g_2_tn4hIu06||Ajdukovic D./Misolic F.||Fallert F./Heller P.
+2020-08-27 13:30||ITF MEN - DOUBLES||M15 Anif (Austria), clay||g_2_db2tLsGm||Descotte M. F./Pichler D.||Dalla Valle E./Sanchez Izquierdo N.
+2020-08-27 12:00||ITF MEN - DOUBLES||M25 Poznan (Poland), clay||g_2_Aot7pMXa||Matuszewski P./Podzus M.||Zielinski J./Zuk K.
+2020-08-27 13:00||ITF MEN - DOUBLES||M25 Poznan (Poland), clay||g_2_pvqemOms||Dembek M./Wojcik Y.||McHugh A./Michalski D.
+2020-08-27 13:00||ITF MEN - DOUBLES||M25 Poznan (Poland), clay||g_2_hAVBqtm6||Gajewski K./Nazaruk D.||Lorens M./Marek W.
+2020-08-27 13:00||ITF MEN - DOUBLES||M25 Poznan (Poland), clay||g_2_GrH65N9P||Meligeni Rodrigues Alves F./Rodriguez C.||Kielan S./Kolasinski F.
+2020-08-27 12:30||ITF WOMEN - DOUBLES||W15 Alkmaar (Netherlands), clay||g_2_fVqgdvl9||Belgraver J./Droguet A.||Helgo M./Stevens L.
+2020-08-27 12:30||ITF WOMEN - DOUBLES||W15 Alkmaar (Netherlands), clay||g_2_jcw2fIIL||Haverlag I./Vangelova A.||Mareen A./Van De Peer V.
+2020-08-27 12:30||ITF WOMEN - DOUBLES||W15 Alkmaar (Netherlands), clay||g_2_69H0jl0j||Lamens S./Partaud M.||Gimbrere J./Koevermans A.
+2020-08-27 14:30||ITF WOMEN - DOUBLES||W15 Alkmaar (Netherlands), clay||g_2_p0G4k8Fd||Boehner L./Akugue Noha N.||Vedder E./Visscher S. J.
+2020-08-27 13:30||ITF WOMEN - DOUBLES||W15 Cordenons (Italy), clay||g_2_Sr4W9cI8||Moratelli A./Radisic N.||Bronzetti L./Zantedeschi A.
+2020-08-27 15:00||ITF WOMEN - DOUBLES||W15 Cordenons (Italy), clay||g_2_A7gy9HXE||Lukacs V./Siskova A.||Colmegna M./Di Sarra F.
+2020-08-27 06:30||EXHIBITION - MEN||International Premier League B (Germany), clay||g_2_Kz8G1hx2||Cubelic K. (Ger)||Mannapov A. (Ger)
+2020-08-27 07:40||EXHIBITION - MEN||International Premier League B (Germany), clay||g_2_MunaQyF2||Geerts M. (Bel)||Stanek R. (Cze)
+2020-08-27 07:45||EXHIBITION - MEN||International Premier League B (Germany), clay||g_2_0Wp3PeU8||Torebko P. (Ger)||Glinka D. (Est)
+2020-08-27 09:05||EXHIBITION - MEN||International Premier League B (Germany), clay||g_2_8dp7OFqF||Lock B. (Zim)||Palosi S. (Rou)
+2020-08-27 10:00||EXHIBITION - MEN||International Premier League B (Germany), clay||g_2_nmqBNZbL||Celikbilek A. (Tur)||Cervantes I. (Esp)
+2020-08-27 10:00||EXHIBITION - MEN||International Premier League B (Germany), clay||g_2_UBYFMgER||Folliot Q. (Fra)||Peters F. (Ger)
+2020-08-27 11:20||EXHIBITION - MEN||International Premier League B (Germany), clay||g_2_6XPsIDMr||De Greef A. (Bel)||Netuschil M. (Ger)
+2020-08-27 12:35||EXHIBITION - MEN||International Premier League B (Germany), clay||g_2_0fPoHXyk||Vatutin A. (Rus)||Ejupovic E. (Ger)
+2020-08-27 15:30||EXHIBITION - MEN||International Premier League B (Germany), clay||g_2_voOkGiie||Squire H. (Ger)||Lasowski R. (Ger)
+2020-08-27 09:30||EXHIBITION - MEN||Others matches (World)||g_2_IXdq7e2R||Karol M. (Svk)||Pokorny L. (Svk)
+2020-08-27 09:30||EXHIBITION - MEN||Others matches (World)||g_2_KtqB2FAr||Liska T. (Svk)||Fekete J. (Svk)
+2020-08-27 16:00||EXHIBITION - MEN||Others matches (World)||g_2_8noisdhI||Roelofse R. (Rsa)||Kovacevic A. (Usa)
+2020-08-27 17:00||EXHIBITION - MEN||Others matches (World)||g_2_biCgUvCT||Young D. (Usa)||Redlicki Mi. (Usa)
+2020-08-27 18:00||EXHIBITION - MEN||Others matches (World)||g_2_K0DkVKdN||King K. (Usa)||Torpegaard M. (Den)
+2020-08-27 01:55||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_f7FU8cgr||Smith J. P. (Aus)||Bouzige M. (Aus)
+2020-08-27 02:00||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_jwB9DwoR||Pearson K. (Aus)||Volonski N. (Aus)
+2020-08-27 03:00||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_YcEY7H8l||Banes M. (Aus)||Walkin B. (Aus)
+2020-08-27 04:30||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_SKDx7yOf||Crnokrak A. (Aus)||Fancutt T. J. (Aus)
+2020-08-27 05:30||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_tOHt6ew1||Ellis B. (Aus)||Sweeny D. (Aus)
+2020-08-27 07:00||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_zRdXSUz1||Cachin P. (Arg)||Parker S. (Gbr)
+2020-08-27 07:00||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_UmdySlj7||Dougaz A. (Tun)||Eysseric J. (Fra)
+2020-08-27 08:30||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_8veuR85D||Pokotilov B. (Rus)||Eysseric J. (Fra)
+2020-08-27 10:00||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_8W0GkhrE||Dougaz A. (Tun)||Chazal M. (Fra)
+2020-08-27 12:00||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_Y9UdXKOg||Arias B. (Bol)||Gomez A. (Col)
+2020-08-27 12:00||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_jouhY09m||Lomakin G. (Kaz)||El M. A. (Usa)
+2020-08-27 12:00||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_nNaKlCcK||Parker S. (Gbr)||Pokotilov B. (Rus)
+2020-08-27 13:20||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_v7X4Vbg6||Arias B. (Bol)||King E. (Usa)
+2020-08-27 13:20||EXHIBITION - MEN||UTR Pro Match Series (World), hard||g_2_ppY0Wvv0||Lomakin G. (Kaz)||Arconada J. (Usa)
+2020-08-27 06:30||EXHIBITION - WOMEN||Others matches (World)||g_2_dMIfFB61||Cadar E.-T. (Rou)||Klasen A. (Ger)
+2020-08-27 08:00||EXHIBITION - WOMEN||Others matches (World)||g_2_zDHbEVL7||Hemmerich N. (Ger)||Klasen Ch. (Ger)
+2020-08-27 08:00||EXHIBITION - WOMEN||Others matches (World)||g_2_xIwG1ZPl||Honcova M. (Svk)||Skamlova C. (Svk)
+2020-08-27 08:00||EXHIBITION - WOMEN||Others matches (World)||g_2_G8xK0gue||Zelnickova R. (Svk)||Kuzmova K. (Svk)
+2020-08-27 09:10||EXHIBITION - WOMEN||Others matches (World)||g_2_lG5twFb8||Siedliska N. (Ger)||Ghitescu A. (Rou)
+2020-08-27 09:15||EXHIBITION - WOMEN||Others matches (World)||g_2_n1OqxZDE||Ambrosio S. (Ger)||Kanev K. (Ger)
+2020-08-27 10:00||EXHIBITION - WOMEN||Others matches (World)||g_2_UPDlygTK||Arn G. (Hun)||Ponomar L. (Ger)
+2020-08-27 11:15||EXHIBITION - WOMEN||Others matches (World)||g_2_8GChzDrR||Morderger Y. (Ger)||Matviyenko L. (Ger)
+2020-08-27 11:20||EXHIBITION - WOMEN||Others matches (World)||g_2_084KVWjr||Gettwart F. (Ger)||Koelzer R. (Ger)
+2020-08-27 12:40||EXHIBITION - WOMEN||Others matches (World)||g_2_va3OUj6l||Lemoine Q. (Ned)||Vanlangendonck E. (Bel)
+2020-08-27 15:30||EXHIBITION - WOMEN||Others matches (World)||g_2_MNhTTALf||Depenau A. (Ger)||Makarova E. (Rus)
+2020-08-27 03:00||EXHIBITION - WOMEN||UTR Pro Match Series (World), hard||g_2_YThvpb8a||Bozovic A. (Aus)||Mays L. (Aus)
+2020-08-27 03:00||EXHIBITION - WOMEN||UTR Pro Match Series (World), hard||g_2_fqsmrxwC||Gadecki O. (Aus)||Kempenaers-Pocz C. (Aus)
+2020-08-27 07:30||EXHIBITION - WOMEN||UTR Pro Match Series (World), hard||g_2_tpaOmWCQ||Pribylova A. (Rus)||Le Bihan K. (Fra)
+2020-08-27 08:30||EXHIBITION - WOMEN||UTR Pro Match Series (World), hard||g_2_I5jjqjLs||Njiric S. (Cro)||Tubello A. (Fra)
+2020-08-27 10:00||EXHIBITION - WOMEN||UTR Pro Match Series (World), hard||g_2_0UuerAzl||Yerolymos M. (Fra)||Mikulskyte J. (Ltu)
+2020-08-27 12:00||EXHIBITION - WOMEN||UTR Pro Match Series (World), hard||g_2_vLvasUkf||Tubello A. (Fra)||Le Bihan K. (Fra)
+2020-08-27 14:00||EXHIBITION - WOMEN||UTR Pro Match Series (World), hard||g_2_8fq3tl50||Zakarlyuk M. (Ukr)||Mikulskyte J. (Ltu)
+2020-08-27 15:00||EXHIBITION - WOMEN||UTR Pro Match Series (World), hard||g_2_IcW8UI8C||Nefedova A. (Usa)||Kolar N. (Slo)
+2020-08-27 16:30||EXHIBITION - WOMEN||UTR Pro Match Series (World), hard||g_2_zZQDTxOI||Khazaniuk D. (Isr)||Chang S. (Usa)
+2020-08-27 18:00||EXHIBITION - WOMEN||UTR Pro Match Series (World), hard||g_2_EPPHSdwP||Kolar N. (Slo)||Kalieva E. (Usa)
+2020-08-27 19:30||EXHIBITION - WOMEN||UTR Pro Match Series (World), hard||g_2_SSDaitGP||Khazaniuk D. (Isr)||Nefedova A. (Usa)
+2020-08-28 08:00||CHALLENGER MEN - SINGLES||Prague 2 (Czech Republic), clay||g_2_G0S2fbvk||Griekspoor T. (Ned)||Haase R. (Ned)
+2020-08-28 08:00||CHALLENGER MEN - SINGLES||Prague 2 (Czech Republic), clay||g_2_lAfQr813||Popko D. (Kaz)||Rinderknech A. (Fra)
+2020-08-28 08:00||CHALLENGER MEN - SINGLES||Trieste (Italy), clay||g_2_YawCNFKl||Alcaraz C. (Esp)||Etcheverry T. M. (Arg)
+2020-08-28 08:00||CHALLENGER MEN - SINGLES||Trieste (Italy), clay||g_2_KnAcOAf0||Musetti L. (Ita)||Ficovich J. P. (Arg)

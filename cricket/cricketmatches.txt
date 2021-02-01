@@ -1,0 +1,19 @@
+2020-08-27 14:00||NORTH & CENTRAL AMERICA||Caribbean Premier League||g_13_2LYV5wNg||Saint Lucia Zouks||St. Kitts & Nevis Patriots
+2020-08-27 21:30||NORTH & CENTRAL AMERICA||Caribbean Premier League||g_13_GOxz5cx0||Guyana Amazon Warriors||Trinbago Knight Riders
+2020-08-27 13:00||UNITED KINGDOM||Vitality Blast||g_13_rwPG03zp||Essex||Middlesex
+2020-08-27 13:00||UNITED KINGDOM||Vitality Blast||g_13_6HXl5qSS||Gloucestershire||Northamptonshire
+2020-08-27 13:00||UNITED KINGDOM||Vitality Blast||g_13_Q1ELaNkj||Kent||Hampshire
+2020-08-27 17:30||UNITED KINGDOM||Vitality Blast||g_13_h867NQsc||Derbyshire||Leicestershire
+2020-08-27 17:30||UNITED KINGDOM||Vitality Blast||g_13_Wb5BMpc3||Durham||Lancashire
+2020-08-27 17:30||UNITED KINGDOM||Vitality Blast||g_13_4hDPbs5d||Glamorgan||Worcestershire
+2020-08-27 17:35||UNITED KINGDOM||Vitality Blast||g_13_ENfGL4C9||Yorkshire||Nottinghamshire
+2020-08-28 17:00||WORLD||Twenty20 International||g_13_0tzbPXKa||England||Pakistan
+2020-08-28 13:00||UNITED KINGDOM||Vitality Blast||g_13_QcbKKORF||Sussex||Surrey
+2020-08-28 17:30||UNITED KINGDOM||Vitality Blast||g_13_xx8jcqnr||Warwickshire||Somerset
+2020-08-29 14:00||NORTH & CENTRAL AMERICA||Caribbean Premier League||g_13_Aoxv4Hi6||Trinbago Knight Riders||Barbados Tridents
+2020-08-29 18:15||NORTH & CENTRAL AMERICA||Caribbean Premier League||g_13_lxyr3y7C||Jamaica Tallawahs||St. Kitts & Nevis Patriots
+2020-08-29 12:00||UNITED KINGDOM||Vitality Blast||g_13_lCBfd31l||Worcestershire||Northamptonshire
+2020-08-29 13:00||UNITED KINGDOM||Vitality Blast||g_13_MP92fsW0||Durham||Nottinghamshire
+2020-08-29 13:00||UNITED KINGDOM||Vitality Blast||g_13_rZAbeNGf||Gloucestershire||Glamorgan
+2020-08-29 13:00||UNITED KINGDOM||Vitality Blast||g_13_v147g1o7||Leicestershire||Lancashire
+2020-08-29 13:00||UNITED KINGDOM||Vitality Blast||g_13_Ii3BhL0D||Middlesex||Kent

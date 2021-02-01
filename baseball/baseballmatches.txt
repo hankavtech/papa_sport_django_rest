@@ -1,0 +1,158 @@
+2020-08-27 09:00||JAPAN||NPB||g_6_bgNT8iFt||Fukuoka S. Hawks||Orix Buffaloes
+2020-08-27 09:00||JAPAN||NPB||g_6_nyetTxec||Hanshin Tigers||Chunichi Dragons
+2020-08-27 09:00||JAPAN||NPB||g_6_rgRyWmsk||Rakuten Gold. Eagles||Chiba Lotte Marines
+2020-08-27 09:00||JAPAN||NPB||g_6_CpgBnuaG||Seibu Lions||Nippon Ham Fighters
+2020-08-27 09:00||JAPAN||NPB||g_6_Aq3re1FO||Yakult Swallows||Yomiuri Giants
+2020-08-27 09:00||JAPAN||NPB||g_6_GWhPqMy6||Yokohama BayStars||Hiroshima Carp
+2020-08-27 09:30||SOUTH KOREA||KBO||g_6_O27DiXkK||Hanwha Eagles||Samsung Lions
+2020-08-27 09:30||SOUTH KOREA||KBO||g_6_0ULIVkT0||LG Twins||KT Wiz Suwon
+2020-08-27 09:30||SOUTH KOREA||KBO||g_6_8fPQTTcD||Lotte Giants||Kiwoom Heroes
+2020-08-27 09:30||SOUTH KOREA||KBO||g_6_Aa39hDzE||NC Dinos||Doosan Bears
+2020-08-27 09:30||SOUTH KOREA||KBO||g_6_U3QMU9r7||SK Wyverns||KIA Tigers
+2020-08-27 19:15||USA||MLB||g_6_pjcUeOmj||St.Louis Cardinals||Pittsburgh Pirates
+2020-08-27 20:10||USA||MLB||g_6_CjxVkvWC||San Diego Padres||Seattle Mariners
+2020-08-27 22:10||USA||MLB||g_6_nVmeyi7a||Arizona Diamondbacks||Colorado Rockies
+2020-08-27 22:15||USA||MLB||g_6_6JQB81Xe||St.Louis Cardinals||Pittsburgh Pirates
+2020-08-27 22:37||USA||MLB||g_6_CrvJjnJU||Texas Rangers||Oakland Athletics
+2020-08-27 22:37||USA||MLB||g_6_h4rAMmVA||Toronto Blue Jays||Boston Red Sox
+2020-08-27 22:37||USA||MLB||g_6_vuTF1xDr||Washington Nationals||Philadelphia Phillies
+2020-08-27 22:40||USA||MLB||g_6_Aw6OHNf3||Tampa Bay Rays||Baltimore Orioles
+2020-08-27 23:10||USA||MLB||g_6_v1dhMNTb||Detroit Tigers||Minnesota Twins
+2020-08-27 23:10||USA||MLB||g_6_4bQBfmap||New York Mets||Miami Marlins
+2020-08-27 04:00||JAPAN||NPB Minor League||g_6_trEF875r||Fukuoka S. Hawks 2||Hanshin Tigers 2
+2020-08-27 04:00||JAPAN||NPB Minor League||g_6_O2RmDmcR||Orix Buffaloes 2||Chunichi Dragons 2
+2020-08-27 04:00||JAPAN||NPB Minor League||g_6_n7Zxelyq||Rakuten Gold. Eagles 2||Nippon Ham Fighters 2
+2020-08-27 07:00||JAPAN||NPB Minor League||g_6_Gtvsf8jk||Yomiuri Giants 2||Chiba Lotte Marines 2
+2020-08-27 08:00||JAPAN||NPB Minor League||g_6_pCSqETsL||Yokohama BayStars 2||Seibu Lions 2
+2020-08-27 17:30||NETHERLANDS||Hoofdklasse||g_6_A1xVQSmq||DSS/Kinheim||Twins
+2020-08-27 17:30||NETHERLANDS||Hoofdklasse||g_6_dfdfXUAF||Hoofddorp Pioniers||Amersfoort
+2020-08-27 17:30||NETHERLANDS||Hoofdklasse||g_6_lAxMH4TI||Mr. Cocker HCAW||L&D Amsterdam
+2020-08-27 17:30||NETHERLANDS||Hoofdklasse||g_6_hrqrmY6U||Storks||Curacao Neptunus
+2020-08-27 04:00||SOUTH KOREA||KBO Futures League||g_6_4W3LeH4A||Kiwoom Heroes 2||Doosan Bears 2
+2020-08-27 05:00||SOUTH KOREA||KBO Futures League||g_6_rN2PfyKG||KT Wiz Suwon 2||Lotte Giants 2
+2020-08-27 10:35||TAIWAN||CPBL - Second stage||g_6_vyHq5CGA||Fubon Guardians||Uni Lions
+2020-08-27 05:00||TAIWAN||CPBL Minor League||g_6_xIDtpp7b||Fubon Guardians 2||Rakuten Monkeys 2
+2020-08-28 09:00||JAPAN||NPB||g_6_0OfXXkVP||Fukuoka S. Hawks||Nippon Ham Fighters
+2020-08-28 09:00||JAPAN||NPB||g_6_rVMJPCKF||Hiroshima Carp||Hanshin Tigers
+2020-08-28 09:00||JAPAN||NPB||g_6_jHNXk9YK||Orix Buffaloes||Chiba Lotte Marines
+2020-08-28 09:00||JAPAN||NPB||g_6_rDkE8KqO||Rakuten Gold. Eagles||Seibu Lions
+2020-08-28 09:00||JAPAN||NPB||g_6_QoreYbP8||Yokohama BayStars||Yakult Swallows
+2020-08-28 09:00||JAPAN||NPB||g_6_I3saT9ws||Yomiuri Giants||Chunichi Dragons
+2020-08-28 09:30||SOUTH KOREA||KBO||g_6_Yc8lq9c0||Hanwha Eagles||Samsung Lions
+2020-08-28 09:30||SOUTH KOREA||KBO||g_6_IP6Hji5Q||LG Twins||KT Wiz Suwon
+2020-08-28 09:30||SOUTH KOREA||KBO||g_6_0pAtoVSm||Lotte Giants||Kiwoom Heroes
+2020-08-28 09:30||SOUTH KOREA||KBO||g_6_vy9ppkrf||NC Dinos||Doosan Bears
+2020-08-28 09:30||SOUTH KOREA||KBO||g_6_KYhqnBDs||SK Wyverns||KIA Tigers
+2020-08-28 00:05||USA||MLB||g_6_8UVyF3fS||San Francisco Giants||Los Angeles Dodgers
+2020-08-28 00:10||USA||MLB||g_6_G6FcvzJf||Milwaukee Brewers||Cincinnati Reds
+2020-08-28 22:37||USA||MLB||g_6_IqofwVMt||Toronto Blue Jays||Baltimore Orioles
+2020-08-28 23:05||USA||MLB||g_6_rmj10oTL||New York Yankees||New York Mets
+2020-08-28 23:05||USA||MLB||g_6_KfnrbTW2||Philadelphia Phillies||Atlanta Braves
+2020-08-28 23:10||USA||MLB||g_6_dxiPg00i||Cincinnati Reds||Chicago Cubs
+2020-08-28 23:10||USA||MLB||g_6_Spk5FCCq||Detroit Tigers||Minnesota Twins
+2020-08-28 23:10||USA||MLB||g_6_f9pKLWGr||Miami Marlins||Tampa Bay Rays
+2020-08-28 23:30||USA||MLB||g_6_ShFdyYkg||Boston Red Sox||Washington Nationals
+2020-08-28 17:00||AUSTRIA||ABL||g_6_M9RetAr9||Vienna Wanderers||Vienna Metrostars
+2020-08-28 17:00||AUSTRIA||ABL||g_6_feiTKHYL||Wr. Neustadt||Traiskirchen
+2020-08-28 17:00||CZECH REPUBLIC||Extraliga - Relegation||g_6_zs7ixfmb||Blansko||Frydek-Mistek
+2020-08-28 04:00||JAPAN||NPB Minor League||g_6_xA7O6oze||Seibu Lions 2||Yakult Swallows 2
+2020-08-28 04:30||JAPAN||NPB Minor League||g_6_G06S55k1||Chunichi Dragons 2||Hiroshima Carp 2
+2020-08-28 04:30||JAPAN||NPB Minor League||g_6_OQ5W4P47||Hanshin Tigers 2||Orix Buffaloes 2
+2020-08-28 04:30||JAPAN||NPB Minor League||g_6_foIJ7RKl||Nippon Ham Fighters 2||Yokohama BayStars 2
+2020-08-28 14:00||LITHUANIA||LBL||g_6_8fFiU8Lg||BK Vilnius||Titanai Utena
+2020-08-28 14:00||LITHUANIA||LBL||g_6_QVPnVl6m||Kaunas B||Kaunas Green
+2020-08-28 04:00||SOUTH KOREA||KBO Futures League||g_6_zJQhw9lq||Kiwoom Heroes 2||Hanwha Eagles 2
+2020-08-28 04:00||SOUTH KOREA||KBO Futures League||g_6_WpK1ymJe||KT Wiz Suwon 2||Lotte Giants 2
+2020-08-28 04:00||SOUTH KOREA||KBO Futures League||g_6_biCmajB2||LG Twins 2||SK Wyverns 2
+2020-08-28 04:00||SOUTH KOREA||KBO Futures League||g_6_lMUdxT3k||Sangmu||KIA Tigers 2
+2020-08-28 10:35||TAIWAN||CPBL - Second stage||g_6_0j5h3joN||Fubon Guardians||Chinatrust Brothers
+2020-08-28 10:35||TAIWAN||CPBL - Second stage||g_6_IRFm4WVG||Uni Lions||Rakuten Monkeys
+2020-08-28 05:00||TAIWAN||CPBL Minor League||g_6_Kt3oq4M4||Uni Lions 2||Chinatrust Brothers 2
+2020-08-29 05:00||JAPAN||NPB||g_6_0nwKOohC||Fukuoka S. Hawks||Nippon Ham Fighters
+2020-08-29 05:00||JAPAN||NPB||g_6_zNKJt5e7||Orix Buffaloes||Chiba Lotte Marines
+2020-08-29 05:00||JAPAN||NPB||g_6_GbLF7mID||Yomiuri Giants||Chunichi Dragons
+2020-08-29 09:00||JAPAN||NPB||g_6_Uk12HlSe||Hiroshima Carp||Hanshin Tigers
+2020-08-29 09:00||JAPAN||NPB||g_6_ljCuPuU4||Rakuten Gold. Eagles||Seibu Lions
+2020-08-29 09:00||JAPAN||NPB||g_6_lSipC886||Yokohama BayStars||Yakult Swallows
+2020-08-29 09:00||SOUTH KOREA||KBO||g_6_dWgq5jKJ||KIA Tigers||KT Wiz Suwon
+2020-08-29 09:00||SOUTH KOREA||KBO||g_6_zNhm4AZP||Kiwoom Heroes||Samsung Lions
+2020-08-29 09:00||SOUTH KOREA||KBO||g_6_n1ChrTC6||LG Twins||Doosan Bears
+2020-08-29 09:00||SOUTH KOREA||KBO||g_6_UP1csmSC||Lotte Giants||Hanwha Eagles
+2020-08-29 09:00||SOUTH KOREA||KBO||g_6_8G01t7sJ||NC Dinos||SK Wyverns
+2020-08-29 00:05||USA||MLB||g_6_Cr0l6RIH||Texas Rangers||Los Angeles Dodgers
+2020-08-29 00:10||USA||MLB||g_6_r15LK07i||Chicago White Sox||Kansas City Royals
+2020-08-29 00:10||USA||MLB||g_6_2BTZJN6S||Milwaukee Brewers||Pittsburgh Pirates
+2020-08-29 00:15||USA||MLB||g_6_K6YTVBc9||St.Louis Cardinals||Cleveland Indians
+2020-08-29 00:40||USA||MLB||g_6_fk0Ft5eh||Colorado Rockies||San Diego Padres
+2020-08-29 01:10||USA||MLB||g_6_IRNxnJqo||Houston Astros||Oakland Athletics
+2020-08-29 01:40||USA||MLB||g_6_hSILNnej||Arizona Diamondbacks||San Francisco Giants
+2020-08-29 01:40||USA||MLB||g_6_GbiYUuRq||Los Angeles Angels||Seattle Mariners
+2020-08-29 17:05||USA||MLB||g_6_f1QF5t51||New York Yankees||New York Mets
+2020-08-29 17:15||USA||MLB||g_6_8baZiDRQ||Philadelphia Phillies||Atlanta Braves
+2020-08-29 17:15||USA||MLB||g_6_veo2D3sr||St.Louis Cardinals||Cleveland Indians
+2020-08-29 18:10||USA||MLB||g_6_r1LqHwOD||Chicago White Sox||Kansas City Royals
+2020-08-29 20:10||USA||MLB||g_6_zoZzfFV8||Cincinnati Reds||Chicago Cubs
+2020-08-29 22:10||USA||MLB||g_6_0WlmWJEK||Detroit Tigers||Minnesota Twins
+2020-08-29 22:10||USA||MLB||g_6_hzF1ik7Q||Miami Marlins||Tampa Bay Rays
+2020-08-29 22:37||USA||MLB||g_6_08zaxkxm||Toronto Blue Jays||Baltimore Orioles
+2020-08-29 23:05||USA||MLB||g_6_jZbh5oYN||Texas Rangers||Los Angeles Dodgers
+2020-08-29 23:10||USA||MLB||g_6_hAHTGQ2t||Cincinnati Reds||Chicago Cubs
+2020-08-29 23:10||USA||MLB||g_6_fkEF7iCL||Houston Astros||Oakland Athletics
+2020-08-29 23:10||USA||MLB||g_6_Sb6zkr62||Milwaukee Brewers||Pittsburgh Pirates
+2020-08-29 23:30||USA||MLB||g_6_MTTazh5a||Boston Red Sox||Washington Nationals
+2020-08-29 11:00||AUSTRIA||ABL||g_6_MqOIRPo6||Hard Bulls||Dornbirn
+2020-08-29 12:00||AUSTRIA||ABL||g_6_4Ut3EFBk||Traiskirchen||Wr. Neustadt
+2020-08-29 13:30||AUSTRIA||ABL||g_6_tpVUONVO||Hard Bulls||Dornbirn
+2020-08-29 16:00||AUSTRIA||ABL||g_6_lKBzZRzq||Vienna Wanderers||Vienna Metrostars
+2020-08-29 12:00||CZECH REPUBLIC||Extraliga - All Stars||g_6_SfC1daH3||Czech Republic U23||Team Extraliga
+2020-08-29 14:00||CZECH REPUBLIC||Extraliga - Relegation||g_6_EX5eyE24||Frydek-Mistek||Blansko
+2020-08-29 10:00||GERMANY||Bundesliga North||g_6_jN0MGBtQ||Cologne||Hamburg
+2020-08-29 10:00||GERMANY||Bundesliga North||g_6_bTDzg8lJ||Dohren||Bonn
+2020-08-29 13:30||GERMANY||Bundesliga North||g_6_pxKxzfbo||Cologne||Hamburg
+2020-08-29 13:30||GERMANY||Bundesliga North||g_6_K0mVVsnU||Dohren||Bonn
+2020-08-29 13:30||GERMANY||Bundesliga North||g_6_CW1IHiRJ||Paderborn||Dortmund
+2020-08-29 17:00||GERMANY||Bundesliga North||g_6_t4gdR1fo||Paderborn||Dortmund
+2020-08-29 10:00||GERMANY||Bundesliga South||g_6_b1HLjwuf||Ulm||Mainz
+2020-08-29 11:00||GERMANY||Bundesliga South||g_6_jeSocu2Q||Mannheim||Haar
+2020-08-29 12:00||GERMANY||Bundesliga South||g_6_nRDHiJPm||Heidenheim||Stuttgart
+2020-08-29 13:30||GERMANY||Bundesliga South||g_6_0SSDH6qA||Ulm||Mainz
+2020-08-29 14:30||GERMANY||Bundesliga South||g_6_zLV1K8ai||Mannheim||Haar
+2020-08-29 15:30||GERMANY||Bundesliga South||g_6_MyU9InU3||Heidenheim||Stuttgart
+2020-08-29 17:30||GERMANY||Bundesliga South||g_6_h4EDhaAs||Regensburg||Tubingen
+2020-08-29 14:30||ITALY||Serie A1||g_6_CWDIRA9L||Collecchio||San Marino
+2020-08-29 14:30||ITALY||Serie A1||g_6_8pd2XrED||Godo Knights||Macerata
+2020-08-29 14:30||ITALY||Serie A1||g_6_ne9EsrfB||Parma||Fortitudo 1953
+2020-08-29 18:30||ITALY||Serie A1||g_6_82alMlXr||Collecchio||San Marino
+2020-08-29 18:30||ITALY||Serie A1||g_6_I7myWP07||Godo Knights||Macerata
+2020-08-29 19:00||ITALY||Serie A1||g_6_42IwRwJA||Parma||Fortitudo 1953
+2020-08-29 03:30||JAPAN||NPB Minor League||g_6_GOKj6Z0s||Hanshin Tigers 2||Orix Buffaloes 2
+2020-08-29 04:00||JAPAN||NPB Minor League||g_6_6kVGCyOD||Nippon Ham Fighters 2||Yokohama BayStars 2
+2020-08-29 04:00||JAPAN||NPB Minor League||g_6_2H4z4qKD||Rakuten Gold. Eagles 2||Yomiuri Giants 2
+2020-08-29 04:00||JAPAN||NPB Minor League||g_6_KhZKBewK||Seibu Lions 2||Yakult Swallows 2
+2020-08-29 04:30||JAPAN||NPB Minor League||g_6_EFYOAFhQ||Chunichi Dragons 2||Hiroshima Carp 2
+2020-08-29 08:00||LITHUANIA||LBL||g_6_2eqgxOJU||Kaunas Green||BK Vilnius
+2020-08-29 08:00||LITHUANIA||LBL||g_6_UsoovpkI||Titanai Utena||Kaunas B
+2020-08-29 12:00||NETHERLANDS||Hoofdklasse||g_6_MJ0pMb37||Amersfoort||Hoofddorp Pioniers
+2020-08-29 12:00||NETHERLANDS||Hoofdklasse||g_6_MweAfb8t||Curacao Neptunus||Storks
+2020-08-29 12:00||NETHERLANDS||Hoofdklasse||g_6_WGQwP6Ie||L&D Amsterdam||Mr. Cocker HCAW
+2020-08-29 13:00||NETHERLANDS||Hoofdklasse||g_6_SflDJQb6||Twins||DSS/Kinheim
+2020-08-29 11:00||NORWAY||Eliteserien||g_6_KdL5kkcf||Pretenders Rascals||Kristiansand Suns
+2020-08-29 14:00||NORWAY||Eliteserien||g_6_xv3F1G7n||Pretenders Rascals||Kristiansand Suns
+2020-08-29 02:00||SOUTH KOREA||KBO Futures League||g_6_K60dcUuF||LG Twins 2||SK Wyverns 2
+2020-08-29 02:00||SOUTH KOREA||KBO Futures League||g_6_xrBibAQ8||Sangmu||KIA Tigers 2
+2020-08-29 04:00||SOUTH KOREA||KBO Futures League||g_6_Wt40dleL||Kiwoom Heroes 2||Hanwha Eagles 2
+2020-08-29 04:00||SOUTH KOREA||KBO Futures League||g_6_Q334e8AR||KT Wiz Suwon 2||Lotte Giants 2
+2020-08-29 08:30||SPAIN||Division de Honor||g_6_hxbR5coa||Valencia||Sant Boi
+2020-08-29 09:30||SPAIN||Division de Honor||g_6_Q1vpgK1g||Zaragoza||Rivas
+2020-08-29 11:00||SPAIN||Division de Honor||g_6_CIxhibW5||San Inazio||Tenerife
+2020-08-29 11:30||SPAIN||Division de Honor||g_6_jNGU4H05||Valencia||Sant Boi
+2020-08-29 12:30||SPAIN||Division de Honor||g_6_4hwlhvHa||Zaragoza||Rivas
+2020-08-29 14:00||SPAIN||Division de Honor||g_6_j9ydjIoC||San Inazio||Tenerife
+2020-08-29 15:30||SPAIN||Division de Honor||g_6_YXQ0kx1I||Barcelona||Navarra
+2020-08-29 09:00||SWITZERLAND||NLA||g_6_p4QC4xvs||Wil Devils||Luzern Eagles
+2020-08-29 12:00||SWITZERLAND||NLA||g_6_OfPG3dgm||Wil Devils||Luzern Eagles
+2020-08-29 11:00||SWITZERLAND||NLA - Play Offs||g_6_0txAhsrk||Zurich Challengers||Bern Cardinals
+2020-08-29 16:00||SWITZERLAND||NLA - Play Offs||g_6_YVTMkuS7||Zurich Barracudas||Therwil Flyers
+2020-08-29 09:05||TAIWAN||CPBL - Second stage||g_6_WYeOcU8p||Fubon Guardians||Chinatrust Brothers
+2020-08-29 09:05||TAIWAN||CPBL - Second stage||g_6_Eg9d2A0T||Uni Lions||Rakuten Monkeys
+2020-08-29 05:00||TAIWAN||CPBL Minor League||g_6_bX1krOyB||Wei Chuan Dragons||Fubon Guardians 2

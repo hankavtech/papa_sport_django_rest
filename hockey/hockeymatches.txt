@@ -1,0 +1,104 @@
+2020-08-27 02:30||USA||NHL - Play Offs||g_4_xtbMj8Ks||Dallas Stars||Colorado Avalanche
+2020-08-27 23:00||USA||NHL - Play Offs||g_4_UZ8ncAsE||New York Islanders||Philadelphia Flyers
+2020-08-27 15:00||CZECH REPUBLIC||Generali Ceska Cup - Play Offs||g_4_lE836Wsf||Pardubice||Zlin
+2020-08-27 04:00||RUSSIA||Liga Pro - Short Hockey||g_4_W8UbGSm2||Tsentrovye Kulturologi||Moskovskie Kremlevtsy
+2020-08-27 05:10||RUSSIA||Liga Pro - Short Hockey||g_4_KONtuCQ2||Tsentrovye Kulturologi||Sinie Tigry
+2020-08-27 06:20||RUSSIA||Liga Pro - Short Hockey||g_4_bFMpvWu9||Moskovskie Kremlevtsy||Sinie Tigry
+2020-08-27 07:30||RUSSIA||Liga Pro - Short Hockey||g_4_tvCkwjeF||Moskovskie Kremlevtsy||Tsentrovye Kulturologi
+2020-08-27 08:40||RUSSIA||Liga Pro - Short Hockey||g_4_l4FcyUPR||Sinie Tigry||Moskovskie Kremlevtsy
+2020-08-27 09:50||RUSSIA||Liga Pro - Short Hockey||g_4_jD1PWmYr||Sinie Tigry||Moskovskie Kremlevtsy
+2020-08-27 16:50||RUSSIA||Liga Pro - Short Hockey||g_4_dtB9uzj3||Shest Trolley||Molotoboytsy
+2020-08-27 17:50||RUSSIA||Liga Pro - Short Hockey||g_4_v50Evf59||Moskovskiy Eshelon||Chetyre Ledokola
+2020-08-27 18:55||RUSSIA||Liga Pro - Short Hockey||g_4_h84IwEKF||Chetyre Ledokola||Shest Trolley
+2020-08-27 19:55||RUSSIA||Liga Pro - Short Hockey||g_4_p4SoMokr||Molotoboytsy||Moskovskiy Eshelon
+2020-08-27 21:05||RUSSIA||Liga Pro - Short Hockey||g_4_OfRkL54l||Moskovskiy Eshelon||Shest Trolley
+2020-08-27 22:05||RUSSIA||Liga Pro - Short Hockey||g_4_46rmKPJf||Chetyre Ledokola||Molotoboytsy
+2020-08-27 10:50||RUSSIA||Comet Division - Short Hockey||g_4_0EuuQfjG||Krasnye Kryliya||Ershistie Tigry
+2020-08-27 11:50||RUSSIA||Comet Division - Short Hockey||g_4_v5vqPE5M||Stalker Moscow||Ledoviy Desant
+2020-08-27 12:50||RUSSIA||Comet Division - Short Hockey||g_4_YRwmOYKS||Ershistie Tigry||Stalker Moscow
+2020-08-27 13:50||RUSSIA||Comet Division - Short Hockey||g_4_8KUEJhTq||Ledoviy Desant||Krasnye Kryliya
+2020-08-27 14:50||RUSSIA||Comet Division - Short Hockey||g_4_jqKJICrj||Ershistie Tigry||Ledoviy Desant
+2020-08-27 15:50||RUSSIA||Comet Division - Short Hockey||g_4_UZINHWcd||Stalker Moscow||Krasnye Kryliya
+2020-08-27 06:00||WORLD||Club Friendly||g_4_21EHZ4Js||Dyn. Altay (Rus)||Krasnoyarskie Rysi (Rus)
+2020-08-27 10:00||WORLD||Club Friendly||g_4_KhPoPYf0||Toros Neftekamsk (Rus)||Penza (Rus)
+2020-08-27 11:00||WORLD||Club Friendly||g_4_8z9A1Pln||Nizhny Novgorod (Rus)||Kunlun (Chn)
+2020-08-27 12:00||WORLD||Club Friendly||g_4_Ea6TkhyE||CSKA Moscow (Rus)||Podolsk (Rus)
+2020-08-27 14:00||WORLD||Club Friendly||g_4_K6vqI4Qo||Jokerit (Fin)||Dinamo Riga (Lat)
+2020-08-27 14:00||WORLD||Club Friendly||g_4_b3nSxbtg||Tappara (Fin)||Karpat (Fin)
+2020-08-27 14:30||WORLD||Club Friendly||g_4_Gr1sZA1k||Orsk (Rus)||Metallurg Novokuznetsk (Rus)
+2020-08-27 14:45||WORLD||Club Friendly||g_4_tSyXyIea||IFK Helsinki (Fin)||TPS Turku (Fin)
+2020-08-27 15:00||WORLD||Club Friendly||g_4_xUitTycR||Almetyevsk (Rus)||Molot Perm (Rus)
+2020-08-27 15:00||WORLD||Club Friendly||g_4_tS5EO4h5||AZ Havirov U20 (Cze)||Vsetin U20 (Cze)
+2020-08-27 15:00||WORLD||Club Friendly||g_4_U55q7Gdc||Bars Kazan (Rus)||Zvezda Moscow (Rus)
+2020-08-27 15:00||WORLD||Club Friendly||g_4_CAK0DJS6||Jihlava U20 (Cze)||Pardubice U20 (Cze)
+2020-08-27 15:00||WORLD||Club Friendly||g_4_GbwIsXpM||Kadan (Cze)||Sokolov (Cze)
+2020-08-27 15:00||WORLD||Club Friendly||g_4_2BB9pHUA||Karlovy Vary U20 (Cze)||Plzen U20 (Cze)
+2020-08-27 15:00||WORLD||Club Friendly||g_4_EXRPG3t6||Kolin (Cze)||Benatky (Cze)
+2020-08-27 15:00||WORLD||Club Friendly||g_4_Medqr0Ur||Prostejov (Cze)||Prerov (Cze)
+2020-08-27 15:00||WORLD||Club Friendly||g_4_2J7wqHHb||Slavia Prague U20 (Cze)||Chomutov U20 (Cze)
+2020-08-27 15:00||WORLD||Club Friendly||g_4_K0XIcfam||Trebic (Cze)||Jihlava (Cze)
+2020-08-27 15:00||WORLD||Club Friendly||g_4_OhhQIK3g||Trinec U20 (Cze)||Kometa Brno U20 (Cze)
+2020-08-27 15:00||WORLD||Club Friendly||g_4_AHSedB6j||Vsetin (Cze)||Frydek-Mistek (Cze)
+2020-08-27 15:30||WORLD||Club Friendly||g_4_l4JHTRE7||Karlovy Vary (Cze)||Slavia Prague (Cze)
+2020-08-27 15:45||WORLD||Club Friendly||g_4_ttH5jHAh||Karpat (Fin)||Ilves (Fin)
+2020-08-27 16:00||WORLD||Club Friendly||g_4_WCCUXEBb||Havlickuv Brod (Cze)||Zdar nad Sazavou (Cze)
+2020-08-27 16:00||WORLD||Club Friendly||g_4_GSlwNruj||Jablonec (Cze)||Trutnov (Cze)
+2020-08-27 16:00||WORLD||Club Friendly||g_4_QZBYWYQ4||Klatovy (Cze)||Tabor (Cze)
+2020-08-27 16:00||WORLD||Club Friendly||g_4_niNWFRXM||Mostecti Lvi (Cze)||Decin (Cze)
+2020-08-27 16:00||WORLD||Club Friendly||g_4_x6DFxbGu||Nitra (Svk)||Zvolen (Svk)
+2020-08-27 16:00||WORLD||Club Friendly||g_4_GdCJyIVo||Oskarshamn (Swe)||Leksands (Swe)
+2020-08-27 16:00||WORLD||Club Friendly||g_4_G8Kav2hS||Poprad (Svk)||Liptovsky Mikulas (Svk)
+2020-08-27 16:15||WORLD||Club Friendly||g_4_OYe3qjEs||Dyn. Moscow (Rus)||Sp. Moscow (Rus)
+2020-08-27 16:30||WORLD||Club Friendly||g_4_422Ja3Jb||Sochi (Rus)||Cherepovets (Rus)
+2020-08-27 16:45||WORLD||Club Friendly||g_4_KWF9kyQb||Tappara (Fin)||IFK Helsinki (Fin)
+2020-08-27 17:00||WORLD||Club Friendly||g_4_2Zq4At16||Frolunda (Swe)||Malmo (Swe)
+2020-08-27 17:00||WORLD||Club Friendly||g_4_AJBNzxoh||Linkopings (Swe)||Djurgardens (Swe)
+2020-08-27 17:00||WORLD||Club Friendly||g_4_fLCaebaF||Servette (Sui)||Grenoble (Fra)
+2020-08-27 17:30||WORLD||Club Friendly||g_4_pYT6n0ms||Dinamo St. Petersburg (Rus)||Khimik (Rus)
+2020-08-27 17:30||WORLD||Club Friendly||g_4_SdFDleu5||TPS Turku (Fin)||Karpat (Fin)
+2020-08-27 18:00||WORLD||Club Friendly||g_4_YBB3fIEL||Fribourg (Sui)||Fehervar AV19 (Hun)
+2020-08-27 18:15||WORLD||Club Friendly||g_4_6mEHmFfB||Tappara (Fin)||Ilves (Fin)
+2020-08-28 01:45||USA||NHL - Play Offs||g_4_6LkwmQJ6||Vancouver Canucks||Vegas Golden Knights
+2020-08-28 23:30||USA||NHL - Play Offs||g_4_K4Rezmz1||Boston Bruins||Tampa Bay Lightning
+2020-08-28 07:00||NEW ZEALAND||NZIHL||g_4_Y5bLcBUA||Southern Stampede||Canterbury Red Devils
+2020-08-28 11:00||WORLD||Club Friendly||g_4_bP1NbNY4||Cherepovets (Rus)||Nizhny Novgorod (Rus)
+2020-08-28 14:00||WORLD||Club Friendly||g_4_vDfzyxB5||Ilves (Fin)||IFK Helsinki (Fin)
+2020-08-28 14:30||WORLD||Club Friendly||g_4_zydcbgM9||Sparta Prague U20 (Cze)||Ceske Budejovice U20 (Cze)
+2020-08-28 14:45||WORLD||Club Friendly||g_4_YZgvzdQB||Karpat (Fin)||Tappara (Fin)
+2020-08-28 15:00||WORLD||Club Friendly||g_4_2sfNMrNH||AZ Havirov U20 (Cze)||Poruba U20 (Cze)
+2020-08-28 15:00||WORLD||Club Friendly||g_4_f1GG28De||Liberec U20 (Cze)||Mlada Boleslav U20 (Cze)
+2020-08-28 15:00||WORLD||Club Friendly||g_4_AqBosenB||Plzen U20 (Cze)||Chomutov U20 (Cze)
+2020-08-28 15:00||WORLD||Club Friendly||g_4_K0kCsUrf||Sp. Moscow (Rus)||Podolsk (Rus)
+2020-08-28 15:00||WORLD||Club Friendly||g_4_YJqUc4hH||Sumperk (Cze)||Vitkovice (Cze)
+2020-08-28 15:30||WORLD||Club Friendly||g_4_bki0TIGD||KeuPa (Fin)||IPK (Fin)
+2020-08-28 15:45||WORLD||Club Friendly||g_4_lC3MnZ9H||Karpat (Fin)||TPS Turku (Fin)
+2020-08-28 16:30||WORLD||Club Friendly||g_4_ENlGtlb0||Dyn. Moscow (Rus)||CSKA Moscow (Rus)
+2020-08-28 16:30||WORLD||Club Friendly||g_4_fieWd13H||SKA St. Petersburg (Rus)||Avangard Omsk (Rus)
+2020-08-28 16:45||WORLD||Club Friendly||g_4_2F7QogPN||Tappara (Fin)||TPS Turku (Fin)
+2020-08-28 17:00||WORLD||Club Friendly||g_4_4f2Zldxq||Ambri-Piotta (Sui)||Davos (Sui)
+2020-08-28 17:00||WORLD||Club Friendly||g_4_xnDCKQOD||Farjestad BK (Swe)||Orebro (Swe)
+2020-08-28 17:00||WORLD||Club Friendly||g_4_WMaPwafP||Herning Blue Fox (Den)||Frederikshavn (Den)
+2020-08-28 17:00||WORLD||Club Friendly||g_4_IJBsFFHO||Rodovre Mighty Bulls (Den)||Esbjerg (Den)
+2020-08-28 17:00||WORLD||Club Friendly||g_4_2kYRPL0g||Sodertalje (Swe)||Brynas (Swe)
+2020-08-28 17:00||WORLD||Club Friendly||g_4_vTCwGe2I||Sonderjyske Ishockey (Den)||Aalborg (Den)
+2020-08-28 17:00||WORLD||Club Friendly||g_4_nJivlGik||Thurgau (Sui)||Academy Zug (Sui)
+2020-08-28 17:00||WORLD||Club Friendly||g_4_SYA7gxUR||Zurich (Sui)||Lugano (Sui)
+2020-08-28 17:30||WORLD||Club Friendly||g_4_6FjiZI2t||Herlev (Den)||Rungsted (Den)
+2020-08-28 17:30||WORLD||Club Friendly||g_4_dx7UpDvU||Karpat (Fin)||IFK Helsinki (Fin)
+2020-08-28 17:45||WORLD||Club Friendly||g_4_Q9jrmz7e||Visp (Sui)||Chamonix Mont-Blanc (Fra)
+2020-08-28 18:00||WORLD||Club Friendly||g_4_YZgjoEy8||GCK Lions (Sui)||Bregenzerwald (Aut)
+2020-08-28 18:00||WORLD||Club Friendly||g_4_x8KWg6u8||Lausanne (Sui)||Fehervar AV19 (Hun)
+2020-08-28 18:00||WORLD||Club Friendly||g_4_fqennfM1||Winterthur (Sui)||Basel (Sui)
+2020-08-28 18:15||WORLD||Club Friendly||g_4_bogdtXno||Ilves (Fin)||Karpat (Fin)
+2020-08-29 02:00||USA||NHL - Play Offs||g_4_K4mRkSZm||Dallas Stars||Colorado Avalanche
+2020-08-29 16:00||USA||NHL - Play Offs||g_4_8Q7jdUdK||New York Islanders||Philadelphia Flyers
+2020-08-29 05:15||NEW ZEALAND||NZIHL||g_4_M9iJgpqq||Botany Swarm||West Auckland Admirals
+2020-08-29 07:00||NEW ZEALAND||NZIHL||g_4_fLnUekaN||Southern Stampede||Canterbury Red Devils
+2020-08-29 14:30||WORLD||Club Friendly||g_4_Sl13ybPt||Grenoble (Fra)||La Chaux-de-Fonds (Sui)
+2020-08-29 14:30||WORLD||Club Friendly||g_4_zgwzgQfE||Ticino Rockets (Sui)||Salzburg (Aut)
+2020-08-29 15:00||WORLD||Club Friendly||g_4_6u07zIvm||Ajoie (Sui)||Mulhouse (Fra)
+2020-08-29 15:00||WORLD||Club Friendly||g_4_KzKGvSSC||Dyn. Moscow (Rus)||Podolsk (Rus)
+2020-08-29 16:00||WORLD||Club Friendly||g_4_OGfCZyfg||Fribourg (Sui)||Znojmo (Cze)
+2020-08-29 16:30||WORLD||Club Friendly||g_4_CU622VKJ||CSKA Moscow (Rus)||Sp. Moscow (Rus)
+2020-08-29 16:30||WORLD||Club Friendly||g_4_27gGYe9a||Servette (Sui)||Rapperswil (Sui)
+2020-08-29 18:00||WORLD||Club Friendly||g_4_dUhKXFO5||Gap (Fra)||Sierre-Anniviers (Sui)

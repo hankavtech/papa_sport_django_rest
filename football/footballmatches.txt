@@ -1,0 +1,1144 @@
+2020-08-27 14:00||EUROPE||Europa League - Qualification||g_1_IeBuzlGK||K. Almaty (Kaz)||Noah (Arm)
+2020-08-27 14:00||EUROPE||Europa League - Qualification||g_1_zyxxGSOl||Ordabasy (Kaz)||FC Botosani (Rou)
+2020-08-27 14:00||EUROPE||Europa League - Qualification||g_1_ERztFnve||Ventspils (Lat)||Dinamo-Auto (Mda)
+2020-08-27 14:30||EUROPE||Europa League - Qualification||g_1_OvP0uqh0||Borac Banja Luka (Bih)||Sutjeska (Mne)
+2020-08-27 14:30||EUROPE||Europa League - Qualification||g_1_xKpIm7pK||Kalju (Est)||Mura (Slo)
+2020-08-27 14:30||EUROPE||Europa League - Qualification||g_1_MTe1MUoL||Teuta (Alb)||Beitar Jerusalem (Isr)
+2020-08-27 15:00||EUROPE||Europa League - Qualification||g_1_M9XOqbqn||Din. Minsk (Blr)||Piast Gliwice (Pol)
+2020-08-27 15:30||EUROPE||Europa League - Qualification||g_1_65cFAMfS||Lincoln Red Imps (Gib)||Union Titus Petange (Lux)
+2020-08-27 16:00||EUROPE||Europa League - Qualification||g_1_MV8adyTi||Alashkert (Arm)||Renova (Mkd)
+2020-08-27 16:00||EUROPE||Europa League - Qualification||g_1_rL3RQqw7||Apollon (Cyp)||Saburtalo Tbilisi (Geo)
+2020-08-27 16:00||EUROPE||Europa League - Qualification||g_1_MTHWyAo8||Bodo/Glimt (Nor)||Kauno Zalgiris (Ltu)
+2020-08-27 16:00||EUROPE||Europa League - Qualification||g_1_WtpMnRaQ||Neftci Baku (Aze)||Shkupi (Mkd)
+2020-08-27 16:00||EUROPE||Europa League - Qualification||g_1_8QTlDQ87||Sumqayit (Aze)||Shkendija (Mkd)
+2020-08-27 16:30||EUROPE||Europa League - Qualification||g_1_AgjKS58f||MOL Fehervar (Hun)||Bohemians (Irl)
+2020-08-27 16:30||EUROPE||Europa League - Qualification||g_1_IyRXsxEb||O. Ljubljana (Slo)||Vikingur Reykjavik (Ice)
+2020-08-27 17:00||EUROPE||Europa League - Qualification||g_1_tzWCYXzo||Aarhus (Den)||Honka (Fin)
+2020-08-27 17:00||EUROPE||Europa League - Qualification||g_1_4ho6Ll1R||CSKA Sofia (Bul)||Sirens (Mlt)
+2020-08-27 17:00||EUROPE||Europa League - Qualification||g_1_ARgKOCsP||Gjilani (Kos)||APOEL (Cyp)
+2020-08-27 17:00||EUROPE||Europa League - Qualification||g_1_YkWmro8s||Hammarby (Swe)||Puskas Academy (Hun)
+2020-08-27 17:00||EUROPE||Europa League - Qualification||g_1_lpkORPN0||Keshla (Aze)||Laci (Alb)
+2020-08-27 17:00||EUROPE||Europa League - Qualification||g_1_0KGzyU0E||Lokomotiv Tbilisi (Geo)||U Craiova (Rou)
+2020-08-27 17:00||EUROPE||Europa League - Qualification||g_1_djQpE6g1||Maccabi Haifa (Isr)||Zeljeznicar (Bih)
+2020-08-27 17:00||EUROPE||Europa League - Qualification||g_1_ERdBURwr||Malmo FF (Swe)||Cracovia (Pol)
+2020-08-27 17:00||EUROPE||Europa League - Qualification||g_1_CbQysdT4||Rosenborg (Nor)||Breidablik (Ice)
+2020-08-27 17:00||EUROPE||Europa League - Qualification||g_1_zFS4v376||Vaduz (Lie)||Hibernians (Mlt)
+2020-08-27 17:00||EUROPE||Europa League - Qualification||g_1_AiusvfDN||Zalgiris (Ltu)||Paide (Est)
+2020-08-27 17:15||EUROPE||Europa League - Qualification||g_1_dUGDxsxJ||Hafnarfjordur (Ice)||Dun. Streda (Svk)
+2020-08-27 17:30||EUROPE||Europa League - Qualification||g_1_UHPdtPxf||Shakhtyor Soligorsk (Blr)||Sfintul (Mda)
+2020-08-27 17:30||EUROPE||Europa League - Qualification||g_1_4YMTrIbh||TNS (Wal)||Zilina (Svk)
+2020-08-27 17:45||EUROPE||Europa League - Qualification||g_1_rJYKpvUu||H. Beer Sheva (Isr)||Dinamo Batumi (Geo)
+2020-08-27 18:00||EUROPE||Europa League - Qualification||g_1_IZP46CQl||B36 Torshavn (Fai)||Levadia (Est)
+2020-08-27 18:00||EUROPE||Europa League - Qualification||g_1_WxU85Wue||Iskra (Mne)||Lok. Plovdiv (Bul)
+2020-08-27 18:00||EUROPE||Europa League - Qualification||g_1_OGtElmVD||Kukesi (Alb)||Slavia Sofia (Bul)
+2020-08-27 18:00||EUROPE||Europa League - Qualification||g_1_61XXG89r||Petrocub (Mda)||TSC Backa Topola (Srb)
+2020-08-27 18:00||EUROPE||Europa League - Qualification||g_1_jRQhs5Nm||Valletta (Mlt)||Bala (Wal)
+2020-08-27 18:00||EUROPE||Europa League - Qualification||g_1_jkPutGrB||Zrinjski (Bih)||Differdange (Lux)
+2020-08-27 18:15||EUROPE||Europa League - Qualification||g_1_W0twuzbH||Servette (Sui)||Ruzomberok (Svk)
+2020-08-27 18:30||EUROPE||Europa League - Qualification||g_1_MB2VP3hD||FCSB (Rou)||Shirak Gyumri (Arm)
+2020-08-27 18:45||EUROPE||Europa League - Qualification||g_1_zBz07hBr||Aberdeen (Sco)||NSI Runavik (Fai)
+2020-08-27 18:45||EUROPE||Europa League - Qualification||g_1_jgmiSgm8||Maribor (Slo)||Coleraine (Nir)
+2020-08-27 18:45||EUROPE||Europa League - Qualification||g_1_QaTC4je1||Motherwell (Sco)||Glentoran (Nir)
+2020-08-27 19:00||EUROPE||Europa League - Qualification||g_1_IwI9wNMC||Honved (Hun)||Inter Turku (Fin)
+2020-08-27 19:00||EUROPE||Europa League - Qualification||g_1_ruAecHDo||Lech Poznan (Pol)||Valmiera (Lat)
+2020-08-27 19:00||EUROPE||Europa League - Qualification||g_1_SU0FTogl||Partizan (Srb)||RFS (Lat)
+2020-08-27 19:00||EUROPE||Europa League - Qualification||g_1_4EvowEST||Shamrock Rovers (Irl)||Ilves (Fin)
+2020-08-27 09:30||AUSTRALIA||NPL Queensland||g_1_AoSvoRbh||Eastern Suburbs||Queensland Lions
+2020-08-27 23:00||BRAZIL||Campeonato Amapaense||g_1_pppxnmSt||Santana EC||Ypiranga AP
+2020-08-27 18:00||BRAZIL||Campeonato Paulista A2||g_1_Gjqfc6D4||Audax-SP||Sao Bento
+2020-08-27 22:00||BRAZIL||Copa do Brasil||g_1_tCaFhmRS||Brusque||Brasil de Pelotas
+2020-08-27 10:00||CHINA||Super League||g_1_OIRrEtu8||Shijiazhuang||Beijing Guoan
+2020-08-27 12:00||CHINA||Super League||g_1_02mM4Hpc||Qingdao Huanghai||Hebei
+2020-08-27 15:00||DJIBOUTI||Division 1||g_1_vPtmx0Ai||AS Arta||Gendarmerie
+2020-08-27 14:00||EGYPT||Premier League||g_1_WUkx6Zy2||Al Ittihad||Haras El Hodood
+2020-08-27 16:30||EGYPT||Premier League||g_1_f3yXRGbL||Misr Lel Makkasa||Wadi Degla
+2020-08-27 19:00||EGYPT||Premier League||g_1_hviY6FMe||Arab Contractors||Zamalek
+2020-08-27 19:00||EGYPT||Premier League||g_1_nwYOTxU8||Tanta||El Ismaily
+2020-08-27 16:00||ESTONIA||Esiliiga||g_1_YmBVdFZu||Parnu||Vandra Vaprus
+2020-08-27 15:00||FINLAND||Kakkonen Group A||g_1_WzZk0m3P||Kultsu||PEPO
+2020-08-27 16:00||FINLAND||Kakkonen Group B||g_1_Y1KaYk2P||PIF Pargas||P-Iirot Rauma
+2020-08-27 15:30||FINLAND||Kakkonen Group C||g_1_thNkp2JR||Kemi City||Hercules
+2020-08-27 15:30||FINLAND||Kakkonen Group C||g_1_46Ef61gD||Kiisto||JBK
+2020-08-27 12:00||GEORGIA||Georgian Cup||g_1_Am7qNNct||Bolnisi||Merani Tbilisi
+2020-08-27 12:00||GEORGIA||Georgian Cup||g_1_OCMlKLsa||Khobi||Torpedo Kutaisi
+2020-08-27 12:00||GEORGIA||Georgian Cup||g_1_4A6mMsDn||Khoni||Dila Gori
+2020-08-27 12:00||GEORGIA||Georgian Cup||g_1_r15iL1Sh||Real Varketili||Samtredia
+2020-08-27 12:00||GEORGIA||Georgian Cup||g_1_hhE5GwsO||Zugdidi||Chikhura
+2020-08-27 17:30||ISRAEL||Leumit League||g_1_pOUXSDSC||H. Akko||Hap. Ramat Gan
+2020-08-27 17:30||ISRAEL||Leumit League||g_1_M9e2rgSa||H. Raanana||Hapoel Umm al-Fahm
+2020-08-27 17:30||ISRAEL||Leumit League||g_1_jLHJjHKJ||Hapoel Iksal Imad||Hapoel Jerusalem
+2020-08-27 17:30||ISRAEL||Leumit League||g_1_UBGNkyzQ||MS Kafr Qasim||Ramat Hasharon
+2020-08-27 17:30||ISRAEL||Leumit League||g_1_rJdbqZCg||Nof Hagalil||Beitar Tel Aviv
+2020-08-27 10:00||KAZAKHSTAN||Premier League||g_1_jXBwh36P||Zhetysu Taldykorgan||Kyzylzhar
+2020-08-27 02:00||MEXICO||Liga MX Women - Apertura||g_1_CYKGUPQc||Santos Laguna W||Monterrey W
+2020-08-27 21:00||MEXICO||Liga MX Women - Apertura||g_1_U9FLTqt4||Toluca W||Guadalajara Chivas W
+2020-08-27 11:00||MONGOLIA||Premier League||g_1_6Du3pOvp||Anduud City||Athletic 220
+2020-08-27 ||MOROCCO||Botola Pro||g_1_dbztA0xc||Difaa El Jadidi||Moghreb Tetouan
+2020-08-27 19:00||MOROCCO||Botola Pro||g_1_QwSd6IyM||Mouloudia Oujda||Raja Beni Mellal
+2020-08-27 09:00||MYANMAR||National League||g_1_Kx1HBIVe||Sagaing||Ayeyawady
+2020-08-27 09:00||MYANMAR||National League||g_1_4Qn7Yuw9||Shan Utd||Rakhine United
+2020-08-27 16:00||NORWAY||OBOS-ligaen||g_1_GOYDRkX4||Asane||Grorud
+2020-08-27 16:00||NORWAY||OBOS-ligaen||g_1_b57qxD9U||Jerv||Ranheim
+2020-08-27 16:00||NORWAY||OBOS-ligaen||g_1_jL9DXrmR||KFUM Oslo||Stjordals Blink
+2020-08-27 16:00||NORWAY||OBOS-ligaen||g_1_M7fJlGZg||Lillestrom||Strommen
+2020-08-27 16:00||NORWAY||OBOS-ligaen||g_1_xWjkSyt6||Sandnes||Raufoss
+2020-08-27 16:00||NORWAY||OBOS-ligaen||g_1_API7g5LL||Sogndal||Oygarden
+2020-08-27 16:00||NORWAY||OBOS-ligaen||g_1_p0UpoyUf||Ull/Kisa||Kongsvinger
+2020-08-27 16:30||NORWAY||OBOS-ligaen||g_1_GQ1zbZUc||Ham-Kam||Tromso
+2020-08-27 20:30||PARAGUAY||Primera Division - Apertura||g_1_McTlkYCE||Diaz||Sol de America
+2020-08-27 23:00||PARAGUAY||Primera Division - Apertura||g_1_AczjChGd||Libertad Asuncion||Sp. Luqueno
+2020-08-27 16:00||PERU||Liga 1 - Apertura||g_1_vLxJu5Ef||U. de Deportes||U. San Martin
+2020-08-27 18:15||PERU||Liga 1 - Apertura||g_1_CYzRwqq7||Grau||Alianza Huanuco
+2020-08-27 20:30||PERU||Liga 1 - Apertura||g_1_lzWommMK||FBC Melgar||Carlos Stein
+2020-08-27 12:00||RUSSIA||FNL||g_1_6iGBuRW4||Spartak Moscow 2||Krasnodar 2
+2020-08-27 15:40||SAUDI ARABIA||Division 1||g_1_YJousOO3||Al Thuqbah||Al-Nahda
+2020-08-27 15:55||SAUDI ARABIA||Division 1||g_1_pfkqtrvA||Najran||Al-Taqadom
+2020-08-27 16:00||SAUDI ARABIA||Division 1||g_1_Ol4lK0Hj||Al Mojzel||Al Najoom
+2020-08-27 16:05||SAUDI ARABIA||Division 1||g_1_C4cWrpfi||Hottain||Al Taee
+2020-08-27 16:15||SAUDI ARABIA||Division 1||g_1_jedzr49c||Al Ain||Al Jabalain
+2020-08-27 16:20||SAUDI ARABIA||Division 1||g_1_YH6LMgwk||Ohod||Al-Kawkab
+2020-08-27 13:30||SOUTH AFRICA||Premier League||g_1_rTLEYrDf||Bloem Celtic||Bidvest Wits
+2020-08-27 16:00||SOUTH AFRICA||Premier League||g_1_04W9ZOcl||Kaizer Chiefs||Mamelodi Sundowns
+2020-08-27 16:45||SWEDEN||Svenska Cupen Women - Qualification||g_1_juhRNRXT||Ostervala W||Sandvikens W
+2020-08-27 18:00||URUGUAY||Primera Division - Apertura||g_1_hdtf91mi||Defensor Sp.||CA Cerro
+2020-08-27 20:15||URUGUAY||Primera Division - Apertura||g_1_hdKOgMm4||Wanderers||Liverpool M.
+2020-08-27 23:15||URUGUAY||Primera Division - Apertura||g_1_zL9Tht3A||Penarol||Cerro Largo
+2020-08-27 03:00||USA||MLS||g_1_AeBu1o7s||Los Angeles Galaxy||Seattle Sounders
+2020-08-27 ||USA||USL Championship||g_1_d64KUk4F||Colorado Springs||Austin Bold
+2020-08-27 12:00||UZBEKISTAN||Super League||g_1_4MdPWiRq||Lok. Tashkent||Nasaf Qarshi
+2020-08-27 14:00||UZBEKISTAN||Super League||g_1_COHpvzZ9||Andijan||Pakhtakor
+2020-08-27 09:00||WORLD||Club Friendly||g_1_vqaGNqfA||Odense (Den)||Horsens (Den)
+2020-08-27 11:00||WORLD||Club Friendly||g_1_jcDyQQe8||Brondby (Den)||Helsingor (Den)
+2020-08-27 12:00||WORLD||Club Friendly||g_1_MsPDjhWQ||Hobro (Den)||Skive (Den)
+2020-08-27 14:00||WORLD||Club Friendly||g_1_46Gy5qwl||B. Monchengladbach (Ger)||Greuther Furth (Ger)
+2020-08-27 17:30||WORLD||Club Friendly||g_1_t6I22ac0||Dassendorf (Ger)||Holstein Kiel II (Ger)
+2020-08-27 18:00||WORLD||Club Friendly||g_1_4rYOEPh0||Levante (Esp)||Mallorca (Esp)
+2020-08-27 18:00||WORLD||Club Friendly||g_1_Y5bKM39G||Waalwijk (Ned)||Sparta Rotterdam (Ned)
+2020-08-28 19:00||FRANCE||Ligue 1||g_1_hfVG32FS||Lyon||Dijon
+2020-08-28 09:00||AUSTRALIA||NPL NSW||g_1_fuZYGmg4||APIA Tigers||North Shore Mariners
+2020-08-28 09:30||AUSTRALIA||NPL NSW||g_1_YqwBb0vT||Blacktown City||Marconi Stallions
+2020-08-28 10:30||AUSTRALIA||Brisbane Premier League||g_1_vkfvAnmJ||Centenary Stormers||Toowong
+2020-08-28 17:00||AUSTRIA||Regionalliga Central||g_1_lWZi3ESF||SV Spittal||Ried (Am)
+2020-08-28 16:00||AUSTRIA||OFB Cup||g_1_rBvFLqvQ||Wolfsberger AC||Neusiedl
+2020-08-28 17:00||AUSTRIA||OFB Cup||g_1_bN4B1Onf||A. Klagenfurt||Stadl Paura
+2020-08-28 17:00||AUSTRIA||OFB Cup||g_1_6Vdqbkt2||First Vienna||Marchfeld
+2020-08-28 17:00||AUSTRIA||OFB Cup||g_1_vsQpGN1m||Gleisdorf||Ried
+2020-08-28 17:00||AUSTRIA||OFB Cup||g_1_WC4W0idq||Grodig||Amstetten
+2020-08-28 17:00||AUSTRIA||OFB Cup||g_1_lnEXPbVB||SV Worgl||Vocklamarkt
+2020-08-28 17:00||AUSTRIA||OFB Cup||g_1_0jRtH3ns||Treibach||Horn
+2020-08-28 17:00||AUSTRIA||OFB Cup||g_1_A33z0BBk||Union Gurten||Altach
+2020-08-28 17:00||AUSTRIA||OFB Cup||g_1_GvRpZ28P||WSC Wels||Admira
+2020-08-28 17:30||AUSTRIA||OFB Cup||g_1_SOX2AJVO||Kapfenberg||USK Anif
+2020-08-28 17:30||AUSTRIA||OFB Cup||g_1_bcLKS0og||SC Weiz||ASK Elektra
+2020-08-28 17:30||AUSTRIA||OFB Cup||g_1_bqtnE1Wa||Wiener Sportklub||St. Jakob/Ros
+2020-08-28 18:00||AUSTRIA||OFB Cup||g_1_KxgKa2H6||SV Wallern||Reichenau
+2020-08-28 18:00||AUSTRIA||OFB Cup||g_1_KYpRMYI2||Vorwarts Steyr||Bruck Leitha
+2020-08-28 18:30||AUSTRIA||OFB Cup||g_1_G0vzLCmF||Sturm Graz||SV Innsbruck
+2020-08-28 13:00||BELARUS||Belarusian Cup||g_1_vFRXSE73||Arsenal Dzyarzhynsk||Smolevichi
+2020-08-28 15:00||BELARUS||Belarusian Cup||g_1_KWsE8pMl||Orsha||Energetik-BGU
+2020-08-28 17:00||BELARUS||Belarusian Cup||g_1_fkzR5r67||Dnepr Mogilev||Isloch
+2020-08-28 18:45||BELGIUM||Jupiler League||g_1_4EzkSkZ9||Oostende||Anderlecht
+2020-08-28 18:00||BELGIUM||Proximus League||g_1_KWy34I6M||Seraing||Deinze
+2020-08-28 18:30||BELGIUM||Super League Women||g_1_WxbfKbnj||Femina Woluwe W||Zulte Waregem W
+2020-08-28 18:30||BELGIUM||Super League Women||g_1_pt2bJI1d||Genk W||Charleroi W
+2020-08-28 22:15||BRAZIL||Serie B||g_1_KhNuuFZc||Oeste||Avai
+2020-08-28 23:30||BRAZIL||Serie B||g_1_SOD0zilT||Cuiaba Esporte||Chapecoense-SC
+2020-08-28 23:00||BRAZIL||Serie C||g_1_tCV2vh23||Jacuipense||Botafogo PB
+2020-08-28 23:00||BRAZIL||Campeonato Amapaense||g_1_bmlto7sm||Macapa||Sao Paulo AP
+2020-08-28 00:30||BRAZIL||Copa do Brasil||g_1_dx5pmRlj||EC Sao Jose||Atletico GO
+2020-08-28 15:45||BULGARIA||Parva liga||g_1_2V3dWBYN||Tsarsko Selo||CSKA 1948 Sofia
+2020-08-28 18:00||BULGARIA||Parva liga||g_1_tM20VVmU||Beroe||Botev Vratsa
+2020-08-28 16:00||BULGARIA||Vtora liga||g_1_Eqtg6IFf||Ludogorets II||Pirin Blagoevgrad
+2020-08-28 00:00||CANADA||Canadian Premier League||g_1_YmROiUnU||Atl. Ottawa||Cavalry
+2020-08-28 18:00||CROATIA||1. HNL||g_1_QLfDkvi2||Gorica||Sibenik
+2020-08-28 16:00||CROATIA||2. HNL||g_1_88p2VFq8||NK Dinamo Zagreb 2||Sesvete
+2020-08-28 18:00||CROATIA||2. HNL||g_1_6q479YMl||Medjimurje Cakovec||Dubrava
+2020-08-28 18:00||CROATIA||2. HNL||g_1_Kn8B8hxe||Zapresic||Cibalia
+2020-08-28 15:30||CYPRUS||First Division||g_1_2B7RmQv3||Paphos||Anorthosis
+2020-08-28 17:30||CYPRUS||First Division||g_1_AyBZo49F||AEL Limassol||Nea Salamis
+2020-08-28 16:00||CZECH REPUBLIC||1. Liga||g_1_ChanV9Cm||Ostrava||Ceske Budejovice
+2020-08-28 16:30||CZECH REPUBLIC||CFL - Group A||g_1_IVk8uVQn||Pisek||Domazlice
+2020-08-28 17:00||CZECH REPUBLIC||MSFL||g_1_b5RK5ykM||Znojmo||Dolni Benesov
+2020-08-28 16:00||CZECH REPUBLIC||Division A||g_1_rDmrPShJ||Katovice||Marianske Lazne
+2020-08-28 15:30||CZECH REPUBLIC||Vysocina KP||g_1_QLh9qDhG||Bedrichov||Namest n. Oslavou
+2020-08-28 16:00||CZECH REPUBLIC||Ustecky KP||g_1_YBNr8ERe||Modlany||Brna
+2020-08-28 16:00||CZECH REPUBLIC||Jihocesky KP||g_1_ptSkiphi||Olesnik||Cesky Krumlov
+2020-08-28 15:45||CZECH REPUBLIC||Prazsky prebor||g_1_h2DZbS3I||Hostivar||US Prague
+2020-08-28 16:00||CZECH REPUBLIC||Karlovarsky KP||g_1_za0TGylC||Nejdek||Nova Role
+2020-08-28 16:00||CZECH REPUBLIC||Czech Cup Women||g_1_nVq8jlIH||Ceske Budejovice W||Hradiste W
+2020-08-28 17:00||DENMARK||2nd Division - Group 2||g_1_2XAJ2ZpF||Hellerup||Tarnby
+2020-08-28 15:00||DJIBOUTI||Division 1||g_1_QLh5DGXj||EAD||ASC Hayab
+2020-08-28 17:00||DJIBOUTI||Division 1||g_1_nVg1EdIp||Dikhil||Port
+2020-08-28 15:30||ESTONIA||Esiliiga||g_1_lKH3Im2G||Flora U21||Maardu
+2020-08-28 14:00||FAROE ISLANDS||Premier League||g_1_dKcYnMtk||Streymur||IF Fuglafjordur
+2020-08-28 17:30||FAROE ISLANDS||Premier League||g_1_0z7U9km9||TB Tvoroyri||Vikingur
+2020-08-28 15:30||FINLAND||Kakkonen Group A||g_1_GQLddv2i||Honka Akatemia||EPS
+2020-08-28 15:30||FINLAND||Kakkonen Group B||g_1_ILx9NYzt||Jazz Pori||TPV
+2020-08-28 18:00||FRANCE||National||g_1_0MNMMben||Boulogne||Red Star
+2020-08-28 18:00||FRANCE||National||g_1_roDRLIAh||Bourg en Bresse||Annecy
+2020-08-28 18:00||FRANCE||National||g_1_IN7jGEvU||Concarneau||Stade Briochin
+2020-08-28 18:00||FRANCE||National||g_1_U1FwJGfB||Creteil||Orleans
+2020-08-28 18:00||FRANCE||National||g_1_O08nHfPN||Laval||Avranches
+2020-08-28 18:00||FRANCE||National||g_1_jBGZJdu5||Le Mans||Quevilly Rouen
+2020-08-28 18:00||FRANCE||National||g_1_CQ4rIzAH||Sete||Sporting Club Lyon
+2020-08-28 18:00||FRANCE||National||g_1_KWgIBYno||Villefranche||Cholet
+2020-08-28 17:00||FRANCE||National 2 - Group C||g_1_2F50rYQE||Marignane||Jura Sud
+2020-08-28 18:00||FRANCE||National 2 - Group D||g_1_bXV4fNCt||Stade Montois||Nantes II
+2020-08-28 18:00||FRANCE||National 2 - Group D||g_1_hfV8gsSn||Trelissac||Bergerac
+2020-08-28 15:30||GERMANY||Oberliga NOFV- Sud||g_1_jsF9ZXLN||An der Fahner Hohe||Jena II
+2020-08-28 18:00||HUNGARY||OTP Bank Liga||g_1_EubGP4p4||DVTK||MTK Budapest
+2020-08-28 18:00||ICELAND||Inkasso-deildin||g_1_MyI2HhRI||Leiknir||Keflavik
+2020-08-28 18:00||ICELAND||Division 2||g_1_COkrnoVr||Njardvik||Kordrengir
+2020-08-28 19:15||ICELAND||Division 2||g_1_AF3GjRMR||Haukar||Throttur Vogar
+2020-08-28 17:15||ICELAND||Urvalsdeild Women||g_1_GEP9clh2||Thor/KA W||Valur W
+2020-08-28 18:45||IRELAND||FAI Cup||g_1_2mmmG3yr||Athlone||Wexford
+2020-08-28 18:45||IRELAND||FAI Cup||g_1_p80LKqTQ||Galway||Shelbourne
+2020-08-28 13:00||MALAYSIA||Super League||g_1_ABT9HlpN||Felda Utd.||UiTM
+2020-08-28 13:00||MALAYSIA||Super League||g_1_KMzcKj04||Pahang||Johor DT
+2020-08-28 13:00||MALAYSIA||Super League||g_1_OEXDG8aT||Perak||Melaka United SA
+2020-08-28 13:00||MALAYSIA||Premier League||g_1_ML5Bs8Cr||Kuala Lumpur||UKM
+2020-08-28 13:00||MALAYSIA||Premier League||g_1_QD2SwQB7||Kuching City FC||Selangor 2
+2020-08-28 13:00||MALAYSIA||Premier League||g_1_SItB29l8||Negeri Sembilan||Terengganu 2
+2020-08-28 02:00||MEXICO||Liga de Expansion MX - Apertura||g_1_vB3JJqyS||Cimarrones de Sonora||Cancun
+2020-08-28 21:00||MEXICO||Liga MX Women - Apertura||g_1_80EPS3eA||Necaxa W||Mazatlan FC W
+2020-08-28 13:30||MOLDOVA||Moldovan Cup||g_1_QcbewlL3||Balti||Floresti
+2020-08-28 13:30||MOLDOVA||Moldovan Cup||g_1_n52LBtOI||Iskra Ribnita||Sireti
+2020-08-28 13:30||MOLDOVA||Moldovan Cup||g_1_WzaivU5c||Tighina||CSCA Buiucani
+2020-08-28 16:45||NETHERLANDS||Eerste Divisie||g_1_MFY5QnhN||Jong Utrecht||Eindhoven FC
+2020-08-28 19:00||NETHERLANDS||Eerste Divisie||g_1_06X9P67T||Cambuur||Nijmegen
+2020-08-28 16:00||POLAND||Ekstraklasa||g_1_jJhVQX1i||Zaglebie||Warta Poznan
+2020-08-28 18:30||POLAND||Ekstraklasa||g_1_URUnOt7I||Stal Mielec||Gornik Z.
+2020-08-28 15:00||POLAND||Division 1||g_1_25b9Ldpi||GKS Jastrzebie||Arka Gdynia
+2020-08-28 15:40||POLAND||Division 1||g_1_zHHca6Tl||Odra Opole||LKS Lodz
+2020-08-28 14:00||POLAND||Division 2||g_1_UZnEfaxM||Ostroda||Lech Poznan 2
+2020-08-28 16:00||POLAND||Division 2||g_1_Cv2FZc0d||Suwalki||Elblag
+2020-08-28 17:30||POLAND||Division 2||g_1_M9q6dL79||Chojniczanka||Pogon Siedlce
+2020-08-28 14:30||POLAND||III Liga - Group I||g_1_GUJ6pCZe||Zambrow||W. Mazowieckie
+2020-08-28 15:00||POLAND||III Liga - Group II||g_1_jV6kkpEf||Sroda||Jarocin
+2020-08-28 15:30||QATAR||QSL - Relegation||g_1_jaz1Bo0K||Al Khor||Al Markhiya
+2020-08-28 15:00||ROMANIA||Liga 1||g_1_l0qK42jF||Gaz Metan Medias||FC Arges
+2020-08-28 18:00||ROMANIA||Liga 1||g_1_fwpG5ry9||UTA Arad||FC Voluntari
+2020-08-28 13:00||RUSSIA||PFL - Group 1||g_1_SbvScwml||FK Anzi Makhackala||Krasnodar 3
+2020-08-28 12:00||RUSSIA||PFL - Group 2||g_1_xrB02HX7||Rodina Moscow||Zvezda St. Peterburg
+2020-08-28 15:00||SERBIA||Super Liga||g_1_lMCzwo4Q||FK Indjija||Javor
+2020-08-28 17:00||SERBIA||Super Liga||g_1_IsjJUMB6||Metalac||Cukaricki
+2020-08-28 15:00||SERBIA||Prva Liga||g_1_Myj5xXPS||Kabel Novi Sad||Sremska Mitrovica
+2020-08-28 16:00||SLOVAKIA||2. liga||g_1_xxE1BVCe||Podbrezova||Banska Bystrica
+2020-08-28 16:00||SOUTH AFRICA||Premier League||g_1_Yi9AHpwd||Stellenbosch||Chippa Utd.
+2020-08-28 10:00||SOUTH KOREA||K3 League||g_1_CC58DDBA||Busan Kyotong||Cheonan City
+2020-08-28 17:00||SWEDEN||Division 2 - Norrland||g_1_67SwENiM||Friska Viljor||IFK Umea
+2020-08-28 17:30||SWEDEN||Division 2 - Södra Svealand||g_1_4vt82Xs9||IFK Eskilstuna||Newroz
+2020-08-28 17:00||SWEDEN||Division 2 - Norra Götaland||g_1_6c1721Ik||Vanersborgs FK||Vanersborgs IF
+2020-08-28 17:00||SWITZERLAND||1.Liga Classic Group 1||g_1_bsk9C30p||Oberwallis Naters||Lausanne II
+2020-08-28 18:30||SWITZERLAND||1.Liga Classic Group 1||g_1_6qAUJo8A||Young Boys II||Martigny
+2020-08-28 14:00||UKRAINE||Ukrainian Cup||g_1_GfZ4PUrI||Chaika||Zhytomyr
+2020-08-28 23:00||USA||USL Championship||g_1_WzmiaP4a||Hartford Athletic||Pittsburgh
+2020-08-28 23:00||USA||USL League One||g_1_lW1JeXNT||Orlando City B||Tormenta
+2020-08-28 13:30||UZBEKISTAN||Super League||g_1_6oHlwflG||Bunyodkor||Qizilqum
+2020-08-28 13:30||UZBEKISTAN||Super League||g_1_2DAcyYIS||Navbahor Namangan||Kokand 1912
+2020-08-28 14:00||UZBEKISTAN||Super League||g_1_pxGhxE3M||Sogdiana||Termez Surkhon
+2020-08-28 10:00||WORLD||Club Friendly||g_1_YB5G65PG||Rio Ave (Por)||Real Sociedad (Esp)
+2020-08-28 11:00||WORLD||Club Friendly||g_1_GjTq4v9m||Fredericia (Den)||Midtjylland (Den)
+2020-08-28 11:00||WORLD||Club Friendly||g_1_pfRvrsRa||Nordsjaelland (Den)||Koge (Den)
+2020-08-28 12:00||WORLD||Club Friendly||g_1_4O31Ir08||Dortmund (Ger)||Paderborn (Ger)
+2020-08-28 12:00||WORLD||Club Friendly||g_1_b9BN18gP||Zurich (Sui)||Wil (Sui)
+2020-08-28 13:00||WORLD||Club Friendly||g_1_fLMZWei1||Kaiserslautern (Ger)||FC 08 Homburg (Ger)
+2020-08-28 14:00||WORLD||Club Friendly||g_1_rF25H2FE||Dortmund (Ger)||Bochum (Ger)
+2020-08-28 14:00||WORLD||Club Friendly||g_1_UFj29bi1||Fenerbahce (Tur)||Alanyaspor (Tur)
+2020-08-28 14:00||WORLD||Club Friendly||g_1_S03rtSKc||Feyenoord (Ned)||Hamburger SV (Ger)
+2020-08-28 14:00||WORLD||Club Friendly||g_1_2i9VAVTO||Galatasaray (Tur)||Istanbulspor AS (Tur)
+2020-08-28 14:00||WORLD||Club Friendly||g_1_jeSgRt0U||Newcastle (Eng)||Freiburg (Ger)
+2020-08-28 14:00||WORLD||Club Friendly||g_1_fHxsSJ2g||Tottenham (Eng)||Reading (Eng)
+2020-08-28 16:00||WORLD||Club Friendly||g_1_86k68I67||Vitesse (Ned)||Dusseldorf (Ger)
+2020-08-28 16:30||WORLD||Club Friendly||g_1_ILOla5bO||Birkirkara (Mlt)||Senglea Athletics (Mlt)
+2020-08-28 17:00||WORLD||Club Friendly||g_1_CQUk51Ds||Granada CF (Esp)||Valladolid (Esp)
+2020-08-28 18:00||WORLD||Club Friendly||g_1_8Qk1qUBJ||Valencia (Esp)||Villarreal (Esp)
+2020-08-28 16:00||WORLD||Club Friendly Women||g_1_fkKf4LSm||Ajax W (Ned)||SGS Essen W (Ger)
+2020-08-29 15:00||FRANCE||Ligue 1||g_1_jVAic0hd||Rennes||Montpellier
+2020-08-29 19:00||FRANCE||Ligue 1||g_1_IyaZLqVd||Strasbourg||Nice
+2020-08-29 12:45||ARMENIA||Premier League||g_1_GW81iTL5||FC Van||Pyunik Yerevan
+2020-08-29 13:00||ARMENIA||Premier League||g_1_UF6kfVym||Noah||Ararat-Armenia
+2020-08-29 13:00||ARMENIA||Premier League||g_1_2T4ch96a||Urartu||Shirak Gyumri
+2020-08-29 15:00||ARMENIA||Premier League||g_1_beb6jmyC||Gandzasar||Lori
+2020-08-29 12:30||ARMENIA||First League||g_1_pGnhvrc9||Sevan||Shirak Gyumri 2
+2020-08-29 12:45||ARMENIA||First League||g_1_dfA1HKkd||Lernayin Artsakh||Alashkert 2
+2020-08-29 12:45||ARMENIA||First League||g_1_xjmluOs3||Pyunik Yerevan 2||Ararat-Armenia 2
+2020-08-29 05:00||AUSTRALIA||NPL ACT||g_1_thkCzlQB||Belconnen United||Tigers FC
+2020-08-29 07:30||AUSTRALIA||NPL ACT||g_1_OANeihOH||Monaro Panthers||Gungahlin
+2020-08-29 08:25||AUSTRALIA||NPL ACT||g_1_K28ux11G||Woden Weston||Canberra Olympic
+2020-08-29 09:00||AUSTRALIA||NPL NSW||g_1_p86SKRi4||Druitt Town Rangers||WS Wanderers U21
+2020-08-29 07:00||AUSTRALIA||NPL Queensland||g_1_I98cbjia||Peninsula||Capalaba FC
+2020-08-29 07:30||AUSTRALIA||NPL Queensland||g_1_UqC1cA65||Brisbane City||Moreton Bay Utd
+2020-08-29 08:30||AUSTRALIA||NPL Queensland||g_1_C816dULB||Brisbane Strikers||Gold Coast
+2020-08-29 05:30||AUSTRALIA||NPL South Australian||g_1_xSSyscm2||Adelaide City||Adelaide U21
+2020-08-29 05:30||AUSTRALIA||NPL South Australian||g_1_t0ZSrJIk||Adelaide Comets||Blue Eagles
+2020-08-29 05:30||AUSTRALIA||NPL South Australian||g_1_byUXswYe||Modbury Jets||Croydon Kings
+2020-08-29 05:30||AUSTRALIA||NPL South Australian||g_1_29zPqa3q||NE Metrostars||Para
+2020-08-29 07:30||AUSTRALIA||NPL South Australian||g_1_jVGJ5tQ2||Cumberland Utd.||Campbelltown City
+2020-08-29 08:30||AUSTRALIA||NPL South Australian||g_1_4YKN40u9||Adelaide Olympic||Adelaide Raiders
+2020-08-29 04:00||AUSTRALIA||NPL Tasmania||g_1_hvkbVoTi||Riverside Olympic||Clarence Zebras
+2020-08-29 04:15||AUSTRALIA||NPL Tasmania||g_1_EmjfWRDo||Kingborough Lions||Devonport
+2020-08-29 06:30||AUSTRALIA||NPL Tasmania||g_1_AFq3U5rb||Glenorchy Knights||Launceston
+2020-08-29 08:30||AUSTRALIA||NPL Tasmania||g_1_l6r7TPc4||Olympia Warriors||South Hobart
+2020-08-29 07:00||AUSTRALIA||NPL Western Australia||g_1_dMbmosCF||Armadale||Perth Glory U21
+2020-08-29 07:00||AUSTRALIA||NPL Western Australia||g_1_pO6hjTgC||Balcatta||Inglewood Utd
+2020-08-29 07:00||AUSTRALIA||NPL Western Australia||g_1_WvDVcKeL||ECU Joondalup||Perth SC
+2020-08-29 07:00||AUSTRALIA||NPL Western Australia||g_1_v5CZdvBR||Floreat Athena||Sorrento
+2020-08-29 07:00||AUSTRALIA||NPL Western Australia||g_1_b74tgV9g||Gwelup Croatia SC||Bayswater
+2020-08-29 07:00||AUSTRALIA||NPL Western Australia||g_1_GSxdpGqC||Rockingham City||Cockburn City
+2020-08-29 07:00||AUSTRALIA||Brisbane Premier League||g_1_Y9b2E1v5||Acacia Ridge||Taringa
+2020-08-29 07:30||AUSTRALIA||Brisbane Premier League||g_1_4UAkH3fn||Grange Thistle||Bayside
+2020-08-29 08:00||AUSTRALIA||Brisbane Premier League||g_1_jR6oIqut||Caboolture||North Star
+2020-08-29 14:00||AUSTRIA||Regionalliga West - Tyrol||g_1_bZAfblps||Wacker Innsbruck (Am)||Telfs
+2020-08-29 14:00||AUSTRIA||Regionalliga West - Salzburg||g_1_bV2AEtgS||Wals-Grunau||Kuchl
+2020-08-29 15:00||AUSTRIA||Regionalliga West - Salzburg||g_1_jNfxA01q||Saalfelden||Bischofshofen
+2020-08-29 15:00||AUSTRIA||Regionalliga West - Vorarlberg||g_1_CKFzhb5H||Wolfurt||Lauterach
+2020-08-29 14:30||AUSTRIA||OFB Cup||g_1_lYYbBaGI||Bregenz||Salzburg
+2020-08-29 15:00||AUSTRIA||OFB Cup||g_1_hKKORK0a||ATSV Wolfsberger||St. Polten
+2020-08-29 15:00||AUSTRIA||OFB Cup||g_1_S2dSctnJ||Deutschkreutz||Wiener Neustadt
+2020-08-29 15:00||AUSTRIA||OFB Cup||g_1_hShuaVQe||Dornbirn||Allerheiligen
+2020-08-29 15:30||AUSTRIA||OFB Cup||g_1_nm1724Xm||Floridsdorfer AC||Drassburg
+2020-08-29 16:00||AUSTRIA||OFB Cup||g_1_lCcObMWC||A. Lustenau||Stripfing
+2020-08-29 16:00||AUSTRIA||OFB Cup||g_1_h6ujDLo6||Bad Gleichenberg||Lafnitz
+2020-08-29 16:00||AUSTRIA||OFB Cup||g_1_bPqVLhY8||Schrems||Wacker Innsbruck
+2020-08-29 17:00||AUSTRIA||OFB Cup||g_1_ImDCUMGt||Tirol||Weindorf St. Anna
+2020-08-29 18:30||AUSTRIA||OFB Cup||g_1_KhsrFsHg||ASV Siegendorf||LASK
+2020-08-29 12:00||BELARUS||Pershaya Liga||g_1_EmhelxdQ||Naftan||FC Gomel
+2020-08-29 10:00||BELARUS||Division 2 - Group A||g_1_nZ18hyt4||BGU Minsk||Brest Malorita
+2020-08-29 10:00||BELARUS||Division 2 - Group A||g_1_4AC3gHQc||Kronon Stolbtsy||Ivatsevichi
+2020-08-29 10:00||BELARUS||Division 2 - Group A||g_1_x4KHVDYj||Molodechno||Meliorator Zhitkovichi
+2020-08-29 10:00||BELARUS||Division 2 - Group A||g_1_bDLDWgJp||Stanles Pinsk||Ostrovets
+2020-08-29 10:00||BELARUS||Division 2 - Group B||g_1_I9vJhdAS||BumProm Gomel||Energetik-BGATU
+2020-08-29 10:00||BELARUS||Division 2 - Group B||g_1_MsoAfIuG||Gorki||Osipovichi
+2020-08-29 10:00||BELARUS||Division 2 - Group B||g_1_SKo6ebQ9||Polotsk||Dnepr Mogilev
+2020-08-29 10:00||BELARUS||Division 2 - Group B||g_1_0YqEgxeM||Viktoria Mar. Gorka||SMIavtotrans
+2020-08-29 10:00||BELARUS||Division 2 - Group B||g_1_UZS2dvB3||Zhlobin||Petrikov
+2020-08-29 12:00||BELARUS||Belarusian Cup||g_1_C6rA9Q6r||Naftan||Gorodeja
+2020-08-29 12:30||BELARUS||Belarusian Cup||g_1_zsLtRhxG||Chimik Svetlogorsk||Rukh Brest
+2020-08-29 13:00||BELARUS||Belarusian Cup||g_1_4KHHS5DK||Baranovici||Vitebsk
+2020-08-29 13:30||BELARUS||Belarusian Cup||g_1_0j3mNqyr||Lokomotiv Gomel||Slutsk
+2020-08-29 14:00||BELARUS||Belarusian Cup||g_1_phSTTfhc||Mikashevichi||BATE
+2020-08-29 15:00||BELARUS||Belarusian Cup||g_1_nqNCTobE||Volna Pinsk||Slavia Mozyr
+2020-08-29 14:15||BELGIUM||Jupiler League||g_1_lAYOcDlE||Eupen||St. Truiden
+2020-08-29 16:30||BELGIUM||Jupiler League||g_1_xIH3RCqh||Cercle Brugge KSV||Kortrijk
+2020-08-29 16:30||BELGIUM||Jupiler League||g_1_jZdOWHOj||Waasland-Beveren||Leuven
+2020-08-29 18:45||BELGIUM||Jupiler League||g_1_dpcg9joL||Mouscron||Waregem
+2020-08-29 18:45||BELGIUM||Proximus League||g_1_0MiPR2G5||Lierse K.||RWDM
+2020-08-29 13:30||BELGIUM||Belgian Cup - Qualification||g_1_vwSSDnGr||Munkzwalm||Eendracht A.
+2020-08-29 15:30||BELGIUM||Belgian Cup - Qualification||g_1_jD54QCXL||Sart-Bernard||Overijse
+2020-08-29 16:00||BELGIUM||Belgian Cup - Qualification||g_1_Ee4MWmfe||Stade Disonais||Aubel B
+2020-08-29 16:30||BELGIUM||Belgian Cup - Qualification||g_1_nwAeqRw1||Bree-Beek||Sart-Tilman
+2020-08-29 17:00||BELGIUM||Belgian Cup - Qualification||g_1_8lGaRhIF||Gembloux||Royal Gosselies
+2020-08-29 17:00||BELGIUM||Belgian Cup - Qualification||g_1_U348PWnS||Kosova Schaerbeek||Ixelles
+2020-08-29 17:00||BELGIUM||Belgian Cup - Qualification||g_1_Y50CQ5Yr||Oostduinkerke||Blankenberge
+2020-08-29 17:00||BELGIUM||Belgian Cup - Qualification||g_1_6JbKOq3e||Rumbeke||Jong Zulte
+2020-08-29 17:00||BELGIUM||Belgian Cup - Qualification||g_1_SSaGPPmk||Schelde||Avanti
+2020-08-29 17:30||BELGIUM||Belgian Cup - Qualification||g_1_lKXfLPEg||Achel||Verbr. Lommel
+2020-08-29 17:30||BELGIUM||Belgian Cup - Qualification||g_1_faVEoMSb||Beringen||Noordstar
+2020-08-29 17:30||BELGIUM||Belgian Cup - Qualification||g_1_C2foVoQR||Diksmuide||KSK Oostnieuwkerke
+2020-08-29 17:30||BELGIUM||Belgian Cup - Qualification||g_1_dMhGS7MJ||Esperanza Pelt||Meldert
+2020-08-29 17:30||BELGIUM||Belgian Cup - Qualification||g_1_fL6vExqh||GBA Kontich||R. Leopold
+2020-08-29 17:30||BELGIUM||Belgian Cup - Qualification||g_1_K49X3OqJ||Hamme||Schelle
+2020-08-29 17:30||BELGIUM||Belgian Cup - Qualification||g_1_C2Wd7XQq||Montignies||Forchies
+2020-08-29 17:30||BELGIUM||Belgian Cup - Qualification||g_1_vwjvKAAk||Nivelles||Denderhoutem
+2020-08-29 17:30||BELGIUM||Belgian Cup - Qualification||g_1_rVnhKlwF||Standard Elen||Eendr. Termien
+2020-08-29 17:30||BELGIUM||Belgian Cup - Qualification||g_1_S8sFZzi1||Torhout||Lauwe
+2020-08-29 17:30||BELGIUM||Belgian Cup - Qualification||g_1_Y3gqawyS||Vorselaar||Oud Turnhout
+2020-08-29 18:00||BELGIUM||Belgian Cup - Qualification||g_1_8rT2lOrt||FC Lebbeke||Bornem
+2020-08-29 18:00||BELGIUM||Belgian Cup - Qualification||g_1_G8WAn2Dh||Herselt||Herk
+2020-08-29 18:00||BELGIUM||Belgian Cup - Qualification||g_1_fDCcBtSH||Nismes||Lasne-Ohain
+2020-08-29 18:00||BELGIUM||Belgian Cup - Qualification||g_1_OnJMeeTN||Onhaye||Fernelmont-Hemptinne
+2020-08-29 18:00||BELGIUM||Belgian Cup - Qualification||g_1_jy44U3Su||Rochefort||Saint Leger
+2020-08-29 18:00||BELGIUM||Belgian Cup - Qualification||g_1_UPRzkrMp||Vissenaken||De Kempen
+2020-08-29 18:00||BELGIUM||Belgian Cup - Qualification||g_1_6erjM5am||Weerstand Koersel||Wezel Sport
+2020-08-29 18:00||BELGIUM||Belgian Cup - Qualification||g_1_INue4SFQ||Wellen||Minerois
+2020-08-29 18:15||BELGIUM||Belgian Cup - Qualification||g_1_SAWbKqUa||Glabbeek||Hoegaarden-Outgaarden
+2020-08-29 18:30||BELGIUM||Belgian Cup - Qualification||g_1_pGU45Bed||Jodoigne||Hasselt
+2020-08-29 18:30||BELGIUM||Belgian Cup - Qualification||g_1_MoX6mrbn||Oppagne||Bastogne
+2020-08-29 12:00||BELGIUM||Super League Women||g_1_notsr2vc||Aalst W||Club Brugge W
+2020-08-29 12:00||BELGIUM||Super League Women||g_1_QyuosMg3||RSC Anderlecht W||St. Liege W
+2020-08-29 14:30||BOSNIA AND HERZEGOVINA||Premier League||g_1_vkzyQGFG||Mladost DK||Olimpic Sarajevo
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||Premier League||g_1_lvE3210e||Sloboda||Siroki Brijeg
+2020-08-29 17:00||BOSNIA AND HERZEGOVINA||Premier League||g_1_M9RCCoO2||Velez Mostar||Tuzla City
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||FBiH||g_1_GC48gKIi||Gorazde||Zivinice
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||FBiH||g_1_Ox8Gibm4||GOSK Gabela||Hadzici
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||FBiH||g_1_0OzfzcIT||Gradacac||Bratstvo Gracanica
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||FBiH||g_1_K41PkxIG||HNK Orasje||TOSK Tesanj
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||FBiH||g_1_pn9ChvYc||Igman K.||Capljina
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||FBiH||g_1_xM54f03o||Jedinstvo Bihac||Banovici
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||FBiH||g_1_zHRLVGQp||Posusje||Kakanj
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||FBiH||g_1_61cLjI2A||Vis Simm-Bau||Travnik
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||RS||g_1_CEUyhbO3||Kozara||Tekstilac
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||RS||g_1_rHNJqzWq||Ljubic Prnjavor||Kozarska Dubica
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||RS||g_1_IiVXhv9c||Novi Grad||Zvijezda 09
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||RS||g_1_t8yhlGNS||Podrinje Janja||Leotar
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||RS||g_1_QHYuiIwA||Prijedor||Modrica
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||RS||g_1_QuDOrfoj||Slavija||Jedinstvo Brcko
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||RS||g_1_8tOpjxgG||Sloga Doboj||Drina Zvornik
+2020-08-29 15:00||BOSNIA AND HERZEGOVINA||RS||g_1_nXMlkd8M||Zeljeznicar Banja Luka||Sutjeska Foca
+2020-08-29 20:00||BRAZIL||Serie A||g_1_Wbes5h8H||Botafogo RJ||Internacional
+2020-08-29 22:00||BRAZIL||Serie A||g_1_dtT3Mgwh||Bahia||Palmeiras
+2020-08-29 22:00||BRAZIL||Serie A||g_1_xxdw6YhB||Fluminense||Vasco
+2020-08-29 00:30||BRAZIL||Serie B||g_1_QH8xteKi||Guarani||Nautico
+2020-08-29 14:00||BRAZIL||Serie B||g_1_t8Blwg4A||Juventude||Botafogo SP
+2020-08-29 19:30||BRAZIL||Serie B||g_1_fBFhxDJG||Vitoria||Parana
+2020-08-29 22:00||BRAZIL||Serie B||g_1_80vOMXJT||Cruzeiro||America MG
+2020-08-29 22:00||BRAZIL||Serie B||g_1_pMVkIiSp||Figueirense||Confianca
+2020-08-29 20:00||BRAZIL||Serie C||g_1_2LWbuYnc||Santa Cruz||Imperatriz
+2020-08-29 22:00||BRAZIL||Serie C||g_1_0GhGGlAd||Manaus||Paysandu PA
+2020-08-29 18:00||BRAZIL||Campeonato Acreano - Second stage||g_1_hf93H1Wr||Galvez||Andira
+2020-08-29 20:00||BRAZIL||Campeonato Acreano - Second stage||g_1_zJb8GLok||Rio Branco||Humaita
+2020-08-29 19:00||BRAZIL||Campeonato Brasiliense - Play Offs||g_1_2spI62Da||Gama||Brasiliense
+2020-08-29 17:00||BRAZIL||Brasileiro Women||g_1_0Au6Hvqg||Cruzeiro W||Gremio W
+2020-08-29 18:00||BRAZIL||Brasileiro Women||g_1_U3nMDdrI||Ponte Preta W||Palmeiras W
+2020-08-29 23:30||BRAZIL||Brasileiro Women||g_1_veicJ0Et||Vitoria W||Iranduba de Amazonia W
+2020-08-29 14:00||BULGARIA||Parva liga||g_1_Wpv6jFJu||Arda||Botev Plovdiv
+2020-08-29 16:00||BULGARIA||Parva liga||g_1_AywAkZYo||Montana||Levski Sofia
+2020-08-29 18:15||BULGARIA||Parva liga||g_1_h0SElglh||Etar||Ludogorets
+2020-08-29 15:00||BULGARIA||Vtora liga||g_1_hzuc5xV0||Hebar||Septemvri Sofia
+2020-08-29 15:00||BULGARIA||Vtora liga||g_1_l2Y53GaD||Svoge||Kariana Erden
+2020-08-29 16:00||BULGARIA||Vtora liga||g_1_25MmSaxE||Septemvri Simitli||Strumska Slava
+2020-08-29 16:00||BULGARIA||Vtora liga||g_1_tdLiRJiK||Sozopol||Vitosha Bistritsa
+2020-08-29 17:00||BULGARIA||Vtora liga||g_1_bXFdQw7Q||Lok. Gorna||Litex Lovech
+2020-08-29 17:00||BULGARIA||Vtora liga||g_1_0t2OLcFs||Neftochimic Burgas||Dobrudzha
+2020-08-29 15:00||BULGARIA||Third League - South-East||g_1_lr0hY1bJ||Atletik Kuklen||Vereya
+2020-08-29 15:00||BULGARIA||Third League - South-East||g_1_2kG8zhum||Chernomorets 1919||Spartak Plovdiv
+2020-08-29 15:00||BULGARIA||Third League - South-East||g_1_hGQYtf2J||Gigant Saedinenie||Maritsa Plovdiv
+2020-08-29 15:00||BULGARIA||Third League - South-East||g_1_W6PxtEHP||Gorski Izvor||Nesebar
+2020-08-29 15:00||BULGARIA||Third League - South-East||g_1_x8dlZsqD||Haskovo 1957||Borislav Parvomay
+2020-08-29 15:00||BULGARIA||Third League - South-East||g_1_pE5DZBfg||Karnobat||Zagorets
+2020-08-29 15:00||BULGARIA||Third League - South-East||g_1_ObH4yYPt||Sokol Markovo||Rozova Dolina
+2020-08-29 15:00||BULGARIA||Third League - South-West||g_1_l0qZMY82||Bansko||Razlog
+2020-08-29 15:00||BULGARIA||Third League - South-West||g_1_846naVGe||Chavdar Etropole||Balkan Botevgrad
+2020-08-29 15:00||BULGARIA||Third League - South-West||g_1_t81tLCwF||Chepintsi||Belasitsa
+2020-08-29 15:00||BULGARIA||Third League - South-West||g_1_ne5jbkW1||Gotse Delchev||Slivnishki Geroy
+2020-08-29 15:00||BULGARIA||Third League - South-West||g_1_Kb0pKWhL||Kyustendil||Oborishte
+2020-08-29 15:00||BULGARIA||Third League - South-West||g_1_KtkAIJHG||Marek||Velbazhd
+2020-08-29 15:00||BULGARIA||Third League - South-West||g_1_0v3v1inq||Perun||Nadezhda Dobroslavci
+2020-08-29 15:00||BULGARIA||Third League - South-West||g_1_vV1r0B1k||Rilski Sportist||Vihren
+2020-08-29 15:00||BULGARIA||Third League - South-West||g_1_no2xMhO8||Vladaya||Botev Ihtiman
+2020-08-29 15:00||BULGARIA||Third League - North-East||g_1_4ACRchV5||Botev Novi Pazar||Chernomorets Balchik
+2020-08-29 15:00||BULGARIA||Third League - North-East||g_1_dp9JaE0g||Septemvri Tervel||Sportist Toshevo
+2020-08-29 15:00||BULGARIA||Third League - North-East||g_1_AmDNbYFa||Svetkavitsa||Dobrich
+2020-08-29 16:00||CANADA||Canadian Premier League||g_1_lK12vKCD||Valour||Edmonton
+2020-08-29 19:00||CANADA||Canadian Premier League||g_1_fcvhiIDG||HFX Wanderers||York 9
+2020-08-29 21:00||CANADA||CSL||g_1_lSZjjphs||Brantford||Serbian W. E.
+2020-08-29 23:00||CANADA||CSL||g_1_2Vwek47m||Vorkuta||Scarborough B.
+2020-08-29 17:30||CHILE||Primera Division||g_1_Org3yIQI||Colo Colo||S. Wanderers
+2020-08-29 20:00||CHILE||Primera Division||g_1_0fLkUoJ6||Coquimbo||Huachipato
+2020-08-29 22:30||CHILE||Primera Division||g_1_f9laxbBC||U. Catolica||U. Espanola
+2020-08-29 16:00||CHILE||Primera B||g_1_pj1kH8JS||Copiapo||Cobreloa
+2020-08-29 16:30||CHILE||Primera B||g_1_zLTBY9l3||Valdivia||D. Puerto Montt
+2020-08-29 19:00||CHILE||Primera B||g_1_namHCSRq||Nublense||San Marcos de Arica
+2020-08-29 19:00||CHILE||Primera B||g_1_tMnLBnsj||S. Morning||San Luis
+2020-08-29 10:00||CHINA||Super League||g_1_0GORcXOj||Guangzhou R&F||Shenzhen
+2020-08-29 12:00||CHINA||Super League||g_1_bgeLzhl7||Shandong Luneng||Dalian Pro
+2020-08-29 06:15||CHINA||Super League Women||g_1_SWVMFXw4||Beijing Beikong W||Changchun Dazhong W
+2020-08-29 06:15||CHINA||Super League Women||g_1_0AaQGDOc||Shandong SL W||Zhejiang W
+2020-08-29 08:00||CHINA||Super League Women||g_1_EmYYCVNM||Jiangsu Suning W||Wuhan Jiangda W
+2020-08-29 08:30||CHINA||Super League Women||g_1_6NUQEigA||Guangdong Meizhou W||Shanghai RCB W
+2020-08-29 08:30||CHINA||Super League Women||g_1_0pUUDB8G||Henan Jianye W||Hebei W
+2020-08-29 22:00||COSTA RICA||Primera Division - Apertura||g_1_6yljEB7m||Zeledon||Guadalupe
+2020-08-29 23:00||COSTA RICA||Primera Division - Apertura||g_1_f1pnFihs||Santos DG||Grecia
+2020-08-29 15:55||CROATIA||1. HNL||g_1_p4zTAlNA||Rijeka||Istra 1961
+2020-08-29 18:05||CROATIA||1. HNL||g_1_2PtAfTxU||Hajduk Split||Slaven Belupo
+2020-08-29 15:00||CROATIA||2. HNL||g_1_CM43AE7r||Dugopolje||Orijent
+2020-08-29 15:00||CROATIA||2. HNL||g_1_2BcG7Ci1||Kustosija||Rudes
+2020-08-29 16:00||CROATIA||2. HNL||g_1_hxOWFzpL||Osijek 2||Croatia Zmijavci
+2020-08-29 00:00||CURAÇAO||Promé Divishon - Winners stage||g_1_W0pP4bih||Jong Holland||Willemstad
+2020-08-29 23:15||CURAÇAO||Promé Divishon - Winners stage||g_1_AiqT3I6b||Scherpenheuvel||UNDEBA
+2020-08-29 15:30||CYPRUS||First Division||g_1_WjarprvS||Doxa||Achnas
+2020-08-29 17:30||CYPRUS||First Division||g_1_h00voOOL||Paralimni||Ol. Nicosia
+2020-08-29 15:00||CZECH REPUBLIC||1. Liga||g_1_2shaS7d6||Mlada Boleslav||Zlin
+2020-08-29 15:00||CZECH REPUBLIC||1. Liga||g_1_6FbjUTRg||Opava||Karvina
+2020-08-29 15:00||CZECH REPUBLIC||1. Liga||g_1_0IerWkcs||Slovacko||Jablonec
+2020-08-29 17:30||CZECH REPUBLIC||1. Liga||g_1_KKsEmISE||Slavia Prague||Pribram
+2020-08-29 09:00||CZECH REPUBLIC||Division 2||g_1_IPjaOhtK||Chrudim||Mas Taborsko
+2020-08-29 15:00||CZECH REPUBLIC||Division 2||g_1_U3A42BJ0||Dukla Prague||Prostejov
+2020-08-29 15:00||CZECH REPUBLIC||Division 2||g_1_f3umZIDL||Lisen||Blansko
+2020-08-29 08:15||CZECH REPUBLIC||CFL - Group A||g_1_bRMoOTeC||Motorlet Prague||Karlovy Vary
+2020-08-29 08:30||CZECH REPUBLIC||CFL - Group A||g_1_A5j4tBBt||Povltavska FA||Benesov
+2020-08-29 08:15||CZECH REPUBLIC||CFL - Group B||g_1_4tesXhFN||Jablonec B||Usti nad Orlici
+2020-08-29 08:15||CZECH REPUBLIC||CFL - Group B||g_1_IPhVZfV4||Zbuzany||Liberec B
+2020-08-29 15:00||CZECH REPUBLIC||CFL - Group B||g_1_dA4MyH0h||Zivanice||Zapy
+2020-08-29 08:15||CZECH REPUBLIC||MSFL||g_1_tAtMpzDd||Otrokovice||Uhersky Brod
+2020-08-29 08:30||CZECH REPUBLIC||MSFL||g_1_xdQO4e4S||Jihlava B||Nove Mesto na M.
+2020-08-29 14:30||CZECH REPUBLIC||MSFL||g_1_juOC7cK9||Odra Petrkovice||Frydek-Mistek
+2020-08-29 15:00||CZECH REPUBLIC||MSFL||g_1_4rSG6HZF||Kromeriz||Hlucin
+2020-08-29 12:00||CZECH REPUBLIC||Division A||g_1_pIRQmCVJ||Ceske Budejovice B||Hvezda Cheb
+2020-08-29 12:30||CZECH REPUBLIC||Division A||g_1_ddoWRU80||Prestice||Rokycany
+2020-08-29 15:00||CZECH REPUBLIC||Division A||g_1_O8QUnWpQ||Doubravka||Petrin Plzen
+2020-08-29 15:00||CZECH REPUBLIC||Division A||g_1_zmpzRlO6||Klatovy||Myto
+2020-08-29 08:15||CZECH REPUBLIC||Division B||g_1_reOVV5D3||Aritma Prague||Dobris
+2020-08-29 08:15||CZECH REPUBLIC||Division B||g_1_MoNZUPS9||Brandys n. Labem||FK Ceska Lipa
+2020-08-29 08:15||CZECH REPUBLIC||Division B||g_1_UBQsT3cM||Neratovice||SK Kladno
+2020-08-29 08:15||CZECH REPUBLIC||Division B||g_1_YPtu9r6j||Steti||Tatran Rakovnik
+2020-08-29 14:00||CZECH REPUBLIC||Division B||g_1_CzGnSNCS||Olympie Brezova||Banik Most - Sous
+2020-08-29 15:00||CZECH REPUBLIC||Division B||g_1_nTUMXRri||Slany||Cesky Brod
+2020-08-29 08:15||CZECH REPUBLIC||Division C||g_1_W25HDn2s||Kutna Hora||Poricany
+2020-08-29 08:15||CZECH REPUBLIC||Division C||g_1_vT4LC6Hm||Velke Hamry||Hlinsko
+2020-08-29 15:00||CZECH REPUBLIC||Division C||g_1_IJ3PBQWg||Letohrad||Horky nad Jizerou
+2020-08-29 15:00||CZECH REPUBLIC||Division C||g_1_0rgUApn0||Trutnov||Dvur Kralove
+2020-08-29 08:30||CZECH REPUBLIC||Division D||g_1_rmtxSg4g||Velka Bites||Zdirec n. D.
+2020-08-29 14:30||CZECH REPUBLIC||Division D||g_1_lQtYSZlm||Havlickuv Brod||Breclav
+2020-08-29 14:30||CZECH REPUBLIC||Division D||g_1_GxYlPilC||Hodonin||Stara Rise
+2020-08-29 12:00||CZECH REPUBLIC||Division E||g_1_UNMKcem8||Vsetin||Slavicin
+2020-08-29 14:30||CZECH REPUBLIC||Division E||g_1_8ELOdF2E||Nove Sady||HFK Olomouc
+2020-08-29 14:30||CZECH REPUBLIC||Division E||g_1_SI47liAf||SK Hranice||Bzenec
+2020-08-29 14:30||CZECH REPUBLIC||Division E||g_1_bq03kXfl||Strani||Prerov
+2020-08-29 14:30||CZECH REPUBLIC||Division E||g_1_2yLSeZHK||Valasske Mezirici||FK Kozlovice
+2020-08-29 14:30||CZECH REPUBLIC||Division F||g_1_WKOjyoU0||Frydlant n. O.||Trinec B
+2020-08-29 14:30||CZECH REPUBLIC||Division F||g_1_d2Wwvmpr||Rymarov||Karvina B
+2020-08-29 14:30||CZECH REPUBLIC||Division F||g_1_6iGtb8yE||Vitkovice||Polanka nad Odrou
+2020-08-29 09:00||CZECH REPUBLIC||Moravskoslezsky KP||g_1_OSEsSSgG||Dolni Datyne||Bridlicna
+2020-08-29 15:00||CZECH REPUBLIC||Moravskoslezsky KP||g_1_xWIoRn9M||Brusperk||Pusta Polom
+2020-08-29 15:00||CZECH REPUBLIC||Moravskoslezsky KP||g_1_YwMUUU9c||Celadna||Cesky Tesin
+2020-08-29 15:00||CZECH REPUBLIC||Moravskoslezsky KP||g_1_U5FwT8vA||Fulnek||TJ Bystrice
+2020-08-29 15:00||CZECH REPUBLIC||Moravskoslezsky KP||g_1_jFGZTlP3||Hlubina||Petrvald na Morave
+2020-08-29 08:15||CZECH REPUBLIC||Zlinsky KP||g_1_h6HQzBHD||Bystrice pod Hostynem||Batov
+2020-08-29 14:30||CZECH REPUBLIC||Zlinsky KP||g_1_KhJIxXn1||Valasska Polanka||Slusovice
+2020-08-29 14:30||CZECH REPUBLIC||Zlinsky KP||g_1_Wjm7q3LD||Velke Karlovice||Napajedla
+2020-08-29 08:00||CZECH REPUBLIC||Jihomoravsky KP||g_1_UqnZZ467||Svratka Brno||Rousinov
+2020-08-29 08:15||CZECH REPUBLIC||Jihomoravsky KP||g_1_xnTPdSDK||Bohunice||Moravska Slavia
+2020-08-29 08:15||CZECH REPUBLIC||Jihomoravsky KP||g_1_04fIwm7r||Kurim||Moravsky Krumlov
+2020-08-29 14:30||CZECH REPUBLIC||Jihomoravsky KP||g_1_YHhQyRye||Boskovice||Mutenice
+2020-08-29 14:30||CZECH REPUBLIC||Jihomoravsky KP||g_1_fRgMx7Ml||SK Krumvir||Ratiskovice
+2020-08-29 14:30||CZECH REPUBLIC||Vysocina KP||g_1_pAyCpgwA||Okrisky||Sapeli Polna
+2020-08-29 14:30||CZECH REPUBLIC||Vysocina KP||g_1_6Jx8oZN3||Zirovnice||Ledec nad Sazavou
+2020-08-29 12:00||CZECH REPUBLIC||Kralovehradecky KP||g_1_hdQRmWNr||Jicin||Slavia HK
+2020-08-29 15:00||CZECH REPUBLIC||Kralovehradecky KP||g_1_lOJznAhe||Cernilov||Kostelec n. O.
+2020-08-29 15:00||CZECH REPUBLIC||Kralovehradecky KP||g_1_zLFWnjwk||Chlumec nad Cidlinou B||Olympia HK 1901
+2020-08-29 15:00||CZECH REPUBLIC||Kralovehradecky KP||g_1_roJvoU71||Vysoka n. Labem||Horice
+2020-08-29 08:30||CZECH REPUBLIC||Liberecky KP||g_1_thNlIfbt||Frydlant||Novy Bor
+2020-08-29 15:00||CZECH REPUBLIC||Liberecky KP||g_1_ARRhHEDn||Desna||Skalice u C.Lipy
+2020-08-29 15:00||CZECH REPUBLIC||Liberecky KP||g_1_vqyNMzjP||Jiskra Mseno||Straz p. Ralskem
+2020-08-29 15:00||CZECH REPUBLIC||Liberecky KP||g_1_lIQdGYSh||Rovensko p. Tr.||Zelezny Brod
+2020-08-29 15:00||CZECH REPUBLIC||Liberecky KP||g_1_WtG1Fhra||TJ Doksy||Hradek nad Nisou
+2020-08-29 08:15||CZECH REPUBLIC||Ustecky KP||g_1_nwU0GxKF||Kadan||Srbice
+2020-08-29 08:30||CZECH REPUBLIC||Ustecky KP||g_1_E70VVHJ2||Horni Jiretin||Banik Most - Sous B
+2020-08-29 08:30||CZECH REPUBLIC||Ustecky KP||g_1_0pAyAzcq||Oldrichov||Perstejn
+2020-08-29 11:15||CZECH REPUBLIC||Ustecky KP||g_1_t0T4FdZL||Lovosice||FK Jilove
+2020-08-29 12:00||CZECH REPUBLIC||Ustecky KP||g_1_f3X8EGlS||Litomericko||Zatec
+2020-08-29 15:00||CZECH REPUBLIC||Ustecky KP||g_1_vy9u9fCk||Krupka||Modra
+2020-08-29 15:00||CZECH REPUBLIC||Ustecky KP||g_1_C2Mn7Yt2||Vilemov||Domousice
+2020-08-29 15:00||CZECH REPUBLIC||Plzensky KP||g_1_4Oap72Jc||Bolevec||Nepomuk
+2020-08-29 15:00||CZECH REPUBLIC||Plzensky KP||g_1_jLet8r4i||Sokol Lhota||Horni Briza
+2020-08-29 15:00||CZECH REPUBLIC||Plzensky KP||g_1_fDhc403G||Stribro||Stankov
+2020-08-29 15:00||CZECH REPUBLIC||Plzensky KP||g_1_bR8fpuCp||Tlumacov||Rapid Plzen
+2020-08-29 08:15||CZECH REPUBLIC||Jihocesky KP||g_1_8Or7S0Fj||Cimelice||Protivin
+2020-08-29 08:15||CZECH REPUBLIC||Jihocesky KP||g_1_UXq3Tt0p||Mas Taborsko B||Rudolfov
+2020-08-29 15:00||CZECH REPUBLIC||Jihocesky KP||g_1_OWQgj47c||Blatna||Milevsko
+2020-08-29 15:00||CZECH REPUBLIC||Jihocesky KP||g_1_WdU1lrxA||Laziste||TJ Osek
+2020-08-29 15:00||CZECH REPUBLIC||Jihocesky KP||g_1_IgQckOM3||Sezimovo Usti||Trebon
+2020-08-29 08:15||CZECH REPUBLIC||Prazsky prebor||g_1_fmHE3jkm||Ujezd Prague||Kralovice
+2020-08-29 08:30||CZECH REPUBLIC||Prazsky prebor||g_1_buEVa8lC||Zlicin||Olympia Radotin
+2020-08-29 11:30||CZECH REPUBLIC||Prazsky prebor||g_1_GdIA4WZt||Motorlet Prague B||Podoli Praha
+2020-08-29 12:00||CZECH REPUBLIC||Prazsky prebor||g_1_OMLI2A4g||Vysehrad B||Dukla JM
+2020-08-29 08:15||CZECH REPUBLIC||Stredocesky KP||g_1_Aeg1kvLl||FK Komarov||Dobrovice
+2020-08-29 08:15||CZECH REPUBLIC||Stredocesky KP||g_1_dhkcjK5r||Hrebec||Klicany
+2020-08-29 15:00||CZECH REPUBLIC||Stredocesky KP||g_1_vyoIodKD||Bohemia Podebrady||Nespeky
+2020-08-29 15:00||CZECH REPUBLIC||Stredocesky KP||g_1_WAsAmIk1||Porici n. S.||Vlasim B
+2020-08-29 15:00||CZECH REPUBLIC||Stredocesky KP||g_1_0pnEnx57||Povltavska FA B||Kosor
+2020-08-29 15:00||CZECH REPUBLIC||Stredocesky KP||g_1_hKr6lbze||Tochovice||Cesky Brod B
+2020-08-29 15:00||CZECH REPUBLIC||Karlovarsky KP||g_1_ULaXFe3I||Chodov||Karlovy Vary B
+2020-08-29 15:00||CZECH REPUBLIC||Karlovarsky KP||g_1_GdpSIcJa||Kralovske Porici||FC Cheb
+2020-08-29 15:00||CZECH REPUBLIC||Karlovarsky KP||g_1_rP3yFFIO||Union Nove Sedlo||Lomnice
+2020-08-29 15:00||CZECH REPUBLIC||Karlovarsky KP||g_1_d81PHHY5||Vintirov||Hroznetin
+2020-08-29 15:00||CZECH REPUBLIC||Karlovarsky KP||g_1_x6oOJw4g||Zlutice||Loko K. Vary
+2020-08-29 14:30||CZECH REPUBLIC||Olomoucky KP||g_1_KYdmNQ1r||Jesenik||Rapotin
+2020-08-29 14:30||CZECH REPUBLIC||Olomoucky KP||g_1_lpN8U898||Kralice na Hane||SK Lipova
+2020-08-29 14:30||CZECH REPUBLIC||Olomoucky KP||g_1_Sb0eL4Wf||Sternberk||Velke Losiny
+2020-08-29 14:30||CZECH REPUBLIC||Olomoucky KP||g_1_SzMCTSOE||Zelatovice||Mohelnice
+2020-08-29 08:15||CZECH REPUBLIC||Pardubicky KP||g_1_4MjPgfvf||Litomysl||Lanskroun
+2020-08-29 12:30||CZECH REPUBLIC||Pardubicky KP||g_1_McoUhEg0||Luze||Tremosnice
+2020-08-29 15:00||CZECH REPUBLIC||Pardubicky KP||g_1_8EmtjCwJ||Ceska Trebova||Chrudim B
+2020-08-29 15:00||CZECH REPUBLIC||Pardubicky KP||g_1_0lpYiY86||Rohovladova Bela||Svitavy
+2020-08-29 08:15||CZECH REPUBLIC||U19 League||g_1_W6uOjAnJ||FK Pardubice U19||Meteor Prague U19
+2020-08-29 09:00||CZECH REPUBLIC||U19 League||g_1_Uaz0dEIs||Brno U19||FC Fastav Zlin U19
+2020-08-29 09:00||CZECH REPUBLIC||U19 League||g_1_bgsGhWH6||Plzen U19||Hradec Kralove U19
+2020-08-29 09:00||CZECH REPUBLIC||U19 League||g_1_8OO6FgPJ||Sigma Olomouc U19||Karvina U19
+2020-08-29 09:00||CZECH REPUBLIC||U19 League||g_1_hGtKijXC||Slavia Prague U19||Pribram U19
+2020-08-29 09:00||CZECH REPUBLIC||U19 League||g_1_2Rm7fhmf||Slovacko U19||Opava U19
+2020-08-29 09:00||CZECH REPUBLIC||U19 League||g_1_Ozk3eYXm||Sparta Prague U19||Ceske Budejovice U19
+2020-08-29 09:00||CZECH REPUBLIC||1. Liga Women||g_1_txJzt5bR||Lok. Brno W||Sparta Prague W
+2020-08-29 12:00||CZECH REPUBLIC||1. Liga Women||g_1_bDTVtoqL||Plzen W||Slovacko W
+2020-08-29 12:00||CZECH REPUBLIC||1. Liga Women||g_1_jmQNr7E8||Slavia Prague W||Liberec W
+2020-08-29 08:30||CZECH REPUBLIC||Czech Cup Women||g_1_Ugk3iU2B||Banik Most - Sous W||Bohemians 1905 W
+2020-08-29 12:00||DENMARK||2nd Division - Group 1||g_1_riYo3i68||Dalum IF||Sydvest
+2020-08-29 12:00||DENMARK||2nd Division - Group 1||g_1_46Mf1VzL||Jammerbugt||SfB-Oure
+2020-08-29 12:00||DENMARK||2nd Division - Group 1||g_1_fyu4v8T7||Middelfart||VSK Aarhus
+2020-08-29 12:00||DENMARK||2nd Division - Group 1||g_1_MsXk2BLE||Naesby||Brabrand
+2020-08-29 13:00||DENMARK||2nd Division - Group 1||g_1_I9Qb0kjR||BK Frem||Aarhus Fremad
+2020-08-29 11:45||DENMARK||2nd Division - Group 2||g_1_GzFN1g0L||FA 2000||Avarta
+2020-08-29 12:00||DENMARK||2nd Division - Group 2||g_1_AcER0DFR||Hillerod||AB Copenhagen
+2020-08-29 13:00||DENMARK||2nd Division - Group 2||g_1_C60gdXNr||Bronshoj||Vanlose
+2020-08-29 13:00||DENMARK||2nd Division - Group 2||g_1_hIHjeiwk||Nykobing||Skovshoved
+2020-08-29 12:00||DENMARK||Elitedivisionen Women||g_1_GY9cqVJM||Aalborg W||Thisted FC W
+2020-08-29 12:00||DENMARK||Elitedivisionen Women||g_1_tGHpnXZ3||Aarhus W||Brondby W
+2020-08-29 12:00||DENMARK||Elitedivisionen Women||g_1_2V5gpB4G||Farum BK W||Koge W
+2020-08-29 14:15||DENMARK||Elitedivisionen Women||g_1_K6GloikA||Fortuna Hjorring W||KoldingQ W
+2020-08-29 15:00||DJIBOUTI||Division 1||g_1_6yCYIxAT||Esperance Sportive||ASAS
+2020-08-29 17:00||DJIBOUTI||Division 1||g_1_SpDUJIfN||Institut/ETP||SID
+2020-08-29 00:00||ECUADOR||Liga Pro - First stage||g_1_djvBCiCj||Aucas||Macara
+2020-08-29 18:00||ECUADOR||Liga Pro - First stage||g_1_AgShyyki||Mushuc Runa||Dep. Cuenca
+2020-08-29 20:15||ECUADOR||Liga Pro - First stage||g_1_S8LYI2h6||Orense||LDU Quito
+2020-08-29 22:30||ECUADOR||Liga Pro - First stage||g_1_QRXbdK4e||Barcelona SC||Olmedo
+2020-08-29 13:30||EGYPT||Premier League||g_1_AuoFvfrR||El-Entag El-Harby||El Gaish
+2020-08-29 16:00||EGYPT||Premier League||g_1_MJ4KICL7||Aswan SC||Pyramids
+2020-08-29 18:30||EGYPT||Premier League||g_1_8G0GJh61||El Masry||Al Ahly
+2020-08-29 14:00||ENGLAND||EFL Cup||g_1_p6NPEr7D||Blackburn||Doncaster
+2020-08-29 14:00||ENGLAND||EFL Cup||g_1_tEQ8IQ7l||Preston||Mansfield
+2020-08-29 14:00||ENGLAND||EFL Cup||g_1_bT7OVzr5||Stevenage||Portsmouth
+2020-08-29 14:00||ENGLAND||EFL Cup||g_1_4YWUP8FE||Stoke||Blackpool
+2020-08-29 15:30||ENGLAND||FA Community Shield||g_1_ABuaBEie||Arsenal||Liverpool
+2020-08-29 11:30||ENGLAND||Women's FA Community Shield||g_1_fkAht64f||Chelsea W||Manchester City W
+2020-08-29 16:00||ESTONIA||Meistriliiga||g_1_vN7aCH7U||Flora||Tulevik
+2020-08-29 13:00||ESTONIA||Esiliiga||g_1_EPsR4UXG||Elva||Nomme Utd
+2020-08-29 13:00||ESTONIA||Esiliiga||g_1_Me2vQY4I||JK Jarve||Tammeka U21
+2020-08-29 03:00||FIJI||Premier League||g_1_j34eJNPr||Ba||Rewa
+2020-08-29 14:00||FINLAND||Veikkausliiga||g_1_IBshiae3||SJK||Rovaniemi
+2020-08-29 15:30||FINLAND||Veikkausliiga||g_1_vPzyrt0a||KuPS||TPS
+2020-08-29 13:00||FINLAND||Ykkonen||g_1_MTBKJ8so||Ekenas||MyPa
+2020-08-29 14:00||FINLAND||Ykkonen||g_1_x4UZBKq7||MuSa||KPV Kokkola
+2020-08-29 12:00||FINLAND||Kakkonen Group A||g_1_fJk7y4QO||Keski-Uusimaa||JaPS
+2020-08-29 14:00||FINLAND||Kakkonen Group A||g_1_fTvEEOJD||Lahden Reipas||MiPK
+2020-08-29 12:00||FINLAND||Kakkonen Group B||g_1_W6uBwrqT||SalPa||KaaPo
+2020-08-29 14:00||FINLAND||Kakkonen Group B||g_1_p8O3VmZG||Espoo||Atlantis
+2020-08-29 14:00||FINLAND||Kakkonen Group C||g_1_YuwGHzdc||JIPPO||Vaajakoski
+2020-08-29 11:30||FINLAND||Kansallinen Liiga Women||g_1_zFMBRHJm||KuPS W||HJK W
+2020-08-29 14:00||FINLAND||Kansallinen Liiga Women||g_1_Emr7HIwj||Aland Utd W||Jypk W
+2020-08-29 13:00||FRANCE||Ligue 2||g_1_bD1V8hKK||Caen||AC Ajaccio
+2020-08-29 13:00||FRANCE||Ligue 2||g_1_UFfD0UR0||Nancy||Guingamp
+2020-08-29 17:00||FRANCE||Ligue 2||g_1_x40Z7CZQ||Chateauroux||Auxerre
+2020-08-29 17:00||FRANCE||Ligue 2||g_1_fc203Wsr||Dunkerque||Clermont
+2020-08-29 17:00||FRANCE||Ligue 2||g_1_Ym142jcl||Grenoble||Toulouse
+2020-08-29 17:00||FRANCE||Ligue 2||g_1_GCj91ACf||Le Havre||Amiens
+2020-08-29 17:00||FRANCE||Ligue 2||g_1_OxfHals7||Niort||Chambly
+2020-08-29 17:00||FRANCE||Ligue 2||g_1_2ThLb8dD||Paris FC||Valenciennes
+2020-08-29 17:00||FRANCE||Ligue 2||g_1_vox4NiZD||Pau FC||Rodez
+2020-08-29 17:00||FRANCE||Ligue 2||g_1_Iyy8MBlK||Sochaux||Troyes
+2020-08-29 15:00||FRANCE||National 2 - Group A||g_1_2crq1pFr||Lorient II||Vannes
+2020-08-29 15:30||FRANCE||National 2 - Group A||g_1_dKLHpPU1||Chartres||Fleury-Merogis
+2020-08-29 16:00||FRANCE||National 2 - Group A||g_1_ITMDo5Fe||Blois||Caen II
+2020-08-29 16:00||FRANCE||National 2 - Group A||g_1_Aa348SM8||Granville||Chateaubriant
+2020-08-29 16:00||FRANCE||National 2 - Group A||g_1_0ldH5Q6R||Guingamp II||Saint-Pryve
+2020-08-29 16:00||FRANCE||National 2 - Group A||g_1_bPa09872||Rouen||Poissy
+2020-08-29 16:00||FRANCE||National 2 - Group A||g_1_4M287nxF||Sainte-Genevieve||Saint-Malo
+2020-08-29 16:00||FRANCE||National 2 - Group A||g_1_rD1C66iL||Versailles||Plabennec
+2020-08-29 14:00||FRANCE||National 2 - Group B||g_1_G0I975lS||Lens II||Paris 13 Atl.
+2020-08-29 15:00||FRANCE||National 2 - Group B||g_1_Yu5y3Pdq||Reims II||FC 93
+2020-08-29 16:00||FRANCE||National 2 - Group B||g_1_xAJ58oZL||Auxerre II||St Quentin
+2020-08-29 16:00||FRANCE||National 2 - Group B||g_1_8xMDmpcd||Beauvais||Lusitanos
+2020-08-29 16:00||FRANCE||National 2 - Group B||g_1_Op40Bmk3||Epinal||Sannois
+2020-08-29 16:00||FRANCE||National 2 - Group B||g_1_db289RJF||Haguenau||ASM Belfort
+2020-08-29 16:00||FRANCE||National 2 - Group B||g_1_As0dCTZd||Sedan||Schiltigheim
+2020-08-29 18:00||FRANCE||National 2 - Group B||g_1_I734A749||GFC Ajaccio||Metz II
+2020-08-29 16:00||FRANCE||National 2 - Group C||g_1_dIEALAJ1||Aubagne||Monaco II
+2020-08-29 16:00||FRANCE||National 2 - Group C||g_1_z9DEKUY7||GFA74||GOAL FC
+2020-08-29 16:00||FRANCE||National 2 - Group C||g_1_pve5shtL||Grasse||Andrezieux
+2020-08-29 16:00||FRANCE||National 2 - Group C||g_1_lC1dqEB8||Louhans Cuiseaux||Martigues
+2020-08-29 16:00||FRANCE||National 2 - Group C||g_1_KEfvyjJl||Marseille II||Lyon II
+2020-08-29 16:00||FRANCE||National 2 - Group C||g_1_tOezxW3r||Saint Priest||Hyeres
+2020-08-29 16:00||FRANCE||National 2 - Group C||g_1_OUg9tCeR||Toulon||Frejus Saint Raphael
+2020-08-29 16:00||FRANCE||National 2 - Group D||g_1_jR8wv2Sa||Beziers||Chamalieres
+2020-08-29 16:00||FRANCE||National 2 - Group D||g_1_YkbrwMs6||Bourges||Angers II
+2020-08-29 16:00||FRANCE||National 2 - Group D||g_1_tG1jy0CI||Le Puy||Romorantin
+2020-08-29 16:00||FRANCE||National 2 - Group D||g_1_K60fzKRO||Les Herbiers||Bourges 18
+2020-08-29 16:30||FRANCE||National 2 - Group D||g_1_MBvwa34P||Moulins-Yzeure||Angouleme CFC
+2020-08-29 17:00||FRANCE||National 2 - Group D||g_1_CtcnxtcC||Canet Roussillon||Colomiers
+2020-08-29 12:00||GEORGIA||Georgian Cup||g_1_23LhJuc5||Samgurali||WIT Georgia
+2020-08-29 12:00||GEORGIA||Georgian Cup||g_1_dQKdIaCB||Tbilisi City||Shukura
+2020-08-29 15:30||GEORGIA||Georgian Cup||g_1_ATO0HJRH||Spaeri||Rustavi
+2020-08-29 11:30||GERMANY||Regionalliga Nordost||g_1_23FL0qL4||Altglienicke||Meuselwitz
+2020-08-29 11:30||GERMANY||Regionalliga Nordost||g_1_l0knnp6B||Energie Cottbus||Viktoria Berlin
+2020-08-29 11:30||GERMANY||Regionalliga Nordost||g_1_0zgjo4LH||Rathenow||Auerbach
+2020-08-29 11:30||GERMANY||Regionalliga Nordost||g_1_8tGH1P5b||TB Berlin||Lichtenberg
+2020-08-29 12:00||GERMANY||Regionalliga Nordost||g_1_CEM83oyn||Jena||Lokomotive Leipzig
+2020-08-29 14:00||GERMANY||Regionalliga Nordost||g_1_fwjrmQj5||Chemie Leipzig||Hertha Berlin II
+2020-08-29 14:00||GERMANY||Regionalliga Nordost||g_1_rarepOzO||Chemnitzer||Halberstadt
+2020-08-29 12:00||GERMANY||Oberliga NOFV-Nord||g_1_bJjntZq9||Rostocker FC||Stern
+2020-08-29 12:00||GERMANY||Oberliga NOFV-Nord||g_1_pd0hKiNk||RSV Eintracht||CFC Hertha
+2020-08-29 12:00||GERMANY||Oberliga NOFV-Nord||g_1_WhdlLX7q||Strausberg||Pampow
+2020-08-29 12:00||GERMANY||Oberliga NOFV- Sud||g_1_rHB1yfiB||Oberlausitz||Eilenburg
+2020-08-29 12:00||GERMANY||Oberliga NOFV- Sud||g_1_Y54EYiyU||Sandersdorf||Krieschow
+2020-08-29 12:00||GERMANY||Oberliga Baden-Württemberg||g_1_4vQMLRi3||Freiberg||Pforzheim
+2020-08-29 12:00||GERMANY||Oberliga Baden-Württemberg||g_1_06JVJ5MF||Freiburger||Ravensburg
+2020-08-29 12:00||GERMANY||Oberliga Baden-Württemberg||g_1_8WMwIqiS||Sandhausen II||Bissingen
+2020-08-29 12:00||GERMANY||Oberliga Baden-Württemberg||g_1_QmRIM7xc||Stutt. Kickers||Rielasingen-Arlen
+2020-08-29 12:00||GERMANY||Oberliga Baden-Württemberg||g_1_MFKRKo79||TSV Ilshofen||Villingen
+2020-08-29 13:00||GERMANY||Oberliga Baden-Württemberg||g_1_fTIZIPyM||Bruchsal||Goppinger SV
+2020-08-29 13:30||GERMANY||Oberliga Baden-Württemberg||g_1_h4bACNEk||Nottingen||Neckarsulmer
+2020-08-29 13:30||GERMANY||Oberliga Baden-Württemberg||g_1_nuDDBsUe||Oberachern||Dorfmerkingen
+2020-08-29 13:30||GERMANY||Oberliga Baden-Württemberg||g_1_EDa6D3aq||Reutlingen||Walldorf II
+2020-08-29 17:00||GREECE||Super League - Relegation||g_1_pWG1RmIF||Smyrnis||Xanthi FC
+2020-08-29 17:00||GUATEMALA||Liga Nacional - Apertura||g_1_Kdyi1tea||Comunicaciones||Xelaju
+2020-08-29 19:00||GUATEMALA||Liga Nacional - Apertura||g_1_MJYYBEGf||Sacachispas||Deportivo Achuapa
+2020-08-29 21:30||GUATEMALA||Liga Nacional - Apertura||g_1_xYon2Mug||Coban Imperial||Municipal
+2020-08-29 18:30||HUNGARY||OTP Bank Liga||g_1_8SSFRQFi||Paks||Mezokovesd-Zsory
+2020-08-29 16:15||HUNGARY||Merkantil Bank Liga||g_1_U7fU7ncm||Vasas||Debrecen
+2020-08-29 14:30||HUNGARY||NB I Women||g_1_GpnKrHaQ||Haladas W||Gyor W
+2020-08-29 15:00||HUNGARY||NB I Women||g_1_rXmCpwVD||DVTK W||Kelen W
+2020-08-29 15:00||HUNGARY||NB I Women||g_1_MNnGqcpK||Ferencvaros W||Astra Hungary W
+2020-08-29 15:00||HUNGARY||NB I Women||g_1_h6wnvy8s||MTK Hungaria W||Szent Mihaly W
+2020-08-29 14:00||ICELAND||Inkasso-deildin||g_1_b1uWaQeo||Afturelding||Fram
+2020-08-29 14:00||ICELAND||Inkasso-deildin||g_1_GxAG7xFi||Grindavik||Vestri
+2020-08-29 14:00||ICELAND||Inkasso-deildin||g_1_2Z5C8Iao||Olafsvik||Vestmannaeyjar
+2020-08-29 15:00||ICELAND||Inkasso-deildin||g_1_Aa9K6dUc||Thor Akureyri||Throttur
+2020-08-29 16:00||ICELAND||Inkasso-deildin||g_1_h2DbIYBC||Leiknir F.||Magni
+2020-08-29 14:00||ICELAND||Division 2||g_1_GvkDi77L||Volsungur||Selfoss
+2020-08-29 15:00||ICELAND||Division 2||g_1_fmumo5pk||Vidir||Fjardabyggd
+2020-08-29 16:00||ICELAND||Division 2||g_1_xlj9hmhF||Dalvik/Reynir||IR Reykjavik
+2020-08-29 16:00||ICELAND||Division 2||g_1_8jqipPae||Kari||Fjallabyggd
+2020-08-29 14:00||ICELAND||Urvalsdeild Women||g_1_l09THIwH||Selfoss W||Hafnarfjordur W
+2020-08-29 14:00||ICELAND||Urvalsdeild Women||g_1_xOQ5bUxd||Stjarnan W||IBV Vestmannaeyjar W
+2020-08-29 14:00||ICELAND||Urvalsdeild Women||g_1_KnW0aANk||Throttur W||Fylkir W
+2020-08-29 16:00||IRELAND||FAI Cup||g_1_pWr8BujD||Drogheda||Derry City
+2020-08-29 18:45||IRELAND||FAI Cup||g_1_nyNjzPSD||Bray||Finn Harps
+2020-08-29 13:00||IRELAND||National League Women||g_1_f9xSJaPr||Shelbourne W||Wexford Youths Football Club W
+2020-08-29 17:30||IRELAND||National League Women||g_1_MV8OIJvk||Peamount W||Athlone WFC W
+2020-08-29 16:00||ISRAEL||Ligat ha'Al||g_1_Uoast7LC||Ashdod||Kiryat Shmona
+2020-08-29 16:45||ISRAEL||Ligat ha'Al||g_1_vc6Ur9yf||Sakhnin||Bnei Yehuda
+2020-08-29 17:30||ISRAEL||Ligat ha'Al||g_1_CA4xsm66||Hapoel Kfar Saba||Hapoel Tel Aviv
+2020-08-29 15:45||ITALY||Serie A Women||g_1_l0wBnFtQ||Florentia W||Verona W
+2020-08-29 15:45||ITALY||Serie A Women||g_1_vVHkuXYa||San Marino Academy W||AC Milan W
+2020-08-29 18:45||ITALY||Serie A Women||g_1_6HJssg4m||Juventus W||Empoli W
+2020-08-29 09:00||JAPAN||J1 League||g_1_WlnOZc81||Kobe||Yokohama M.
+2020-08-29 10:00||JAPAN||J1 League||g_1_l8oqZQHj||G-Osaka||FC Tokyo
+2020-08-29 10:00||JAPAN||J1 League||g_1_QslJfE2H||Hiroshima||Vegalta Sendai
+2020-08-29 10:00||JAPAN||J1 League||g_1_IyDd8XWG||Kashiwa||Kashima
+2020-08-29 10:00||JAPAN||J1 League||g_1_KWu8skAA||Kawasaki Frontale||Shimizu
+2020-08-29 10:00||JAPAN||J1 League||g_1_fV5ZSkeH||Sapporo||Nagoya
+2020-08-29 10:00||JAPAN||J1 League||g_1_jDL0mHx1||Urawa||Oita
+2020-08-29 09:00||JAPAN||J2 League||g_1_dlq04a4H||Verdy||Kyoto
+2020-08-29 09:00||JAPAN||J2 League||g_1_2JBrW4a4||Yamaga||Tokushima
+2020-08-29 10:00||JAPAN||J2 League||g_1_faoOa4fr||Avispa Fukuoka||Albirex Niigata
+2020-08-29 10:00||JAPAN||J2 League||g_1_W8YJdgpI||Giravanz Kitakyushu||Chiba
+2020-08-29 10:00||JAPAN||J2 League||g_1_p0OAvo5j||Mito||Ehime
+2020-08-29 10:00||JAPAN||J2 League||g_1_I7i5rl7H||Renofa Yamaguchi||Kanazawa
+2020-08-29 10:00||JAPAN||J2 League||g_1_YaTUmkr4||Ryukyu||Montedio Yamagata
+2020-08-29 10:00||JAPAN||J2 League||g_1_S0c0JRFb||V-Varen Nagasaki||Omiya Ardija
+2020-08-29 06:00||JAPAN||J3 League||g_1_bDqUNoTQ||Grulla Morioka||Imabari
+2020-08-29 08:00||JAPAN||J3 League||g_1_pSYGr7n3||Fujieda MYFC||Kagoshima Utd
+2020-08-29 09:00||JAPAN||J3 League||g_1_WWl3t23j||C-Osaka U23||Fukushima Utd
+2020-08-29 09:30||JAPAN||J3 League||g_1_CKP4Hq6f||Toyama||Vanraure
+2020-08-29 10:00||JAPAN||J3 League||g_1_YgAqjXX7||Gainare Tottori||Nagano
+2020-08-29 07:00||JAPAN||Nadeshiko League Women||g_1_byvNOF86||Kunoichi W||C-Osaka W
+2020-08-29 12:00||KAZAKHSTAN||Premier League||g_1_ImqVsJrI||Kaisar Kyzylorda||Tobol
+2020-08-29 15:00||KAZAKHSTAN||Premier League||g_1_rVjIpLba||Okzhetpes||Shakhtar Karagandy
+2020-08-29 09:00||LAOS||Lao League||g_1_KYlCHmlq||Lao Toyota||Viengchanh
+2020-08-29 09:00||LAOS||Lao League||g_1_2g2pMTuS||Master 7||Young Elephant
+2020-08-29 12:00||LATVIA||Optibet Virsliga||g_1_8Q1h01dJ||Tukums 2000||FK Liepaja
+2020-08-29 14:00||LATVIA||Optibet Virsliga||g_1_Auqk1ssD||Jelgava||Spartaks
+2020-08-29 10:00||LATVIA||1. Liga||g_1_xfirucL9||Lokomotiv Daugavpils||Dinamo Riga
+2020-08-29 12:00||LATVIA||1. Liga||g_1_GpjnvHzG||Grobina||Auda
+2020-08-29 13:00||LATVIA||1. Liga||g_1_AL4kwyjM||Saldus SS/Leevon||FK Smiltene
+2020-08-29 14:00||LITHUANIA||I Lyga||g_1_CzAOZ5Wd||BFA Vilnius||Minija
+2020-08-29 14:00||LITHUANIA||I Lyga||g_1_Iw0qVsoS||Dziugas Telsiai||Vilniaus Vytis
+2020-08-29 14:00||LITHUANIA||I Lyga||g_1_pQ1yX3GF||FK Atmosfera||Nevezis Kedainiai
+2020-08-29 14:00||LITHUANIA||I Lyga||g_1_OKGtBMgd||FK Panevezys 2||Jonava
+2020-08-29 14:00||LITHUANIA||I Lyga||g_1_vm1uWNVL||Kauno Zalgiris 2||Dainava Alytus
+2020-08-29 14:00||LITHUANIA||I Lyga||g_1_jR8SYPo3||Riteriai 2||Hegelmann Litauen
+2020-08-29 14:00||LITHUANIA||I Lyga||g_1_YkbXXq19||Zalgiris 2||Siauliai FA
+2020-08-29 16:00||LUXEMBOURG||National Division||g_1_fJFTPpec||Racing Luxembourg||Fola
+2020-08-29 13:00||MALAYSIA||Super League||g_1_Snv5IUUG||PDRM FA||Kedah
+2020-08-29 13:00||MALAYSIA||Super League||g_1_tfKuCS7p||Selangor||Petaling Jaya CFC
+2020-08-29 13:00||MALAYSIA||Super League||g_1_ldu1JAFA||Terengganu||Sabah
+2020-08-29 13:00||MALAYSIA||Premier League||g_1_CAbOv6d1||Johor DT II||Kelantan United
+2020-08-29 13:00||MALAYSIA||Premier League||g_1_vc0GtSRl||Kelantan||Penang
+2020-08-29 13:00||MALAYSIA||Premier League||g_1_ImaKunse||Perak 2||Sarawak Utd.
+2020-08-29 00:30||MEXICO||Liga MX - Apertura||g_1_veB1WYzJ||Puebla||Toluca
+2020-08-29 02:30||MEXICO||Liga MX - Apertura||g_1_hbaqeIDJ||Mazatlan FC||U.A.N.L.- Tigres
+2020-08-29 15:00||MEXICO||Liga MX Women - Apertura||g_1_2NDTRNAG||Atlas W||Queretaro W
+2020-08-29 13:30||MOLDOVA||Moldovan Cup||g_1_CpJWIcVo||FCM Ungheni||Singerei
+2020-08-29 13:30||MOLDOVA||Moldovan Cup||g_1_jyIzIHph||Flacara Falesti||Bardar
+2020-08-29 13:30||MOLDOVA||Moldovan Cup||g_1_bsVlfEho||Ialoveni||Cahul
+2020-08-29 13:30||MOLDOVA||Moldovan Cup||g_1_4tDGCM8C||Socol Copceac||Sparta Selemet
+2020-08-29 13:30||MOLDOVA||Moldovan Cup||g_1_8CCuHy0b||Trestieni||Sucleia
+2020-08-29 08:00||MONGOLIA||Premier League||g_1_UPcvkJlJ||Khangarid||Ulaanbaatar City
+2020-08-29 11:00||MONGOLIA||Premier League||g_1_rToMD2RJ||Mazaalainuud||Khaan Khuns-Erchim
+2020-08-29 17:00||MOROCCO||Botola Pro||g_1_xEV05xiS||FAR Rabat||Olympique Khouribga
+2020-08-29 17:00||MOROCCO||Botola Pro||g_1_re8T0daq||Rapide Oued Zem||Youssoufia Berrechid
+2020-08-29 19:00||MOROCCO||Botola Pro||g_1_Mo7XaGEk||Olympique de Safi||Difaa El Jadidi
+2020-08-29 21:00||MOROCCO||Botola Pro||g_1_UBAubfq2||Hassania Agadir||FUS Rabat
+2020-08-29 21:00||MOROCCO||Botola Pro||g_1_jLByazUe||Moghreb Tetouan||Wydad
+2020-08-29 14:30||NETHERLANDS||Eerste Divisie||g_1_IoKyLQFp||Jong PSV||Excelsior
+2020-08-29 16:45||NETHERLANDS||Eerste Divisie||g_1_ULNuKpVj||Oss||Helmond
+2020-08-29 19:00||NETHERLANDS||Eerste Divisie||g_1_WQ1OrU7i||Breda||Jong AZ
+2020-08-29 12:30||NETHERLANDS||KNVB Beker||g_1_IPSTgS9c||Capelle||Hoogland
+2020-08-29 12:30||NETHERLANDS||KNVB Beker||g_1_jaC0JoYp||Cluzona||Sparta Nijkerk
+2020-08-29 12:30||NETHERLANDS||KNVB Beker||g_1_WfkmskQi||DVS '33 Ermelo||Dongen
+2020-08-29 12:30||NETHERLANDS||KNVB Beker||g_1_IBmeuTf4||Rijnvogels||Watergraafsmeer
+2020-08-29 12:30||NETHERLANDS||KNVB Beker||g_1_0lIYhnP3||VVOG||DEM
+2020-08-29 13:00||NETHERLANDS||KNVB Beker||g_1_KGLUO7AN||Harkemase Boys||USV Hercules
+2020-08-29 13:00||NETHERLANDS||KNVB Beker||g_1_Iox1ViRu||Hoek||Oostzaan
+2020-08-29 13:00||NETHERLANDS||KNVB Beker||g_1_EwLYNRPT||Ter Leede||Hoogezand
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_6yMrWOHj||ACV Assen||Gemert
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_8ELtiQgG||AWC||ODIN '59
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_n5Kpjp9M||Barendrecht||Erp
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_Ews4w7PG||DOS Kampen||EVV
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_OlSLQTuB||DTS Ede||Best Vooruit
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_niuCyofT||DUNO||UNA
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_SMdiBltO||DWOW||Buitenpost
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_pbTHR9Q4||Excelsior 31||Susteren
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_tQMQPmeH||GOES||Sportlust
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_jyUDSkBb||Hoogeveen||VV DOVO
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_v1Q9TVeh||HVV Hollandia||Flevo Boys
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_h4jqrVAo||Jong AFC||GVV Unitas
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_SpNvX42p||Lisse||Blauw Geel
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_KvAQf8fi||OSS '20||Ajax (Am)
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_dxy5UBtn||Roda 46||ADO 20 Heemskerk
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_6k1HpOWq||Sliedrecht||VVSB
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_vuHxh6vA||Staphorst||HSC '21
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_0zw0vmAA||SteDoCo||Den Hoorn
+2020-08-29 15:00||NETHERLANDS||KNVB Beker||g_1_UT9kk4OS||VV Scherpenzeel||Groene Ster
+2020-08-29 16:00||NETHERLANDS||KNVB Beker||g_1_6DeeA8eU||Achilles Veen||NWC
+2020-08-29 16:00||NETHERLANDS||KNVB Beker||g_1_hd4JQxaf||SVC 08||HV & CV Quick
+2020-08-29 23:00||NICARAGUA||Liga Primera - Apertura||g_1_00fDhUAM||CD Junior||Diriangen
+2020-08-29 17:00||NICARAGUA||Liga Primera U20 - Apertura||g_1_OhzvSOIu||Ferretti U20||Esteli U20
+2020-08-29 20:00||NICARAGUA||Liga Primera U20 - Apertura||g_1_2qZsRrYo||CD Junior U20||Diriangen U20
+2020-08-29 23:00||NICARAGUA||Liga Primera U20 - Apertura||g_1_d6YoQ2mh||Jalapa U20||Managua FC U20
+2020-08-29 14:30||NORTH MACEDONIA||1. MFL||g_1_EgVS8gao||Akademija Pandev||Struga Trim & Lum
+2020-08-29 14:30||NORTH MACEDONIA||1. MFL||g_1_rZMq5BbA||Makedonija GP||Belasica
+2020-08-29 14:30||NORTH MACEDONIA||1. MFL||g_1_MJYz7XTc||Rabotnicki||Vardar
+2020-08-29 14:30||NORTH MACEDONIA||2. MFL||g_1_WGpcr8U3||Labunishta||KF Gostivar
+2020-08-29 17:00||NORTH MACEDONIA||2. MFL||g_1_rNKYzB4m||Bregalnica Stip||Plackovica
+2020-08-29 16:00||NORWAY||Eliteserien||g_1_0p061Y9T||Haugesund||Valerenga
+2020-08-29 18:30||NORWAY||Eliteserien||g_1_hr1G9V1j||Brann||Stromsgodset
+2020-08-29 11:00||NORWAY||Division 2 - Group 1||g_1_SzKFFLIs||Skeid||Floro
+2020-08-29 11:00||NORWAY||Division 2 - Group 1||g_1_G2chweSt||Tromsdalen||Floya
+2020-08-29 14:00||NORWAY||Division 2 - Group 1||g_1_xSfof8ic||Eidsvold||Fredrikstad
+2020-08-29 14:00||NORWAY||Division 2 - Group 1||g_1_nq3TYuye||Hodd||Brattvag
+2020-08-29 14:00||NORWAY||Division 2 - Group 1||g_1_U7hYXaj1||Kjelsas||Moss
+2020-08-29 12:00||NORWAY||Division 2 - Group 2||g_1_I1Snz5ZD||Nardo||Baerum Sportsklubb
+2020-08-29 14:00||NORWAY||Division 2 - Group 2||g_1_AHhSFzla||Fram||Flekkeroy
+2020-08-29 14:00||NORWAY||Division 2 - Group 2||g_1_29G1oSwp||Sotra||Egersunds
+2020-08-29 11:00||NORWAY||Toppserien Women||g_1_nohJS7tP||Avaldsnes W||Roa W
+2020-08-29 20:30||PARAGUAY||Primera Division - Apertura||g_1_dKcYtAKf||River Plate||Guarani
+2020-08-29 23:00||PARAGUAY||Primera Division - Apertura||g_1_Ee8Tsj5l||Nacional Asuncion||12 de Octubre
+2020-08-29 15:00||PERU||Liga 1 - Apertura||g_1_Gr5migJN||Binacional||Cienciano
+2020-08-29 15:00||PERU||Liga 1 - Apertura||g_1_nkbXfyKb||Cajamarca||Sport Boys
+2020-08-29 15:00||PERU||Liga 1 - Apertura||g_1_CW5Kcwzt||Carlos Mannucci||Cesar Vallejo
+2020-08-29 15:00||PERU||Liga 1 - Apertura||g_1_KGBvgFlB||Cusco||AD Cantolao
+2020-08-29 15:00||PERU||Liga 1 - Apertura||g_1_M3f9jMSC||Dep. Municipal||Llacuabamba
+2020-08-29 15:00||PERU||Liga 1 - Apertura||g_1_tQCzfeZ4||FBC Melgar||Alianza Lima
+2020-08-29 15:00||PERU||Liga 1 - Apertura||g_1_0fgDktrJ||Grau||Ayacucho
+2020-08-29 15:00||PERU||Liga 1 - Apertura||g_1_QZ9Odckn||Sport Huancayo||Carlos Stein
+2020-08-29 15:00||PERU||Liga 1 - Apertura||g_1_2u1qhZ3H||Sporting Cristal||U. San Martin
+2020-08-29 15:00||PERU||Liga 1 - Apertura||g_1_A54ijDYT||U. de Deportes||Alianza Huanuco
+2020-08-29 13:00||POLAND||Ekstraklasa||g_1_0nwWRO7g||Lechia Gdansk||Rakow
+2020-08-29 15:30||POLAND||Ekstraklasa||g_1_8ITjN0MO||Wisla||Slask Wroclaw
+2020-08-29 18:00||POLAND||Ekstraklasa||g_1_vwxzRrNa||Legia||Jagiellonia
+2020-08-29 10:40||POLAND||Division 1||g_1_ncGMcghp||Radomiak Radom||Widzew Lodz
+2020-08-29 14:00||POLAND||Division 1||g_1_lM0LIfU9||Legnica||Sandecja Nowy S.
+2020-08-29 15:00||POLAND||Division 1||g_1_AV1HJzF3||Leczna||GKS Belchatow
+2020-08-29 17:00||POLAND||Division 1||g_1_tdcDKGac||Puszcza||R. Rzeszow
+2020-08-29 17:00||POLAND||Division 1||g_1_tfIg0nEr||Tychy||Stomil Olsztyn
+2020-08-29 18:00||POLAND||Division 1||g_1_WpjQHEqG||Termalica B-B.||Zaglebie Sosnowiec
+2020-08-29 13:00||POLAND||Division 2||g_1_zDmAeuNF||S. Rzeszow||Polkowice
+2020-08-29 15:00||POLAND||Division 2||g_1_Ym3Bzvoj||KKS Kalisz||Blekitni Stargard
+2020-08-29 17:46||POLAND||Division 2||g_1_vof1c1h3||Bytovia Bytow||Ol. Grudziadz
+2020-08-29 17:50||POLAND||Division 2||g_1_0fecbswc||Lublin||Pruszkow
+2020-08-29 09:00||POLAND||III Liga - Group I||g_1_YmJRquqo||Ursus Warszawa||Concordia Elblag
+2020-08-29 13:00||POLAND||III Liga - Group I||g_1_M9aM5M54||Biala Piska||Pelikan
+2020-08-29 14:00||POLAND||III Liga - Group I||g_1_neF2ohKk||KS Kutno||Radomsko
+2020-08-29 14:00||POLAND||III Liga - Group I||g_1_Qs6D7ryh||Wasilkow||Grodzisk M.
+2020-08-29 15:00||POLAND||III Liga - Group I||g_1_ni798OLo||Bron Radom||Swit
+2020-08-29 15:00||POLAND||III Liga - Group I||g_1_S62U30zH||Huragan Morag||T. Mazowiecki
+2020-08-29 15:00||POLAND||III Liga - Group I||g_1_84GbnY4q||Skierniewice||Jagiellonia II
+2020-08-29 15:00||POLAND||III Liga - Group I||g_1_rJ0I62jb||Sokol Aleksandrow L.||Blonianka Blonie
+2020-08-29 17:00||POLAND||III Liga - Group I||g_1_dSRalLzU||Polonia Warszawa||Legionowo
+2020-08-29 13:00||POLAND||III Liga - Group II||g_1_pIyki6qr||Nielba Wagrowiec||Gornik Konin
+2020-08-29 14:00||POLAND||III Liga - Group II||g_1_vJ9H9Ea9||Starogard Gdanski||Chemik Police
+2020-08-29 15:00||POLAND||III Liga - Group II||g_1_dfKCAfp3||Gryf Wejherowo||Przodkowo
+2020-08-29 15:00||POLAND||III Liga - Group II||g_1_UmSQnihd||Gwardia Koszalin||Baltyk Koszalin
+2020-08-29 15:00||POLAND||III Liga - Group II||g_1_xn91nrbD||Kleczew||Unia Janikowo
+2020-08-29 15:00||POLAND||III Liga - Group II||g_1_hMDL8YEF||Kotwica Kolobrzeg||Stezyca
+2020-08-29 15:00||POLAND||III Liga - Group II||g_1_UL5gl4T0||Pomorzanin Torun||Mieszko
+2020-08-29 15:00||POLAND||III Liga - Group II||g_1_O8zgjQbl||Swinoujscie||Elana Torun
+2020-08-29 15:00||POLAND||III Liga - Group II||g_1_I3L8BzVd||Swit Skolwin||Unia Swarzedz
+2020-08-29 17:30||POLAND||III Liga - Group II||g_1_Or5cmOr7||B. Gdynia||Pogon Szczecin II
+2020-08-29 12:00||POLAND||III Liga - Group III||g_1_d6fkf3Om||Sleza Wroclaw||Ruch Chorzow
+2020-08-29 15:00||POLAND||III Liga - Group III||g_1_Qon6jLNC||Bielsko-Biala||Pniowek
+2020-08-29 15:00||POLAND||III Liga - Group III||g_1_Sj4JaP0Q||Foto-Higiena Gac||Kluczbork
+2020-08-29 15:00||POLAND||III Liga - Group III||g_1_vkjAkuwJ||Nysa||Legnica 2
+2020-08-29 15:00||POLAND||III Liga - Group III||g_1_2qeoeq9s||Piast Zmigrod||Warta Gorzow
+2020-08-29 15:00||POLAND||III Liga - Group III||g_1_hYmbhsg0||Polonia Bytom||Gornik Z. 2
+2020-08-29 15:00||POLAND||III Liga - Group III||g_1_tfUhEOFJ||ROW Rybnik||Gwarek Tarnowskie Gory
+2020-08-29 15:00||POLAND||III Liga - Group III||g_1_WOn2i186||Zielona Gora||Goczalkowice Zdroj
+2020-08-29 10:00||POLAND||III Liga - Group IV||g_1_4U8rzmTa||Biala Podlaska||Ostrowiec Swietokrzyski
+2020-08-29 15:00||POLAND||III Liga - Group IV||g_1_QwAvyTDg||Avia Swidnik||Wolka Pelkinska
+2020-08-29 15:00||POLAND||III Liga - Group IV||g_1_AX4TFojS||Cracovia 2||Hetman Zamosc
+2020-08-29 15:00||POLAND||III Liga - Group IV||g_1_v3Bl25Ch||Orleta Radzyn||Chelmianka Chelm
+2020-08-29 09:00||POLAND||Central Youth League||g_1_65adSK6c||Pogon Szczecin U18||Legia U18
+2020-08-29 10:00||POLAND||Central Youth League||g_1_SE0hT0ii||Escola Warszawa U18||Gornik Z. U18
+2020-08-29 10:00||POLAND||Central Youth League||g_1_pKxqJGTq||Slask U18||Arka Gdynia U18
+2020-08-29 10:15||POLAND||Central Youth League||g_1_zoiDOx6M||Jagiellonia U18||Korona Kielce U18
+2020-08-29 10:30||POLAND||Central Youth League||g_1_dfh9PIjG||Cracovia U18||Zaglebie U18
+2020-08-29 14:00||POLAND||Central Youth League||g_1_0Sb0RvM3||UKS SMS Lodz U18||Hutnik Krakow U18
+2020-08-29 09:45||POLAND||Ekstraliga Women||g_1_Crt4uKT5||Bydgoszcz W||UKS SMS Lodz W
+2020-08-29 11:00||POLAND||Ekstraliga Women||g_1_barGxIDO||Czarni Sosnowiec W||Gdansk W
+2020-08-29 13:00||QATAR||QSL Cup - Play Offs||g_1_0KUBlOh7||Al Rayyan||Al Arabi
+2020-08-29 16:00||QATAR||QSL Cup - Play Offs||g_1_b5mFmr8D||Al Ahli Doha||Al-Sadd
+2020-08-29 15:00||ROMANIA||Liga 1||g_1_nyPfb0Tr||FC Hermannstadt||Academica Clinceni
+2020-08-29 18:00||ROMANIA||Liga 1||g_1_GdlQrLTe||CFR Cluj||Sepsi Sf. Gheorghe
+2020-08-29 08:00||ROMANIA||Liga 2||g_1_hIm7yxKI||Comuna Recea||Csikszereda M. Ciuc
+2020-08-29 08:00||ROMANIA||Liga 2||g_1_Orq3xI4C||CSM Slatina||Calarasi
+2020-08-29 08:00||ROMANIA||Liga 2||g_1_2TGPgJZn||Metaloglobus||Pandurii
+2020-08-29 08:00||ROMANIA||Liga 2||g_1_W8nBzdZO||Politehnica Timisoara||Mioveni
+2020-08-29 08:00||ROMANIA||Liga 2||g_1_YDQgauCP||SCM Gloria||Concordia
+2020-08-29 08:00||ROMANIA||Liga 2||g_1_86HLfaKt||Slobozia||Turnu Magurele
+2020-08-29 12:30||ROMANIA||Liga 2||g_1_tKFThwkg||FC U Craiova||Ripensia Timisoara
+2020-08-29 15:00||RUSSIA||Premier League||g_1_Cb8aUjVE||Spartak Moscow||Arsenal Tula
+2020-08-29 17:00||RUSSIA||Premier League||g_1_OdfjK677||Khimki||R. Volgograd
+2020-08-29 13:00||RUSSIA||PFL - Group 1||g_1_dvWrfenD||FK Makhachkala||SKA Rostov
+2020-08-29 13:30||RUSSIA||PFL - Group 1||g_1_0CxzdHH0||Tuapse||Mashuk
+2020-08-29 14:00||RUSSIA||PFL - Group 1||g_1_OpOUHbvK||Spartak Nalchik||Kholding
+2020-08-29 15:00||RUSSIA||PFL - Group 1||g_1_AsKQIvPD||Dynamo Stavropol||Legion Dynamo
+2020-08-29 15:30||RUSSIA||PFL - Group 1||g_1_69DZGIgQ||Chernomorets Novorossijsk||Yessentuki
+2020-08-29 15:30||RUSSIA||PFL - Group 1||g_1_ImXveyX6||Kuban||Maykop
+2020-08-29 10:00||RUSSIA||PFL - Group 2||g_1_4l3nQKPE||Leningradets||Murom
+2020-08-29 13:00||RUSSIA||PFL - Group 2||g_1_nDhiPvuL||Luki-Energiya||Tver
+2020-08-29 13:00||RUSSIA||PFL - Group 2||g_1_0GdeObfR||Smolensk||Olimp-Dolgoprudny
+2020-08-29 13:00||RUSSIA||PFL - Group 2||g_1_Qc4rR0A8||Vladimir||Zenit 2
+2020-08-29 14:00||RUSSIA||PFL - Group 2||g_1_dnrRIxIl||Dynamo Moscow 2||Lokomotiv-Kazanka
+2020-08-29 13:00||RUSSIA||PFL - Group 3||g_1_dUlSasL7||FK Strogino Moscow||Lipetsk
+2020-08-29 13:00||RUSSIA||PFL - Group 3||g_1_6aWIM4SK||Kaluga||Kvant
+2020-08-29 13:00||RUSSIA||PFL - Group 3||g_1_AXxAOQc8||Saratov||Sakhalin
+2020-08-29 13:00||RUSSIA||PFL - Group 3||g_1_xrNlHrjr||Znamya Noginsk||Ryazan
+2020-08-29 14:00||RUSSIA||PFL - Group 3||g_1_OzsENpDE||Kursk||Khimki 2
+2020-08-29 14:00||RUSSIA||PFL - Group 3||g_1_IwjO0N51||Salyut-Belgorod||Krasnyy SGAFKST
+2020-08-29 14:00||RUSSIA||PFL - Group 3||g_1_GYLhG25l||Saturn Ramenskoye||Vidnoe
+2020-08-29 15:00||RUSSIA||PFL - Group 3||g_1_pjVMLOsR||F. Voronezh 2||Khimik-Arsenal
+2020-08-29 09:00||RUSSIA||PFL - Group 4||g_1_K81i5TtJ||Ural 2||Orenburg 2
+2020-08-29 10:00||RUSSIA||PFL - Group 4||g_1_trYr9Bsf||Krylya Sovetov Samara 2||Volna Nizhegorodskaya
+2020-08-29 11:00||RUSSIA||PFL - Group 4||g_1_z5Xn8Vd0||Zenit-Izhevsk||Lada Togliatti
+2020-08-29 12:00||RUSSIA||PFL - Group 4||g_1_tI2m69RC||Chelyabinsk||Nosta
+2020-08-29 13:00||RUSSIA||PFL - Group 4||g_1_EeWj7kC6||Kamaz||Lada Dimitrovgrad
+2020-08-29 15:40||SAUDI ARABIA||Saudi Professional League||g_1_joP6JYrP||Al Adalh||Al-Raed
+2020-08-29 16:00||SAUDI ARABIA||Saudi Professional League||g_1_biEtDWLh||Damac||Abha
+2020-08-29 17:40||SAUDI ARABIA||Saudi Professional League||g_1_K62kBAj5||Al-Hilal||Al-Hazem
+2020-08-29 17:40||SAUDI ARABIA||Saudi Professional League||g_1_tG3oCjya||Al-Nassr||Al Feiha
+2020-08-29 14:00||SCOTLAND||Premiership||g_1_rHwd3fr9||Kilmarnock||Dundee Utd
+2020-08-29 14:00||SCOTLAND||Premiership||g_1_xvw02EcF||Livingston||Ross County
+2020-08-29 14:00||SCOTLAND||Premiership||g_1_lEt41YCL||St Johnstone||St. Mirren
+2020-08-29 16:30||SCOTLAND||Premiership||g_1_WxW80hSR||Hamilton||Rangers
+2020-08-29 15:00||SERBIA||Super Liga||g_1_Ygl7XORm||Rad Beograd||Napredak
+2020-08-29 17:30||SERBIA||Super Liga||g_1_viiFV2d0||Backa||FK Vozdovac
+2020-08-29 17:30||SERBIA||Super Liga||g_1_Kn8WwRlK||Novi Pazar||Radnik
+2020-08-29 17:30||SERBIA||Super Liga||g_1_E9qSS0tJ||Radnicki Nis||Proleter
+2020-08-29 17:30||SERBIA||Super Liga||g_1_pUiBWrsf||Zlatibor Cajetina||Mladost
+2020-08-29 15:00||SERBIA||Prva Liga||g_1_I7yyXAmj||Zarkovo||Dubocica
+2020-08-29 15:00||SERBIA||Prva Liga||g_1_IcYMfEuc||Zemun||Jagodina
+2020-08-29 17:30||SERBIA||Prva Liga||g_1_GhfvWU2d||Borac 1926||Zeleznicar Pancevo
+2020-08-29 16:30||SLOVAKIA||Fortuna liga||g_1_ObcVGuIh||Senica||Nitra
+2020-08-29 17:00||SLOVAKIA||Fortuna liga||g_1_2kdZFaXb||Trnava||Sered
+2020-08-29 14:30||SLOVAKIA||2. liga||g_1_QcfdXCZE||FC Kosice||Bardejov
+2020-08-29 14:30||SLOVAKIA||2. liga||g_1_4r6mZY42||L. Mikulas||Petrzalka
+2020-08-29 14:30||SLOVAKIA||2. liga||g_1_rZ4iYhK8||Puchov||Komarno
+2020-08-29 17:00||SLOVAKIA||2. liga||g_1_OrDaWWlL||Skalica||Trebisov
+2020-08-29 15:00||SLOVAKIA||Divison C West||g_1_KEWqsAgF||Belusa||Velke Ludince
+2020-08-29 17:30||SLOVAKIA||Divison C West||g_1_xjsurjv9||Myjava||Crystal
+2020-08-29 14:00||SLOVAKIA||Divison C East||g_1_SCyQY2UA||FK Humenne||Slavia TU Kosice
+2020-08-29 14:00||SLOVAKIA||Divison C East||g_1_Qmu9xoVo||Lipany||Plavnica
+2020-08-29 14:00||SLOVAKIA||Divison C East||g_1_IqZhW98C||Presov||B. Nova Ves
+2020-08-29 14:00||SLOVAKIA||Divison C East||g_1_bwXLZrF4||Spisska Nova Ves||Vranov
+2020-08-29 14:00||SLOVAKIA||Divison C East||g_1_xOrDy5ph||Spisske Podhradie||Snina
+2020-08-29 14:30||SLOVAKIA||Divison C East||g_1_KnYHzPab||Mladost Kalsa||Stropkov
+2020-08-29 14:30||SLOVAKIA||Divison C Central||g_1_tdgIVm1M||MSK Martin||Kovacova
+2020-08-29 14:30||SLOVAKIA||Divison C Central||g_1_ShkEWToG||Namestovo||L. Hradok
+2020-08-29 14:30||SLOVAKIA||Divison C Central||g_1_pUa9X9W9||Rimavska Sobota||Rakytovce
+2020-08-29 15:00||SLOVAKIA||Divison C Bratislava||g_1_pfcXmafn||Bernolakovo||Pezinok
+2020-08-29 15:00||SLOVENIA||Prva liga||g_1_jinLqYlR||Bravo||ND Gorica
+2020-08-29 19:00||SLOVENIA||Prva liga||g_1_C0mHpEZK||Aluminij||Celje
+2020-08-29 15:00||SLOVENIA||2. SNL||g_1_bcT13hBC||Drava||NK Krka
+2020-08-29 15:00||SLOVENIA||2. SNL||g_1_xOxs8Gds||Krsko||Jadran Dekani
+2020-08-29 15:00||SLOVENIA||2. SNL||g_1_WAR91WuP||Primorje||Fuzinar
+2020-08-29 15:00||SLOVENIA||2. SNL||g_1_GEyo7zCm||Radomlje||Dob
+2020-08-29 15:00||SLOVENIA||2. SNL||g_1_2VZh5Et0||Triglav||NK Smartno
+2020-08-29 18:00||SLOVENIA||2. SNL||g_1_hKS52CQI||Nafta||Beltinci
+2020-08-29 11:30||SOUTH AFRICA||Premier League||g_1_Kpk5wSaF||Highlands||Maritzburg Utd
+2020-08-29 11:30||SOUTH AFRICA||Premier League||g_1_Cr8EG4h2||Orlando Pirates||Supersport Utd
+2020-08-29 13:30||SOUTH AFRICA||Premier League||g_1_dACYLaUs||Amazulu||Black Leopards
+2020-08-29 16:00||SOUTH AFRICA||Premier League||g_1_QoddulV2||Golden Arrows||Cape Town City
+2020-08-29 09:00||SOUTH KOREA||K League 1||g_1_f3wcVycU||Sangju Sangmu||Incheon
+2020-08-29 11:00||SOUTH KOREA||K League 1||g_1_f3eVcoEp||Suwon Bluewings||Busan
+2020-08-29 09:30||SOUTH KOREA||K League 2||g_1_8xIXMQPG||Gyeongnam||Suwon City
+2020-08-29 10:00||SOUTH KOREA||K League 2||g_1_GOdjvsDs||Jeju Utd||Anyang
+2020-08-29 08:00||SOUTH KOREA||K3 League||g_1_r1qi5kJj||Chuncheon||Gimpo C.
+2020-08-29 08:00||SOUTH KOREA||K3 League||g_1_bT7KABeT||Gyeongju Citizen||Jeonju Citizen
+2020-08-29 08:00||SOUTH KOREA||K3 League||g_1_pQ3GBitN||Hwaseong||Yangju
+2020-08-29 08:00||SOUTH KOREA||K3 League||g_1_j34CCXQG||Pyeongtaek Citizen||Mokpo City
+2020-08-29 10:00||SOUTH KOREA||K3 League||g_1_WGxZTYei||Cheongju||Gimhae
+2020-08-29 10:00||SOUTH KOREA||K3 League||g_1_A7ywThBc||Daejeon Korail||Changwon
+2020-08-29 10:00||SOUTH KOREA||K3 League||g_1_4Apm6V3p||Gangneung||Gyeongju KHNP
+2020-08-29 13:00||SWEDEN||Allsvenskan||g_1_zkcZKXTH||Ostersunds||Falkenbergs
+2020-08-29 13:00||SWEDEN||Allsvenskan||g_1_GMX7ZWrB||Varbergs||Sirius
+2020-08-29 11:00||SWEDEN||Superettan||g_1_6iEMOJOF||Dalkurd||Vasteras SK
+2020-08-29 13:00||SWEDEN||Superettan||g_1_2J7VMcgS||Degerfors||Halmstad
+2020-08-29 15:30||SWEDEN||Superettan||g_1_UmCjnTvU||AFC Eskilstuna||Sundsvall
+2020-08-29 15:30||SWEDEN||Superettan||g_1_KGFWkdNE||Osters||GAIS
+2020-08-29 15:30||SWEDEN||Superettan||g_1_Onyr6TU9||Trelleborgs||Jonkopings
+2020-08-29 11:00||SWEDEN||Division 1 - Norra||g_1_tQK9spQM||IFK Lulea||Brommapojkarna
+2020-08-29 11:00||SWEDEN||Division 1 - Norra||g_1_0QNgdnzh||Orebro Syr.||Sandvikens
+2020-08-29 12:00||SWEDEN||Division 1 - Norra||g_1_bcL6JndN||Frej||Karlstad
+2020-08-29 12:00||SWEDEN||Division 1 - Norra||g_1_UqEbmqPq||Taby||IFK Berga
+2020-08-29 14:00||SWEDEN||Division 1 - Norra||g_1_Gvw8Hj7g||Gefle||Nykopings
+2020-08-29 14:00||SWEDEN||Division 1 - Norra||g_1_67hWboec||Karlslunds||Sollentuna
+2020-08-29 15:00||SWEDEN||Division 1 - Norra||g_1_65VtEWIi||Haninge||Vasalunds
+2020-08-29 11:00||SWEDEN||Division 1 - Södra||g_1_MuhDGTYC||Lindome||Trollhattan
+2020-08-29 12:00||SWEDEN||Division 1 - Södra||g_1_Mmfb3kOF||Eskilsminne||Linkoping City
+2020-08-29 12:00||SWEDEN||Division 1 - Södra||g_1_nwz2w24g||Lunds||Utsiktens
+2020-08-29 12:00||SWEDEN||Division 1 - Södra||g_1_pAukCvOp||Motala||Karlskrona
+2020-08-29 13:00||SWEDEN||Division 1 - Södra||g_1_ni5AqP7N||Landskrona||Assyriska IK
+2020-08-29 13:00||SWEDEN||Division 1 - Södra||g_1_IZBJpaU9||Oskarshamns||Qviding
+2020-08-29 13:00||SWEDEN||Division 1 - Södra||g_1_MqS0ykhk||Torns||Skovde AIK
+2020-08-29 12:00||SWEDEN||Division 2 - Norrland||g_1_MXX881Fq||Moron||Umea FC
+2020-08-29 12:00||SWEDEN||Division 2 - Norrland||g_1_d0DALrFP||Sandviks||Taftea IK
+2020-08-29 12:00||SWEDEN||Division 2 - Norrland||g_1_0URsDs7S||Ytterhogdals||Gottne IF
+2020-08-29 12:00||SWEDEN||Division 2 - Norra Svealand||g_1_bXcXV4Wj||Hudiksvalls||Karlbergs
+2020-08-29 12:00||SWEDEN||Division 2 - Norra Svealand||g_1_M5qSingA||Stockholm Internazionale||IFK Stocksund
+2020-08-29 13:00||SWEDEN||Division 2 - Norra Svealand||g_1_QwjJg8Oc||Kvarnsvedens||Fagersta Sodra
+2020-08-29 13:00||SWEDEN||Division 2 - Norra Svealand||g_1_nmiFfl9i||Skiljebo||Enkopings SK
+2020-08-29 14:00||SWEDEN||Division 2 - Norra Svealand||g_1_82uOhSw4||Fanna||Lidingo IFK
+2020-08-29 14:00||SWEDEN||Division 2 - Norra Svealand||g_1_EaM0yR8T||Osteraker IFK||Kungsangens
+2020-08-29 14:00||SWEDEN||Division 2 - Norra Svealand||g_1_KtaTWpHp||Upsala||Enskede
+2020-08-29 10:00||SWEDEN||Division 2 - Västra Götaland||g_1_l0upLhvF||Frolunda||Varbergs GIF
+2020-08-29 11:30||SWEDEN||Division 2 - Västra Götaland||g_1_KlFODAWl||Vinbergs||IFK Malmo
+2020-08-29 12:00||SWEDEN||Division 2 - Västra Götaland||g_1_zHwhJW8R||Bunkeflo IF||Rosengard
+2020-08-29 12:00||SWEDEN||Division 2 - Västra Götaland||g_1_SjvlKCgL||Halmia||Olympic
+2020-08-29 12:00||SWEDEN||Division 2 - Västra Götaland||g_1_xQPJEjHr||Ullareds IK||Eslovs
+2020-08-29 14:00||SWEDEN||Division 2 - Västra Götaland||g_1_YiJSCUoe||Angelholms||Onsala
+2020-08-29 11:00||SWEDEN||Division 2 - Södra Svealand||g_1_GWvnekzq||Forward||Gute
+2020-08-29 12:00||SWEDEN||Division 2 - Södra Svealand||g_1_C4qG0BCL||Tyreso||Kumla
+2020-08-29 14:00||SWEDEN||Division 2 - Södra Svealand||g_1_YDpC1icF||Assyriska IF||Atvidabergs
+2020-08-29 14:00||SWEDEN||Division 2 - Södra Svealand||g_1_lpwfgT4e||Trosa-Vagnharads||Arameisk-Syrianska
+2020-08-29 14:00||SWEDEN||Division 2 - Södra Svealand||g_1_fTYKaVRR||Varmbols||Assyriska FF
+2020-08-29 11:00||SWEDEN||Division 2 - Norra Götaland||g_1_Cfx7N2fF||Stenungsunds||Amal
+2020-08-29 12:00||SWEDEN||Division 2 - Norra Götaland||g_1_S6233s3q||Gauthiod||Vargarda IK
+2020-08-29 12:00||SWEDEN||Division 2 - Norra Götaland||g_1_2PfG0um2||Grebbestads||Tidaholm IFK
+2020-08-29 13:00||SWEDEN||Division 2 - Norra Götaland||g_1_UVn2Oru9||Nordvarmland||Lidkopings FK
+2020-08-29 13:00||SWEDEN||Division 2 - Norra Götaland||g_1_OYeC1LXe||Oddevold||Savedalens
+2020-08-29 12:00||SWEDEN||Division 2 - Östra Götaland||g_1_08xiESir||Asarums||Tord
+2020-08-29 12:00||SWEDEN||Division 2 - Östra Götaland||g_1_6mYS9D0d||Husqvarna||Nosaby IF
+2020-08-29 12:00||SWEDEN||Division 2 - Östra Götaland||g_1_vayeDn7l||IFK Hassleholm||Bromolla
+2020-08-29 13:00||SWEDEN||Division 2 - Östra Götaland||g_1_YgQEXGh3||Dalstorps||Hassleholms IF
+2020-08-29 13:00||SWEDEN||Division 2 - Östra Götaland||g_1_GIFJWz89||IFK Karlshamn||Almeboda/Linneryd
+2020-08-29 13:00||SWEDEN||Division 2 - Östra Götaland||g_1_KjMAYdwc||Rappe GOIF||Kristianstads
+2020-08-29 16:00||SWEDEN||Division 2 - Östra Götaland||g_1_EkBuxGL6||Osterlen FF||Syrianska
+2020-08-29 12:00||SWEDEN||Allsvenskan Women||g_1_ClkA51Bn||Umea W||Uppsala W
+2020-08-29 13:00||SWEDEN||Allsvenskan Women||g_1_t667h9Yj||Kristianstads W||Goteborg W
+2020-08-29 14:00||SWEDEN||Allsvenskan Women||g_1_lAx6l3yl||Orebro W||Linkopings W
+2020-08-29 11:00||SWEDEN||Elitettan Women||g_1_ObTylHIn||Sandvikens W||Kvarnsvedens W
+2020-08-29 13:00||SWEDEN||Elitettan Women||g_1_vRi5gweP||Jitex W||Lidkopings FK W
+2020-08-29 13:00||SWEDEN||Elitettan Women||g_1_CKaJVZ2I||Kalmar W||Alvsjo W
+2020-08-29 13:00||SWITZERLAND||Promotion League||g_1_tMrcdWhk||Sion II||Breitenrain
+2020-08-29 14:00||SWITZERLAND||Promotion League||g_1_xfmR1hVR||Bruhl||Rapperswil
+2020-08-29 14:00||SWITZERLAND||Promotion League||g_1_bcghcCwq||Cham||Basel II
+2020-08-29 14:00||SWITZERLAND||Promotion League||g_1_KCs1ej8e||YF Juventus||Yverdon
+2020-08-29 16:00||SWITZERLAND||Promotion League||g_1_lnn5fAN1||Etoile-Carouge||Munsingen
+2020-08-29 16:00||SWITZERLAND||Promotion League||g_1_Sxo9gUx8||Stade Nyonnais||Zurich II
+2020-08-29 14:00||SWITZERLAND||1.Liga Classic Group 1||g_1_SbbwIPxN||Bulle||La Chaux-De-Fonds
+2020-08-29 15:00||SWITZERLAND||1.Liga Classic Group 1||g_1_4KDDNT8o||Echallens||Lancy
+2020-08-29 15:30||SWITZERLAND||1.Liga Classic Group 1||g_1_xQglz7hi||Vevey||Olympique de Geneve
+2020-08-29 16:00||SWITZERLAND||1.Liga Classic Group 1||g_1_l8w43QNT||Chenois||Azzurri Lausanne
+2020-08-29 16:00||SWITZERLAND||1.Liga Classic Group 1||g_1_bJ6ML7wb||Meyrin||Terre Sainte
+2020-08-29 14:00||SWITZERLAND||1.Liga Classic Group 2||g_1_vkpD8VpC||Baden||Goldau
+2020-08-29 14:00||SWITZERLAND||1.Liga Classic Group 2||g_1_dQvI7k0I||Wohlen||Luzern II
+2020-08-29 14:00||SWITZERLAND||1.Liga Classic Group 2||g_1_zHwM69FO||Zug||Muttenz
+2020-08-29 18:00||SWITZERLAND||1.Liga Classic Group 2||g_1_ne7vPjVh||Biel||Buochs
+2020-08-29 13:00||SWITZERLAND||1.Liga Classic Group 3||g_1_Oru8NOyb||St. Gallen II||Balzers
+2020-08-29 14:00||SWITZERLAND||1.Liga Classic Group 3||g_1_2ZwCMri4||Eschen||Hongg
+2020-08-29 14:00||SWITZERLAND||1.Liga Classic Group 3||g_1_8fDts1F4||Gossau||Thalwil
+2020-08-29 14:00||SWITZERLAND||1.Liga Classic Group 3||g_1_QVNyrs0b||Red Star Zurich||Wettswil-Bonstetten
+2020-08-29 15:00||SWITZERLAND||1.Liga Classic Group 3||g_1_noCptLUA||Dietikon||Tuggen
+2020-08-29 15:00||SWITZERLAND||1.Liga Classic Group 3||g_1_hpvINCEq||Linth||Kosova
+2020-08-29 15:00||SWITZERLAND||1.Liga Classic Group 3||g_1_GKGluupH||Paradiso||Winterthur II
+2020-08-29 16:00||SWITZERLAND||Nationalliga A Women||g_1_SflRL42f||Servette Geneve FC W||Luzern W
+2020-08-29 17:00||SWITZERLAND||Nationalliga A Women||g_1_6omVKOH0||FF Lugano 1976 W||Zurich W
+2020-08-29 18:00||SWITZERLAND||Nationalliga A Women||g_1_nc4SJrX6||Grasshoppers W||Young Boys W
+2020-08-29 02:00||TAIWAN||Mulan Football League Women||g_1_hKzfxO9Q||Hualien W||Kaohsiung W
+2020-08-29 06:00||TAIWAN||Mulan Football League Women||g_1_SCRLXsIs||Taichung Blue W||Taipei Bear W
+2020-08-29 08:30||TAIWAN||Mulan Football League Women||g_1_MZQPW1Xm||New Taipei W||Taoyuan W
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_KSudRjE5||Alliance||Metalist 1925
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_nFslTCqg||Balkany||Mykolaiv
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_dS9wvUcB||Bukovyna||Uzhhorod
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_lQlIWojo||Dnipro Cherkasy||Veres-Rivne
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_txshSWba||Karpaty Halych||Nyva Ternopil
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_jk9swlDH||Metal Kharkiv||VPK-Agro
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_AHY8OlbO||MFC Metalurh||Kramatorsk
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_x4z1QATB||Mykolaivka||Yarud Mariupol
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_OKxDN8DU||Nikopol||Krystal
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_SY2NsCbn||Nova Kakhovka||Ch. Odessa
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_2Tx0eVSo||Nyva Vinnytsya||Chernihiv
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_E3t4fkrh||Peremoga Dnipro||Kremin
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_M9HQtWDh||Podillya Khmelnytskyi||Prykarpattya
+2020-08-29 15:00||UKRAINE||Ukrainian Cup||g_1_nH2jySsU||Rubikon Kyiv||Dinaz Vyshgorod
+2020-08-29 15:00||URUGUAY||Primera Division - Apertura||g_1_EVWE4w2M||Plaza Colonia||Maldonado
+2020-08-29 18:00||URUGUAY||Primera Division - Apertura||g_1_SEY66aX9||Fenix||Nacional
+2020-08-29 20:30||URUGUAY||Primera Division - Apertura||g_1_dfMJ3cHS||Montevideo City||Rentistas
+2020-08-29 00:00||USA||MLS||g_1_6TXmC0iF||Montreal Impact||Toronto FC
+2020-08-29 19:30||USA||MLS||g_1_485Bealo||Atlanta Utd||Orlando City
+2020-08-29 23:30||USA||MLS||g_1_x2BrKuW9||FC Cincinnati||Columbus Crew
+2020-08-29 23:30||USA||MLS||g_1_zoi9UbEC||New York City||Chicago Fire
+2020-08-29 23:30||USA||MLS||g_1_rmd6u45G||Philadelphia Union||DC United
+2020-08-29 00:00||USA||USL Championship||g_1_dMW0JP76||Rio Grande||San Antonio
+2020-08-29 22:30||USA||USL Championship||g_1_M3vlMRNm||Loudoun||New York Red Bulls 2
+2020-08-29 23:00||USA||USL Championship||g_1_G2a9T9VD||Charlotte Independ.||Birmingham
+2020-08-29 23:00||USA||USL Championship||g_1_0fwhLowf||North Carolina||Memphis
+2020-08-29 23:30||USA||USL Championship||g_1_IcSnWOB9||Charleston||Tampa Bay
+2020-08-29 17:00||USA||USL League One||g_1_bccUDEwb||Chattanooga Red Wolves||New England II
+2020-08-29 22:30||USA||USL League One||g_1_MuOTd1o9||Richmond Kickers||Greenville
+2020-08-29 23:00||USA||NISA - Fall Season||g_1_pp6rYvbb||New York Cosmos||Detroit
+2020-08-29 23:30||USA||NISA - Fall Season||g_1_bmAnXbD4||Chattanooga||New Amsterdam
+2020-08-29 12:00||UZBEKISTAN||Super League||g_1_GdOytd4c||Metallurg Bekabad||Mashal Muborak
+2020-08-29 14:00||UZBEKISTAN||Super League||g_1_bLDtuGJ3||Buxoro||AGMK
+2020-08-29 09:00||WORLD||Club Friendly||g_1_rPXYq8l2||Garching (Ger)||Pipinsried (Ger)
+2020-08-29 09:00||WORLD||Club Friendly||g_1_COHNNoCt||Lugano (Sui)||Chiasso (Sui)
+2020-08-29 09:00||WORLD||Club Friendly||g_1_tCkH6qJD||Osasuna (Esp)||Alaves (Esp)
+2020-08-29 10:00||WORLD||Club Friendly||g_1_0KYqkwfq||Rio Ave (Por)||Boavista (Por)
+2020-08-29 11:00||WORLD||Club Friendly||g_1_OAmyEK2D||Hoffenheim (Ger)||Mainz (Ger)
+2020-08-29 11:00||WORLD||Club Friendly||g_1_l2f00TYr||Leicester (Eng)||Sheffield Wed (Eng)
+2020-08-29 11:00||WORLD||Club Friendly||g_1_bZ09YHrk||Lotte (Ger)||TSV Havelse (Ger)
+2020-08-29 11:00||WORLD||Club Friendly||g_1_CpmOWwyf||Lyngby (Den)||F. Amager (Den)
+2020-08-29 12:00||WORLD||Club Friendly||g_1_x6BUboaJ||Aalborg (Den)||Randers FC (Den)
+2020-08-29 12:00||WORLD||Club Friendly||g_1_plStKc2b||FC Gutersloh (Ger)||Ahlen (Ger)
+2020-08-29 12:00||WORLD||Club Friendly||g_1_IT4nlj5j||Heimstetten (Ger)||Pullach (Ger)
+2020-08-29 12:00||WORLD||Club Friendly||g_1_voMOUEGG||Kilia Kiel (Ger)||Bordesholm (Ger)
+2020-08-29 12:00||WORLD||Club Friendly||g_1_CWFMKId7||Magdeburg (Ger)||Rodinghausen (Ger)
+2020-08-29 12:00||WORLD||Club Friendly||g_1_G0STtne2||Plymouth (Eng)||Forest Green (Eng)
+2020-08-29 12:00||WORLD||Club Friendly||g_1_lKihynX7||Viktoria Koln (Ger)||Dortmund II (Ger)
+2020-08-29 12:30||WORLD||Club Friendly||g_1_b7rCXyEs||Freiburg (Ger)||St. Gallen (Sui)
+2020-08-29 12:30||WORLD||Club Friendly||g_1_4Ou5462c||Northampton (Eng)||Luton (Eng)
+2020-08-29 13:00||WORLD||Club Friendly||g_1_EuEDJsmk||Crystal Palace (Eng)||Charlton (Eng)
+2020-08-29 13:00||WORLD||Club Friendly||g_1_jVb0nQVu||Hertha Berlin (Ger)||PSV (Ned)
+2020-08-29 13:00||WORLD||Club Friendly||g_1_AHtr5oPQ||Jeddeloh (Ger)||Brinkumer (Ger)
+2020-08-29 13:00||WORLD||Club Friendly||g_1_fTA6KojB||Oberhausen (Ger)||Fortuna Koln (Ger)
+2020-08-29 13:00||WORLD||Club Friendly||g_1_WbaLUoBE||Oxford Utd (Eng)||QPR (Eng)
+2020-08-29 13:00||WORLD||Club Friendly||g_1_nBPHAQJr||Rijnsburgse Boys (Ned)||Jong Volendam (Ned)
+2020-08-29 13:00||WORLD||Club Friendly||g_1_zujliL5S||Stuttgart (Ger)||Arminia Bielefeld (Ger)
+2020-08-29 13:00||WORLD||Club Friendly||g_1_YgAdU5jK||Werder Bremen (Ger)||Groningen (Ned)
+2020-08-29 14:00||WORLD||Club Friendly||g_1_rJvt2lt6||Barnsley (Eng)||Newcastle (Eng)
+2020-08-29 14:00||WORLD||Club Friendly||g_1_jNUoSKaQ||Clitheroe (Eng)||FC United (Eng)
+2020-08-29 14:00||WORLD||Club Friendly||g_1_lrSK3j6T||Delmenhorst (Ger)||Uphusen (Ger)
+2020-08-29 14:00||WORLD||Club Friendly||g_1_E3nHsVsR||Heddesheim (Ger)||Dudenhofen (Ger)
+2020-08-29 14:00||WORLD||Club Friendly||g_1_rPg4amlk||Southport (Eng)||Barrow (Eng)
+2020-08-29 14:00||WORLD||Club Friendly||g_1_GUTXWuWI||SSVg Velbert (Ger)||Wuppertaler (Ger)
+2020-08-29 14:00||WORLD||Club Friendly||g_1_YFBNtUVf||Swindon S (Eng)||Chippenham (Eng)
+2020-08-29 14:00||WORLD||Club Friendly||g_1_2stkQcX5||Tottenham (Eng)||Birmingham (Eng)
+2020-08-29 14:00||WORLD||Club Friendly||g_1_Ew5QlITp||Venlo (Ned)||Straelen (Ger)
+2020-08-29 14:00||WORLD||Club Friendly||g_1_hWYnYt2r||Wachtendonk-Wankum (Ger)||Meerbusch (Ger)
+2020-08-29 14:00||WORLD||Club Friendly||g_1_fmkRStoF||Walsall (Eng)||Burton (Eng)
+2020-08-29 14:00||WORLD||Club Friendly||g_1_SOoU1rBQ||Wealdstone (Eng)||Colchester (Eng)
+2020-08-29 15:00||WORLD||Club Friendly||g_1_27u7gzvk||Den Haag (Ned)||AZ Alkmaar (Ned)
+2020-08-29 15:00||WORLD||Club Friendly||g_1_nwSeI6bq||Hertha Berlin (Ger)||PSV (Ned)
+2020-08-29 15:00||WORLD||Club Friendly||g_1_rVY0EexK||Samsunspor (Tur)||Trabzonspor (Tur)
+2020-08-29 15:15||WORLD||Club Friendly||g_1_YHhqL1D6||Werder Bremen (Ger)||St. Pauli (Ger)
+2020-08-29 15:30||WORLD||Club Friendly||g_1_Y5xbHB0a||Aarau (Sui)||Kriens (Sui)
+2020-08-29 15:30||WORLD||Club Friendly||g_1_0YNxMLIq||TSV 1880 Wasserburg (Ger)||Burghausen (Ger)
+2020-08-29 16:00||WORLD||Club Friendly||g_1_0dxeWKWf||R. Oviedo (Esp)||Mirandes (Esp)
+2020-08-29 16:00||WORLD||Club Friendly||g_1_8bcGw3vL||Union Nettetal (Ger)||Friesdorf (Ger)
+2020-08-29 16:30||WORLD||Club Friendly||g_1_QPY01Hke||Grasshoppers (Sui)||Luzern (Sui)
+2020-08-29 16:30||WORLD||Club Friendly||g_1_C4TkSMpO||Sheffield Utd (Eng)||Sion (Sui)
+2020-08-29 17:00||WORLD||Club Friendly||g_1_MN2nunz4||Ajax (Ned)||Eintracht Frankfurt (Ger)
+2020-08-29 18:00||WORLD||Club Friendly||g_1_GGx2QMiC||Levante (Esp)||Valencia (Esp)
+2020-08-29 20:00||WORLD||Club Friendly||g_1_jJrn45F5||Mallorca (Esp)||Tenerife (Esp)
